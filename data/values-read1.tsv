@@ -1,0 +1,225 @@
+key	essence	cost	availability	street_index	legality	read1_crop
+ct:chemical-analyzer	.2	2,500¥/level	4/6 days	1	Legal	p95_0
+ct:chipjack	.2	1,000¥	3/72 hrs	.9	Legal	p95_0
+ct:kink-bomb	—	28,000¥	12/14 days	1.5	2-CC	p95_0
+ct:microbomb	—	65,500¥	18/48 hrs	1.25	2-CC	p95_0
+ct:area-bomb	—	500,000¥	20/14 days	1	2-CC	p95_0
+ct:data-filter	.3	5,000¥	6/36 hrs	1.5	Legal	p95_0
+ct:datajack-sr	.2	1,000¥	Always	.9	Legal	p95_0
+ct:datajack-st-1	.1	500¥	Always	.9	Legal	p95_0
+ct:datajack-st-2	.15	1,000¥	Always	.9	Legal	p95_0
+ct:datajack-st-3	.2	2,000¥	Always	.9	Legal	p95_0
+ct:datajack-st-4	.25	4,000¥	Always	.9	Legal	p95_0
+ct:data-lock	.2	1,000¥	6/36 hrs	1.5	Legal	p95_1
+ct:datasoft-link	.1	1,000¥	3/24 hrs	1	Legal	p95_1
+ct:encephalon-1	.5	15,000¥	6/12 days	2	Legal	p95_1
+ct:encephalon-2	.75	40,000¥	6/12 days	2	Legal	p95_1
+ct:encephalon-3	1.5	75,000¥	6/12 days	2	Legal	p95_1
+ct:encephalon-4	1.75	115,000¥	6/12 days	2	Legal	p95_1
+ct:gas-spectrometer	.2	2,000¥/level	4/5 days	1	Legal	p95_1
+ct:internal-voice-mask	.1	7,000¥	6/48 hrs	1	6-CA	p95_1
+ct:memory	Mp ÷ 100	Mp x 100¥	2/24 hrs	1	Legal	p95_1
+ct:memory-fiff	Mp ÷ 300	Mp x 150¥	3/24 hrs	.8	Legal	p95_1
+ct:olfactory-booster	.2	1,000¥/level	6/8 days	1	Legal	p95_1
+ct:orientation-system	.5	15,000¥	5/6 days	1.5	Legal	p95_1
+ct:sense-link	2	300,000¥	2/5 days	1	10P-CA	p95_1
+ct:sense-link-transmitter	.6	80,000¥	3/5 days	1.5	8P-CA	p95_1
+ct:softlink-1	.15	1,000¥	3/72 hrs	.9	Legal	p95_1
+ct:softlink-2	.2	2,000¥	3/72 hrs	.9	Legal	p95_1
+ct:softlink-3	.25	4,000¥	3/72 hrs	.9	Legal	p95_1
+ct:softlink-4	.3	8,000¥	3/72 hrs	.9	Legal	p95_1
+ct:spu-data-1	.1	9,500¥	6/60 hrs	1	Legal	p95_1
+ct:spu-data-2	.15	19,000¥	6/60 hrs	1	Legal	p95_2
+ct:spu-data-3	.2	28,500¥	6/60 hrs	1	Legal	p95_2
+ct:spu-data-4	.25	38,000¥	6/60 hrs	1	Legal	p95_2
+ct:spu-io-1	.1	5,000¥	5/4 days	1.5	Legal	p95_2
+ct:spu-io-2	.15	7,500¥	5/4 days	1.5	Legal	p95_2
+ct:spu-io-3	.2	12,500¥	5/4 days	1.5	Legal	p95_2
+ct:spu-io-4	.25	22,500¥	5/4 days	1.5	Legal	p95_2
+ct:spu-math-1	.1	2,000¥	6/60 hrs	1	Legal	p95_2
+ct:spu-math-2	.15	5,000¥	6/60 hrs	1	Legal	p95_2
+ct:spu-math-3	.2	11,000¥	6/60 hrs	1	Legal	p95_2
+ct:spu-math-4	.25	23,000¥	6/60 hrs	1	Legal	p95_2
+ct:tactical-computer-1	3.5	350,000¥	12/60 days	4	4-CB	p95_2
+ct:tactical-computer-2	4	900,000¥	12/60 days	4	4-CC	p95_2
+ct:tactical-computer-3-4	(See text)		CLASSIFIED		2-CC	p95_2
+ct:video-link	.5	22,000¥	4/48 hrs	1	Legal	p96_0
+ct:video-link-transmitter	.4	4,500¥	6/48 hrs	1	Legal	p96_0
+ct:commlink-2	.3	8,000¥	2/48 hrs	1	Legal	p96_0
+ct:commlink-4	.3	18,000¥	3/48 hrs	1.25	Legal	p96_0
+ct:commlink-8	.3	40,000¥	4/48 hrs	1.5	Legal	p96_0
+ct:commlink-10	.3	60,000¥	5/48 hrs	1.75	Legal	p96_0
+ct:crypto-circuit-1-4	.1	Level x 10,000¥	6/36 hrs	1	4P-CA	p96_0
+ct:crypto-circuit-5-7	.1	Level x 20,000¥	6/36 hrs	1.25	4P-CA	p96_0
+ct:crypto-circuit-8-9	.1	Level x 30,000¥	8/36 hrs	1.5	3P-CA	p96_0
+ct:crypto-circuit-10	.1	500,000¥	9/36 hrs	2	3P-CA	p96_0
+ct:cybercomm-link	.4	62,000¥	8/2 weeks	3	5-CB	p96_0
+ct:radio	.75	4,000¥	2/24 hrs	.8	Legal	p96_0
+ct:radio-receiver	.4	2,000¥	2/24 hrs	.8	Legal	p96_0
+ct:scramble-breaker-1-4	.2	Level x 20,000¥	6/48 hrs	1.5	3-CB	p96_1
+ct:scramble-breaker-5-7	.2	Level x 40,000¥	8/48 hrs	1.75	3-CB	p96_1
+ct:scramble-breaker-8	.2	600,000¥	10/48 hrs	1.75	3-CB	p96_1
+ct:subdermal-speakers	.1	650¥	4/72 hrs	2	Legal	p96_1
+ct:subvocal-mic-external	—	500¥	3/48 hrs	1.25	Legal	p96_1
+ct:subvocal-mic-internal	.1	850¥	4/72 hrs	2	Legal	p96_1
+ct:telephone	.5	3,700¥	3/24 hrs	.9	Legal	p96_1
+ct:ear-balance-augmentor	.4	14,000¥	8/2 weeks	2	Legal	p96_1
+ct:ear-cosmetic-modification	—	1,000¥	2/24 hrs	.8	Legal	p96_1
+ct:ear-cyber-replacement	.3	4,000¥	2/24 hrs	.75	Legal	p96_1
+ct:ear-damper	.1	3,500¥	4/48 hrs	1.25	Legal	p96_1
+ct:ear-hearing-amplification	.2	3,500¥	4/48 hrs	1.25	Legal	p96_1
+ct:ear-high-frequency	.2	3,000¥	4/48 hrs	1.25	Legal	p96_1
+ct:ear-low-frequency	.2	3,000¥	4/48 hrs	1.25	Legal	p96_1
+ct:ear-modification	.1	2,000¥	2/24 hrs	1	Legal	p96_1
+ct:ear-recorder	.3	7,000¥	8/48 hrs	2	12P-CA	p96_1
+ct:ear-select-sound-filter	.2	Level x 10,000¥	6/48 hrs	1.25	Legal	p96_1
+ct:ear-spatial-recognizer	.2	1,200¥	4/48 hrs	2	Legal	p96_1
+ct:eye-camera	.4	5,000¥	6/24 hrs	2	Legal	p96_2
+ct:eye-cosmetic-modification	—	1,000¥	2/24 hrs	.75	Legal	p96_2
+ct:eye-cyber-replacement	.2	5,000¥	2/24 hrs	.75	Legal	p96_2
+ct:eye-display-link	.1	1,000¥	4/36 hrs	1	Legal	p96_2
+ct:eye-smartcam	2	10,000¥	6/4 days	2	Legal	p96_2
+ct:eye-opticam	.5	20,000¥	5/72 hrs	2	Legal	p96_2
+ct:eye-flare-compensation	.1	2,000¥	5/48 hrs	1.25	Legal	p96_2
+ct:eye-image-link	.2	1,600¥	4/48 hrs	2	Legal	p96_2
+ct:eye-low-light	.2	3,000¥	4/36 hrs	1.25	Legal	p96_2
+ct:eye-protective-covers	—	500¥	4/48 hrs	1.5	Legal	p96_2
+ct:eye-rangefinder	.1	2,000¥	8/48 hrs	1.5	Legal	p96_2
+ct:eye-retinal-clock	.1	450¥	3/24 hrs	1	Legal	p96_2
+ct:eye-retinal-duplication	.1	50,000¥+	12/7 days	2	3-CA	p96_2
+ct:eye-thermographic	.2	3,000¥	4/36 hrs	1.25	Legal	p96_2
+ct:eye-vision-mag-optical-1	.2	2,500¥	4/48 hrs	1	Legal	p96_2
+ct:eye-vision-mag-optical-2	.2	4,000¥	4/48 hrs	1	Legal	p96_2
+ct:eye-vision-mag-optical-3	.2	6,000¥	5/48 hrs	1	Legal	p97_0
+ct:eye-vision-mag-electronic-1	.1	3,500¥	5/48 hrs	1	Legal	p97_0
+ct:eye-vision-mag-electronic-2	.1	7,500¥	5/48 hrs	1	Legal	p97_0
+ct:eye-vision-mag-electronic-3	.1	11,000¥	8/48 hrs	1	Legal	p97_0
+ct:eye-dataport	.25	2,200¥	6/48 hrs	2	4U-CD	p97_0
+ct:optical-scanning-datajack	.3	5,500¥	8/72 hrs	3	3U-CD	p97_0
+ct:optical-scanning-emitter	—	2,500¥ [PRINTED IN AVAIL COLUMN]	8/2 weeks [PRINTED IN COST COLUMN]	2	3U-CD	p97_0
+ct:laser-designator	.5	12,000¥	12/1 month	3	5P-CC	p97_0
+ct:laser-tracker	.2	3,200¥	8/72 hrs	2	4P-CC	p97_0
+ct:tool-laser	.25	5,200¥	8/1 week	2	Legal	p97_0
+ct:eye-light-system	.2	1,200¥	4/72 hrs	1.5	Legal	p97_1
+ct:brightlight	.4	1,200¥	8/2 weeks	3	7I-CB	p97_1
+ct:brightlight-flashpak	—	+1,000¥	8/2 weeks	3	7I-CB	p97_1
+ct:brightlight-oneshot	—	+500¥	8/2 weeks	3	7I-CB	p97_1
+ct:eye-dart	.25	4,200¥	8/2 weeks	2	7P-CC	p97_1
+ct:eye-gun	.4	6,400¥	6/1 week	3	7P-CC	p97_1
+ct:oral-dart	.25	3,600¥	6/1 weeks	2	6P-CC	p97_1
+ct:oral-gun	.4	5,600¥	6/72 hrs	3	6P-CC	p97_1
+ct:oral-spur	.25	8,200¥	6/72 hrs	2.5	6P-CC	p97_1
+ct:oral-whip	.25	10,500¥	8/1 week	2.5	6P-CC	p97_1
+ct:tooth-breakable	—	700¥	3/48 hrs	1.5	10P-CB	p97_1
+ct:tooth-storage	—	1,500¥	2/48 hrs	1.25	Legal	p97_1
+ct:mx-hardening	.3	See Shadowtech	Varies/8 days	Varies	4-CD	p97_1
+ct:mx-memory-storage	Mp ÷ 300	Mp x 150¥	3/24 hrs	.8	Legal	p97_1
+ct:mx-mpcp	(Rating/10) + .1	(Rating^3) x 200¥	12/60 days	4	4-CD	p97_1
+ct:mx-persona-module	.3	See Shadowtech	Varies/12 days	Varies	4-CD	p97_1
+ct:mx-response	.2	See Shadowtech	Varies/14 days	Varies	4-CD	p97_2
+ct:mx-transfer	.1	See Shadowtech	Varies/10 days	Varies	4-CD	p97_2
+ct:automatic-medication	—	15,000¥/refill	NA	NA	NA [ROW HAS EXTRA COLUMN: 3P-CC]	p97_2
+ct:body-plating-soft	—	10,000¥/level	12/2 weeks	2	6P-CA	p97_2
+ct:body-plating-hard	—	25,000¥/level	14/3 weeks	2	5P-CA	p97_2
+ct:bone-lacing-plastic	.5	7,500¥	5/14 days	1.5	6P-CA	p97_2
+ct:bone-lacing-aluminum	1.15	25,000¥	5/14 days	1.5	6P-CB	p97_2
+ct:bone-lacing-titanium	2.25	75,000¥	5/14 days	1.5	6-CC	p97_2
+ct:cybertorso	1.5	120,000¥	6/4 days	1	Legal	p97_2
+ct:cyberskull	.75	75,000¥	6/4 days	1	Legal	p97_2
+ct:cybersquirt	—	1,400¥	8/6 days	2	4P-CC	p97_2
+ct:fingertip-compartment	.1	3,000¥	3/24 hrs	1	Legal	p97_2
+ct:fingertip-datajack		Per standard datajack				p97_2
+ct:fingertip-expertpicks	—	18,000¥	8/2 weeks	3	6P-CC	p97_2
+ct:fingertip-needle	—	800¥	4/72 hrs	1.5	6P-CB	p98_2
+ct:hand-blade	.1	7,500¥	6/5 days	1.5	4P-CC	p98_2
+ct:hand-blade-retractable	.25	10,000¥	6/5 days	1.5	3P-CC	p98_2
+ct:hand-razors	.1	4,500¥	3/72 hrs	1	3-B	p98_2
+ct:hydraulic-jack	.25	Level x 5,000¥	5/6 days	1	Legal	p98_2
+ct:induction-datajack	.3	3,000¥	5/4 days	2	Legal	p98_2
+ct:invoked-memory-stimulator	.25	137,750¥	NA	NA	3P-CC	p98_2
+ct:internal-air-tank	.25	1,200¥	4/5 days	1.5	Legal	p98_2
+ct:muscle-replacement	Rating	Rating x 20,000¥	4/4 days	1	5P-CB	p98_2
+ct:retractable-razors	.2	9,000¥	5/72 hrs	1	3-B	p98_2
+ct:retractable-spur	.3	11,500¥	5/72 hrs	1	3-B	p98_2
+ct:shock-hand	—	1,300¥	6/4 days	2	4P-CC	p98_2
+ct:smartcam-link	.5	2,500¥	4/48 hrs	2	Legal	p98_2
+ct:smartlink-1	.5	2,500¥	3/36 hrs	1	5P-CA	p98_2
+ct:smartlink-2	.5	3,200¥	6/48 hrs	2	5P-CA	p98_2
+ct:spur	.1	7,000¥	3/72 hrs	1	3-B	p99_0
+ct:voice-modulator	.2	45,000¥	2/24 hrs	1	Legal	p99_0
+ct:voice-mod-increased-volume	—	10,000¥	2/24 hrs	1	Legal	p99_0
+ct:voice-mod-playback	.2	40,000¥	4/48 hrs	1	Legal	p99_0
+ct:voice-mod-secondary-pattern	—	50,000¥	6/7 days	2	Legal	p99_0
+ct:voice-mod-tonal-shift	—	25,000¥	2/24 hrs	1	Legal	p99_0
+ct:built-in-device	—	4 x Normal Cost	Varies	Varies	Varies	p99_0
+ct:built-in-smartgun-link	.25	2,500¥	6/4 days	1.5	5P-CA	p99_0
+ct:cyberarm-gyromount	1.5	260,000¥	10/21 days	2	4P-CC	p99_0
+ct:direct-neural-interface	.1	4,500¥	4/6 days	1	5P-CC	p99_0
+ct:cyberarm-cyberdeck	—	See text	See text	NA	6P-CD	p99_0
+ct:cyberarm-taser	—	2,000¥	6/4 days	1.5	5P-CC	p99_0
+ct:cybergun-holdout	—	250¥	8/7 days	2	8P-CB + E	p99_1
+ct:cybergun-light-pistol	—	650¥	8/7 days	2	6P-CB + E	p99_1
+ct:cybergun-machine-pistol	—	900¥	8/7 days	2	4-CB + G	p99_1
+ct:cybergun-smg	—	1,800¥	8/7 days	2	3-CB + G	p99_1
+ct:cybergun-heavy-pistol	—	800¥	8/7 days	2	4P-CB + E	p99_1
+ct:cybergun-shotgun	—	1,200¥	8/7 days	2	4P-CB + E	p99_1
+ct:cyberarm-leg	1	100,000¥	4/4 days	1	Legal	p99_1
+ct:cyberhand-foot	.35	45,000¥	3/4 days	1	Legal	p99_1
+ct:cyber-forearm-lower-leg	.65	70,000¥	4/4 days	1	Legal	p99_1
+ct:semi-natural-covering	—	+10%	Same as limb	1	Legal	p99_1
+ct:foot-anchor	.4	14,000¥	6/7 days	2	Legal	p99_1
+ct:increased-strength	—	Level x 150,000¥	6/4 days	1.5	6P-CA	p99_1
+ct:magnetic-cyberlimb-system	—	2,800¥	6/7 days	2	Legal	p99_1
+ct:replacement-hand	—	28,000¥	12/14 days	2	6I-CA	p99_1
+ct:simple-replacement	1	50,000¥	4/48 hrs	1	Legal	p99_1
+ct:body-enhancement	—	75,000¥/point	6/4 days	1.5	6P-CB	p99_1
+ct:quickness-enhancement-1-3	—	90,000¥/point	8/4 days	1.5	6P-CB	p99_1
+ct:quickness-enhancement-4plus	.3/point	110,000¥/point	8/4 days	1.5	6P-CB	p99_1
+ct:strength-enhancement-1-3	—	150,000¥/point	6/4 days	1.5	6P-CB	p99_2
+ct:strength-enhancement-4plus	.4/point	175,000¥/point	6/4 days	1.5	6P-CB	p99_2
+ct:move-by-wire-1	2.5	250,000¥	8/10 days	2.5	3P-CC	p99_2
+ct:move-by-wire-2	3.85	500,000¥	12/20 days	3	3P-CC	p99_2
+ct:move-by-wire-3	5.2	1,250,000¥	18/30 days	3	3P-CC	p99_2
+ct:move-by-wire-4	6.45	3,000,000¥	20/45 days	3.5	3P-CC	p99_2
+ct:simrig-baseline-cyberware	2	300,000¥	8/12 days	3	Legal	p99_2
+ct:simrig-full-x	2	500,000¥	6/12 days	3	Legal	p99_2
+ct:simrig-baseline-induction	2	50,000¥	6/4 days	2	Legal	p99_2
+ct:simlink-internal	.6 + (Rating x .05)	70k¥ + (10k¥ x Rating)	8/7 days	3	Legal	p99_2
+ct:boosted-reflexes-1	.5	15,000¥	3/24 hrs	1	8P-CB	p99_2
+ct:boosted-reflexes-2	1.25	40,000¥	3/24 hrs	1.25	6P-CB	p100_0
+ct:boosted-reflexes-3	2.8	90,000¥	3/24 hrs	1.5	5P-CB	p100_0
+ct:dermal-plating-1	.5	6,000¥	4/12 days	1	6P-CA	p100_0
+ct:dermal-plating-2	1	15,000¥	4/12 days	1	6P-CA	p100_0
+ct:dermal-plating-3	1.5	45,000¥	4/12 days	1	5P-CA	p100_0
+ct:dermal-sheath-1	.7	24,000¥	6/14 days	1.5	6P-CA	p100_0
+ct:dermal-sheath-2	1.4	60,000¥	6/14 days	1.5	6P-CA	p100_0
+ct:dermal-sheath-3	2.1	120,000¥	8/14 days	1.5	5P-CA	p100_0
+ct:dermal-sheath-coloration	—	+50%	+2/+4 days	+.25	Legal	p100_0
+ct:dermal-sheath-cyber-controller	.1	32,000¥	8/14 days	1.5	6P-CA	p100_0
+ct:filtration-air	Rating ÷ 10	Rating x 15,000¥	6/4 days	1	Legal	p100_1
+ct:filtration-blood	Rating ÷ 5	Rating x 10,000¥	6/4 days	1	Legal	p100_1
+ct:filtration-ingested-toxin	Rating ÷ 5	Rating x 10,000¥	6/4 days	1	Legal	p100_1
+ct:skill-hardwires-1-4	Level x .2	Level x 5,000¥	6/10 days	1	Legal	p100_1
+ct:skill-hardwires-5-8	Level x .25	Level x 50,000¥	12/14 days	1.5	6P-CB	p100_1
+ct:skill-hardwires-9-10	Level x .3	Level x 500,000¥	12/14 days	1.5	4P-CB	p100_1
+ct:skillwires-1-3	.1 x Rating	Rating x 10,000¥	4/10 days	1	Legal	p100_1
+ct:skillwires-4-6	.2 x Rating	Rating x 100,000¥	5/10 days	1	6P-CB	p100_1
+ct:skillwires-7-9	.3 x Rating	Rating x 1,000,000¥	12/20 days	1	4P-CB	p100_1
+ct:skillwire-plus-1-3	Level x .1	Level x 15,000¥	4/10 days	1	Legal	p100_1
+ct:skillwire-plus-4-6	Level x .2	Level x 125,000¥	5/10 days	1	6P-CB	p100_1
+ct:skillwire-plus-7-9	Level x .3	Level x 1,000,000¥	12/20 days	1	4P-CB	p100_1
+ct:vcr-1	2	12,000¥	6/48 hrs	1	6P-CA	p100_1
+ct:vcr-2	3	60,000¥	8/48 hrs	1.25	6P-CA	p100_1
+ct:vcr-3	5	300,000¥	8/48 hrs	1.5	5P-CA	p100_1
+ct:wired-reflexes-1	2	55,000¥	4/8 days	1	5P-CB	p100_1
+ct:wired-reflexes-2	3	165,000¥	4/8 days	1	4P-CB	p100_2
+ct:wired-reflexes-3	5	500,000¥	8/14 days	1	3-CC	p100_2
+ct:reaction-enhancer	.3/point	60,000¥	6/7 days	2	6P-CC	p100_2
+ct:reflex-trigger	+.2	+13,000¥	As wired reflexes	As wired reflexes	4P-CB	p100_2
+ct:articulate-arm	.25	110,000¥	12/24 days	2	2P-CC	p100_2
+ct:external-mount	—	3,200¥	6/4 days	2	3P-CC	p100_2
+ct:tracking-mount	—	24,000¥	8/7 days	2	3P-CC	p100_2
+ct:activesoft		Mp x 100¥	6/4 days	1.25	Legal	p100_2
+ct:datasoft		Mp x 100¥*	4/4 days	1.25	Legal	p100_2
+ct:knowsoft		Mp x 150¥	5/4 days	1.25	Legal	p100_2
+ct:linguasoft		Mp x 50¥	6/36 hrs	1.25	Legal	p100_2

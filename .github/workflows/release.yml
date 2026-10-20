@@ -1,0 +1,133 @@
+# GitHub Actions workflow for releasing the Cybertechnology content module.
+#
+# USAGE:
+#   1. Bump "version" in module.json
+#   2. Tag and push: git tag v0.4.0 && git push origin v0.4.0
+#   3. The workflow validates packs-src, (re)builds packs from it, then publishes
+#      a GitHub Release with module.json (URLs baked in) and the installable zip.
+#
+# FoundryVTT installation URL (paste into Foundry's module installer):
+#   https://github.com/futurekill/sr2e-cybertechnology/releases/latest/download/module.json
+#
+# NOTE: module.json in the repo deliberately has no manifest/download/url — the
+# release step below bakes them in from the tag, so they can never go stale.
+
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+env:
+  MODULE_ID: sr2e-cybertechnology
+  REPO: futurekill/sr2e-cybertechnology
+
+jobs:
+  release:
+    name: Build & Release
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Extract version from tag
+        id: version
+        run: |
+          TAG="${GITHUB_REF_NAME}"
+          echo "version=${TAG#v}" >> "$GITHUB_OUTPUT"
+          echo "tag=${TAG}" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Node
+        uses: actions/setup-node@v5
+        with:
+          node-version: "22"
+
+      # packs/ is gitignored (a LevelDB build artifact), so the zip's compendia
+      # only exist if we build them here. Validate first: a bad pack should fail
+      # the release, not ship.
+      - name: Validate, install & build packs
+        run: |
+          npm install --no-audit --no-fund
+          npm run validate
+          npm run build-packs
+          ls -1 packs/
+
+      # Fail loudly if the tag and module.json disagree — otherwise Foundry would
+      # advertise one version and install another.
+      - name: Check tag matches module.json
+        run: |
+          MANIFEST_VER=$(jq -r '.version' module.json)
+          TAG_VER="${{ steps.version.outputs.version }}"
+          if [ "$MANIFEST_VER" != "$TAG_VER" ]; then
+            echo "::error::module.json says $MANIFEST_VER but the tag says $TAG_VER"
+            exit 1
+          fi
+          echo "✅ version $TAG_VER matches"
+
+      - name: Update module.json
+        run: |
+          VERSION="${{ steps.version.outputs.version }}"
+          TAG="${{ steps.version.outputs.tag }}"
+          jq \
+            --arg ver "$VERSION" \
+            --arg manifest "https://github.com/${{ env.REPO }}/releases/latest/download/module.json" \
+            --arg download "https://github.com/${{ env.REPO }}/releases/download/${TAG}/${{ env.MODULE_ID }}.zip" \
+            --arg url "https://github.com/${{ env.REPO }}" \
+            --arg bugs "https://github.com/${{ env.REPO }}/issues" \
+            --arg changelog "https://github.com/${{ env.REPO }}/releases/tag/${TAG}" \
+            '.version = $ver | .manifest = $manifest | .download = $download
+             | .url = $url | .bugs = $bugs | .changelog = $changelog' \
+            module.json > module.json.tmp && mv module.json.tmp module.json
+          jq '{version, manifest, download}' module.json
+
+      - name: Package module zip
+        run: |
+          mkdir -p staging/${{ env.MODULE_ID }}
+          rsync -avm \
+            --exclude='.git' --exclude='.github' --exclude='staging' \
+            --exclude='.DS_Store' \
+            --exclude='node_modules' --exclude='.gitignore' --exclude='*.md' \
+            --exclude='docs' --exclude='package.json' --exclude='package-lock.json' \
+            --exclude='packs-src' --exclude='tools' --exclude='_work' \
+            ./ staging/${{ env.MODULE_ID }}/
+          cd staging && zip -r ../${{ env.MODULE_ID }}.zip ${{ env.MODULE_ID }}/ && cd ..
+          unzip -l ${{ env.MODULE_ID }}.zip | head -20
+
+      # Release notes come from this version's CHANGELOG section ("## X.Y.Z …"),
+      # not the tag commit's message — a release commit has no body, which is how
+      # releases went out with empty notes. A missing or empty section FAILS the
+      # release: every release has notes.
+      - name: Extract release notes from CHANGELOG.md
+        id: notes
+        run: |
+          VER="${{ steps.version.outputs.version }}"
+          HEAD=$(grep -m1 -E "^## v?${VER//./\\.}([^0-9.]|$)" CHANGELOG.md || true)
+          if [ -z "$HEAD" ]; then echo "::error::CHANGELOG.md has no '## ${VER}' section"; exit 1; fi
+          awk -v h="$HEAD" '$0==h {on=1; next} on && /^## / {exit} on {print}' CHANGELOG.md \
+            | sed -e '/./,$!d' > /tmp/release_notes.txt
+          if ! grep -q '[^[:space:]]' /tmp/release_notes.txt; then echo "::error::the ${VER} section of CHANGELOG.md is empty"; exit 1; fi
+          TITLE=$(printf '%s' "$HEAD" | sed -E 's/^## v?[0-9.]+ *(—|-)? *//')
+          echo "subject=v${VER}${TITLE:+ — ${TITLE}}" >> "$GITHUB_OUTPUT"
+          cat /tmp/release_notes.txt
+
+      - name: Create GitHub Release
+        uses: ncipollo/release-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          tag: ${{ steps.version.outputs.tag }}
+          name: "${{ steps.notes.outputs.subject }}"
+          bodyFile: /tmp/release_notes.txt
+          artifacts: |
+            module.json
+            ${{ env.MODULE_ID }}.zip
+          artifactContentType: application/zip
+          # Idempotent: create the release if missing, or update it (and replace
+          # its assets) if the tag was already pushed — so re-running is safe.
+          allowUpdates: true
+          replacesArtifacts: true
+          prerelease: ${{ contains(steps.version.outputs.version, 'alpha') || contains(steps.version.outputs.version, 'beta') || contains(steps.version.outputs.version, 'rc') }}
+          draft: false

@@ -1,0 +1,225 @@
+key	page	section	entry	level	crop
+ct:chemical-analyzer	94	Headware	Chemical Analyzer		p95_0
+ct:chipjack	94	Headware	Chipjack		p95_0
+ct:kink-bomb	94	Headware	Cranial Bombs: Kink Bomb		p95_0
+ct:microbomb	94	Headware	Cranial Bombs: Microbomb		p95_0
+ct:area-bomb	94	Headware	Cranial Bombs: Area Bomb		p95_0
+ct:data-filter	94	Headware	Data Filter		p95_0
+ct:datajack-sr	94	Headware	Datajack (SR rules)		p95_0
+ct:datajack-st-1	94	Headware	Datajack (Shadowtech)	1	p95_0
+ct:datajack-st-2	94	Headware	Datajack (Shadowtech)	2	p95_0
+ct:datajack-st-3	94	Headware	Datajack (Shadowtech)	3	p95_0
+ct:datajack-st-4	94	Headware	Datajack (Shadowtech)	4	p95_0
+ct:data-lock	94	Headware	Data Lock		p95_1
+ct:datasoft-link	94	Headware	Datasoft Link		p95_1
+ct:encephalon-1	94	Headware	Encephalon	1	p95_1
+ct:encephalon-2	94	Headware	Encephalon	2	p95_1
+ct:encephalon-3	94	Headware	Encephalon	3	p95_1
+ct:encephalon-4	94	Headware	Encephalon	4	p95_1
+ct:gas-spectrometer	94	Headware	Gas Spectrometer		p95_1
+ct:internal-voice-mask	94	Headware	Internal Voice Mask		p95_1
+ct:memory	94	Headware	Memory		p95_1
+ct:memory-fiff	94	Headware	Memory (FIFF)		p95_1
+ct:olfactory-booster	94	Headware	Olfactory Booster		p95_1
+ct:orientation-system	94	Headware	Orientation System		p95_1
+ct:sense-link	94	Headware	Sense Link		p95_1
+ct:sense-link-transmitter	94	Headware	Sense Link: Internal Transmitter		p95_1
+ct:softlink-1	94	Headware	Softlink	1	p95_1
+ct:softlink-2	94	Headware	Softlink	2	p95_1
+ct:softlink-3	94	Headware	Softlink	3	p95_1
+ct:softlink-4	94	Headware	Softlink	4	p95_1
+ct:spu-data-1	94	Headware	SPU: Data Management	1	p95_1
+ct:spu-data-2	94	Headware	SPU: Data Management	2	p95_2
+ct:spu-data-3	94	Headware	SPU: Data Management	3	p95_2
+ct:spu-data-4	94	Headware	SPU: Data Management	4	p95_2
+ct:spu-io-1	94	Headware	SPU: Input/Output	1	p95_2
+ct:spu-io-2	94	Headware	SPU: Input/Output	2	p95_2
+ct:spu-io-3	94	Headware	SPU: Input/Output	3	p95_2
+ct:spu-io-4	94	Headware	SPU: Input/Output	4	p95_2
+ct:spu-math-1	94	Headware	SPU: Math	1	p95_2
+ct:spu-math-2	94	Headware	SPU: Math	2	p95_2
+ct:spu-math-3	94	Headware	SPU: Math	3	p95_2
+ct:spu-math-4	94	Headware	SPU: Math	4	p95_2
+ct:tactical-computer-1	94	Headware	Tactical Computer	1	p95_2
+ct:tactical-computer-2	94	Headware	Tactical Computer	2	p95_2
+ct:tactical-computer-3-4	94	Headware	Tactical Computer	3-4	p95_2
+ct:video-link	95	Headware	Video Link		p96_0
+ct:video-link-transmitter	95	Headware	Video Link: Internal Transmitter		p96_0
+ct:commlink-2	95	Communications	Commlink II		p96_0
+ct:commlink-4	95	Communications	Commlink IV		p96_0
+ct:commlink-8	95	Communications	Commlink VIII		p96_0
+ct:commlink-10	95	Communications	Commlink X		p96_0
+ct:crypto-circuit-1-4	95	Communications	Crypto Circuit HD	1-4	p96_0
+ct:crypto-circuit-5-7	95	Communications	Crypto Circuit HD	5-7	p96_0
+ct:crypto-circuit-8-9	95	Communications	Crypto Circuit HD	8-9	p96_0
+ct:crypto-circuit-10	95	Communications	Crypto Circuit HD	10	p96_0
+ct:cybercomm-link	95	Communications	Cybercomm Link		p96_0
+ct:radio	95	Communications	Radio		p96_0
+ct:radio-receiver	95	Communications	Radio Receiver		p96_0
+ct:scramble-breaker-1-4	95	Communications	Scramble Breaker HD	1-4	p96_1
+ct:scramble-breaker-5-7	95	Communications	Scramble Breaker HD	5-7	p96_1
+ct:scramble-breaker-8	95	Communications	Scramble Breaker HD	8	p96_1
+ct:subdermal-speakers	95	Communications	Subdermal Speakers		p96_1
+ct:subvocal-mic-external	95	Communications	Subvocal Microphones: External		p96_1
+ct:subvocal-mic-internal	95	Communications	Subvocal Microphones: Internal		p96_1
+ct:telephone	95	Communications	Telephone		p96_1
+ct:ear-balance-augmentor	95	Ears	Balance Augmentor		p96_1
+ct:ear-cosmetic-modification	95	Ears	Cosmetic Modification		p96_1
+ct:ear-cyber-replacement	95	Ears	Cyber Replacement		p96_1
+ct:ear-damper	95	Ears	Damper		p96_1
+ct:ear-hearing-amplification	95	Ears	Hearing Amplification		p96_1
+ct:ear-high-frequency	95	Ears	High Frequency		p96_1
+ct:ear-low-frequency	95	Ears	Low Frequency		p96_1
+ct:ear-modification	95	Ears	Modification		p96_1
+ct:ear-recorder	95	Ears	Recorder		p96_1
+ct:ear-select-sound-filter	95	Ears	Select Sound Filter	1-5	p96_1
+ct:ear-spatial-recognizer	95	Ears	Spatial Recognizer		p96_1
+ct:eye-camera	95	Eyes	Camera		p96_2
+ct:eye-cosmetic-modification	95	Eyes	Cosmetic Modification		p96_2
+ct:eye-cyber-replacement	95	Eyes	Cyber Replacement		p96_2
+ct:eye-display-link	95	Eyes	Display Link		p96_2
+ct:eye-smartcam	95	Eyes	Dr. Spott Smartcam Implant		p96_2
+ct:eye-opticam	95	Eyes	Eyecrafters Opticam Package		p96_2
+ct:eye-flare-compensation	95	Eyes	Flare Compensation		p96_2
+ct:eye-image-link	95	Eyes	Image Link		p96_2
+ct:eye-low-light	95	Eyes	Low-Light		p96_2
+ct:eye-protective-covers	95	Eyes	Protective Covers		p96_2
+ct:eye-rangefinder	95	Eyes	Rangefinder		p96_2
+ct:eye-retinal-clock	95	Eyes	Retinal Clock		p96_2
+ct:eye-retinal-duplication	95	Eyes	Retinal Duplication (illegal)		p96_2
+ct:eye-thermographic	95	Eyes	Thermographic		p96_2
+ct:eye-vision-mag-optical-1	95	Eyes	Vision Magnification: Optical 1		p96_2
+ct:eye-vision-mag-optical-2	95	Eyes	Vision Magnification: Optical 2		p96_2
+ct:eye-vision-mag-optical-3	96	Eyes	Vision Magnification: Optical 3		p97_0
+ct:eye-vision-mag-electronic-1	96	Eyes	Vision Magnification: Electronic 1		p97_0
+ct:eye-vision-mag-electronic-2	96	Eyes	Vision Magnification: Electronic 2		p97_0
+ct:eye-vision-mag-electronic-3	96	Eyes	Vision Magnification: Electronic 3		p97_0
+ct:eye-dataport	96	Eye Datajacks	Eye Dataport		p97_0
+ct:optical-scanning-datajack	96	Eye Datajacks	Optical Scanning Datajack		p97_0
+ct:optical-scanning-emitter	96	Eye Datajacks	Optical Scanning Datajack Emitter (Concealability 10)		p97_0
+ct:laser-designator	96	Eye Laser Systems	Laser Designator (range 4,000 m)		p97_0
+ct:laser-tracker	96	Eye Laser Systems	Laser Tracker (range 400 m)		p97_0
+ct:tool-laser	96	Eye Laser Systems	Tool Laser (range 4 m)		p97_0
+ct:eye-light-system	96	Eye Light Systems	Eye Light Systems		p97_1
+ct:brightlight	96	Eye Light Systems	BrightLight Addition		p97_1
+ct:brightlight-flashpak	96	Eye Light Systems	BrightLight: w/ Flash-pak		p97_1
+ct:brightlight-oneshot	96	Eye Light Systems	BrightLight: each One Shot Flash-pak		p97_1
+ct:eye-dart	96	Eye Weapons	Eye Dart		p97_1
+ct:eye-gun	96	Eye Weapons	Eye Gun		p97_1
+ct:oral-dart	96	Oral Weapons	Oral Dart		p97_1
+ct:oral-gun	96	Oral Weapons	Oral Gun		p97_1
+ct:oral-spur	96	Oral Weapons	Oral Spur		p97_1
+ct:oral-whip	96	Oral Weapons	Oral Whip		p97_1
+ct:tooth-breakable	96	Tooth Compartment	Tooth Compartment: Breakable		p97_1
+ct:tooth-storage	96	Tooth Compartment	Tooth Compartment: Storage		p97_1
+ct:mx-hardening	96	Matrixware	Hardening		p97_1
+ct:mx-memory-storage	96	Matrixware	Memory/Storage		p97_1
+ct:mx-mpcp	96	Matrixware	MPCP		p97_1
+ct:mx-persona-module	96	Matrixware	Persona Module		p97_1
+ct:mx-response	96	Matrixware	Response		p97_2
+ct:mx-transfer	96	Matrixware	Transfer		p97_2
+ct:automatic-medication	96	Bodyware	Automatic-Medication System		p97_2
+ct:body-plating-soft	96	Bodyware	Body Plating: Soft Armor		p97_2
+ct:body-plating-hard	96	Bodyware	Body Plating: Hard Armor		p97_2
+ct:bone-lacing-plastic	96	Bodyware	Bone Lacing: Plastic		p97_2
+ct:bone-lacing-aluminum	96	Bodyware	Bone Lacing: Aluminum		p97_2
+ct:bone-lacing-titanium	96	Bodyware	Bone Lacing: Titanium		p97_2
+ct:cybertorso	96	Bodyware	Cybertorso		p97_2
+ct:cyberskull	96	Bodyware	Cyberskull		p97_2
+ct:cybersquirt	96	Bodyware	CyberSquirt		p97_2
+ct:fingertip-compartment	96	Bodyware	Fingertip Compartment		p97_2
+ct:fingertip-datajack	96	Bodyware	Fingertip Datajack		p97_2
+ct:fingertip-expertpicks	96	Bodyware	Fingertip ExpertPicks		p97_2
+ct:fingertip-needle	97	Bodyware	Fingertip Needle		p98_2
+ct:hand-blade	97	Bodyware	Hand Blade		p98_2
+ct:hand-blade-retractable	97	Bodyware	Hand Blade: Retractable		p98_2
+ct:hand-razors	97	Bodyware	Hand Razors		p98_2
+ct:hydraulic-jack	97	Bodyware	Hydraulic Jack	1-6	p98_2
+ct:induction-datajack	97	Bodyware	Induction Datajack		p98_2
+ct:invoked-memory-stimulator	97	Bodyware	Invoked Memory Stimulator		p98_2
+ct:internal-air-tank	97	Bodyware	Internal Air Tank		p98_2
+ct:muscle-replacement	97	Bodyware	Muscle Replacement (Maximum Rating 4)	1-4	p98_2
+ct:retractable-razors	97	Bodyware	Retractable Razors		p98_2
+ct:retractable-spur	97	Bodyware	Retractable Spur		p98_2
+ct:shock-hand	97	Bodyware	Shock Hand		p98_2
+ct:smartcam-link	97	Bodyware	Smartcam Link		p98_2
+ct:smartlink-1	97	Bodyware	Smartlink (Lvl I)		p98_2
+ct:smartlink-2	97	Bodyware	Smartlink (Lvl II)		p98_2
+ct:spur	98	Bodyware	Spur		p99_0
+ct:voice-modulator	98	Bodyware	Voice Modulator		p99_0
+ct:voice-mod-increased-volume	98	Bodyware	Voice Modulator: Increased Volume		p99_0
+ct:voice-mod-playback	98	Bodyware	Voice Modulator: Playback		p99_0
+ct:voice-mod-secondary-pattern	98	Bodyware	Voice Modulator: Secondary Pattern		p99_0
+ct:voice-mod-tonal-shift	98	Bodyware	Voice Modulator: Tonal Shift		p99_0
+ct:built-in-device	98	Limbs	Built-In Device		p99_0
+ct:built-in-smartgun-link	98	Limbs	Built-In Smartgun Link		p99_0
+ct:cyberarm-gyromount	98	Limbs	Cyberarm Gyromount		p99_0
+ct:direct-neural-interface	98	Limbs	Cyberarm Gyromount: Direct Neural Interface		p99_0
+ct:cyberarm-cyberdeck	98	Limbs	Cyberarm Cyberdeck		p99_0
+ct:cyberarm-taser	98	Limbs	Cyberarm Taser		p99_0
+ct:cybergun-holdout	98	Limbs	Cyber Guns: Hold-Out Pistol		p99_1
+ct:cybergun-light-pistol	98	Limbs	Cyber Guns: Light Pistol		p99_1
+ct:cybergun-machine-pistol	98	Limbs	Cyber Guns: Machine Pistol		p99_1
+ct:cybergun-smg	98	Limbs	Cyber Guns: Submachine Gun		p99_1
+ct:cybergun-heavy-pistol	98	Limbs	Cyber Guns: Heavy Pistol		p99_1
+ct:cybergun-shotgun	98	Limbs	Cyber Guns: Shotgun		p99_1
+ct:cyberarm-leg	98	Limbs	Cyber Limbs: Cyberarm/Leg		p99_1
+ct:cyberhand-foot	98	Limbs	Cyber Limbs: Cyberhand/Foot		p99_1
+ct:cyber-forearm-lower-leg	98	Limbs	Cyber Limbs: Cyber Forearm/Lower Leg		p99_1
+ct:semi-natural-covering	98	Limbs	Cyber Limbs: Semi-natural Covering		p99_1
+ct:foot-anchor	98	Limbs	Foot Anchor		p99_1
+ct:increased-strength	98	Limbs	Increased Strength		p99_1
+ct:magnetic-cyberlimb-system	98	Limbs	Magnetic Cyberlimb System (per cyberlimb)		p99_1
+ct:replacement-hand	98	Limbs	Replacement Hand		p99_1
+ct:simple-replacement	98	Limbs	Simple Replacement		p99_1
+ct:body-enhancement	98	Limb Enhancements	Body Enhancement		p99_1
+ct:quickness-enhancement-1-3	98	Limb Enhancements	Quickness Enhancement	1-3 points (per limb)	p99_1
+ct:quickness-enhancement-4plus	98	Limb Enhancements	Quickness Enhancement	4+ points (per limb)	p99_1
+ct:strength-enhancement-1-3	98	Limb Enhancements	Strength Enhancement	1-3 points (per limb)	p99_2
+ct:strength-enhancement-4plus	98	Limb Enhancements	Strength Enhancement	4+ points (per limb)	p99_2
+ct:move-by-wire-1	98	Move-by-Wire System	Move-by-Wire System	1	p99_2
+ct:move-by-wire-2	98	Move-by-Wire System	Move-by-Wire System	2	p99_2
+ct:move-by-wire-3	98	Move-by-Wire System	Move-by-Wire System	3	p99_2
+ct:move-by-wire-4	98	Move-by-Wire System	Move-by-Wire System	4	p99_2
+ct:simrig-baseline-cyberware	98	Simrigs	Baseline Cyberware Simrig		p99_2
+ct:simrig-full-x	98	Simrigs	Full-X Cyberware Simrig		p99_2
+ct:simrig-baseline-induction	98	Simrigs	Baseline Induction Simrig		p99_2
+ct:simlink-internal	98	Simlinks	Internal Simlink	1-10	p99_2
+ct:boosted-reflexes-1	98	Boosted Reflexes	Boosted Reflexes	1	p99_2
+ct:boosted-reflexes-2	99	Boosted Reflexes	Boosted Reflexes	2	p100_0
+ct:boosted-reflexes-3	99	Boosted Reflexes	Boosted Reflexes	3	p100_0
+ct:dermal-plating-1	99	Dermal Plating	Dermal Plating	1	p100_0
+ct:dermal-plating-2	99	Dermal Plating	Dermal Plating	2	p100_0
+ct:dermal-plating-3	99	Dermal Plating	Dermal Plating	3	p100_0
+ct:dermal-sheath-1	99	Dermal Sheath	Dermal Sheath	1	p100_0
+ct:dermal-sheath-2	99	Dermal Sheath	Dermal Sheath	2	p100_0
+ct:dermal-sheath-3	99	Dermal Sheath	Dermal Sheath	3	p100_0
+ct:dermal-sheath-coloration	99	Dermal Sheath	Dermal Sheath: Coloration Adaptation		p100_0
+ct:dermal-sheath-cyber-controller	99	Dermal Sheath	Dermal Sheath: Cyber Controller		p100_0
+ct:filtration-air	99	Filtration Systems	Filtration: Air	1-?	p100_1
+ct:filtration-blood	99	Filtration Systems	Filtration: Blood	1-?	p100_1
+ct:filtration-ingested-toxin	99	Filtration Systems	Filtration: Ingested Toxin	1-?	p100_1
+ct:skill-hardwires-1-4	99	Skill Hardwires	Skill Hardwires	1-4	p100_1
+ct:skill-hardwires-5-8	99	Skill Hardwires	Skill Hardwires	5-8	p100_1
+ct:skill-hardwires-9-10	99	Skill Hardwires	Skill Hardwires	9-10	p100_1
+ct:skillwires-1-3	99	Skillwires	Skillwires	1-3	p100_1
+ct:skillwires-4-6	99	Skillwires	Skillwires	4-6	p100_1
+ct:skillwires-7-9	99	Skillwires	Skillwires	7-9	p100_1
+ct:skillwire-plus-1-3	99	Skillwire Plus	Skillwire Plus	1-3	p100_1
+ct:skillwire-plus-4-6	99	Skillwire Plus	Skillwire Plus	4-6	p100_1
+ct:skillwire-plus-7-9	99	Skillwire Plus	Skillwire Plus	7-9	p100_1
+ct:vcr-1	99	Vehicle Control Rig	Vehicle Control Rig	1	p100_1
+ct:vcr-2	99	Vehicle Control Rig	Vehicle Control Rig	2	p100_1
+ct:vcr-3	99	Vehicle Control Rig	Vehicle Control Rig	3	p100_1
+ct:wired-reflexes-1	99	Wired Reflex Systems	Standard Wired Reflexes	1	p100_1
+ct:wired-reflexes-2	99	Wired Reflex Systems	Standard Wired Reflexes	2	p100_2
+ct:wired-reflexes-3	99	Wired Reflex Systems	Standard Wired Reflexes	3	p100_2
+ct:reaction-enhancer	99	Wired Reflex Systems	Reaction Enhancer		p100_2
+ct:reflex-trigger	99	Wired Reflex Systems	Reflex Trigger		p100_2
+ct:articulate-arm	99	Weapon Mounts	Articulate Arm		p100_2
+ct:external-mount	99	Weapon Mounts	External Mount		p100_2
+ct:tracking-mount	99	Weapon Mounts	Tracking Mount		p100_2
+ct:activesoft	99	Skillsofts	Activesoft (Concealability 24)		p100_2
+ct:datasoft	99	Skillsofts	Datasoft (Concealability 24)		p100_2
+ct:knowsoft	99	Skillsofts	Knowsoft (Concealability 24)		p100_2
+ct:linguasoft	99	Skillsofts	Linguasoft (Concealability 24)		p100_2

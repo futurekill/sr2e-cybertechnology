@@ -1,0 +1,121 @@
+{
+  "id": "sr2e-cybertechnology",
+  "title": "Shadowrun 2E: Cybertechnology",
+  "description": "Cyberware, cyberlimbs, implant weapons, consumables and the Chrome Kings from Cybertechnology (FASA 7119) as compendia for the Shadowrun 2nd Edition system. Requires sr2e 0.109.0 or later.",
+  "version": "0.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "sr2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "0.109.0"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "James Candalino"
+    }
+  ],
+  "packs": [
+    {
+      "name": "ct-headware",
+      "label": "Cybertechnology Headware",
+      "path": "packs/ct-headware",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ct-matrixware",
+      "label": "Cybertechnology Matrix & Rigging",
+      "path": "packs/ct-matrixware",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ct-bodyware",
+      "label": "Cybertechnology Bodyware",
+      "path": "packs/ct-bodyware",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ct-cyberlimbs",
+      "label": "Cybertechnology Cyberlimbs",
+      "path": "packs/ct-cyberlimbs",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ct-weapons",
+      "label": "Cybertechnology Implant Weapons",
+      "path": "packs/ct-weapons",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ct-gear",
+      "label": "Cybertechnology Gear & Services",
+      "path": "packs/ct-gear",
+      "type": "Item",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "ct-chrome-kings",
+      "label": "Chrome Kings",
+      "path": "packs/ct-chrome-kings",
+      "type": "Actor",
+      "system": "sr2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Cybertechnology",
+      "sorting": "m",
+      "packs": [
+        "ct-headware",
+        "ct-matrixware",
+        "ct-bodyware",
+        "ct-cyberlimbs",
+        "ct-weapons",
+        "ct-gear",
+        "ct-chrome-kings"
+      ]
+    }
+  ],
+  "flags": {}
+}
