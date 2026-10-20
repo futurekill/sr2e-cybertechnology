@@ -1,0 +1,64 @@
+{
+  "_id": "206b4be0267820e3",
+  "name": "Hand Blade",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0.1,
+    "rating": 1,
+    "cost": 7500,
+    "availability": "6/5 days",
+    "streetIndex": "1.5",
+    "legality": "4P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Damage (STR+3)L. Essence Cost only applies if mounted in a normal hand. No edge toward your own hand. (Cybertechnology, table p.97, p.36.)",
+    "isWeapon": true,
+    "weaponType": "melee",
+    "skill": "unarmed_combat",
+    "damageCode": "(Str+3)L",
+    "damageType": "physical",
+    "reach": 0
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 97
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!206b4be0267820e3"
+}

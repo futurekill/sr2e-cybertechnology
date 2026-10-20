@@ -1,0 +1,46 @@
+{
+  "_id": "09afb3d3d7d8e2ad",
+  "name": "Optical Scanning Datajack Emitter",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "misc",
+    "rating": 1,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 2500,
+    "availability": "8/2 weeks",
+    "legality": "3U-CD",
+    "equipped": false,
+    "concealability": 10,
+    "streetIndex": 2,
+    "notes": "Carried emitter; stick it on a data-out port and look at it. Ruling: Ship the description-page values: Cost 2,500¥, Availability 8/2 weeks, Street Index 2 (the master table's swapped columns are a misprint). Ruling: Ship the description-page values: Cost 2,500¥, Availability 8/2 weeks, Street Index 2 (the master table's swapped columns are a misprint). (Cybertechnology, table p.96, p.20.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!09afb3d3d7d8e2ad"
+}

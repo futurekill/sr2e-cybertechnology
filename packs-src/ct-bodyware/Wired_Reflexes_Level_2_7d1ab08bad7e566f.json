@@ -1,0 +1,59 @@
+{
+  "_id": "7d1ab08bad7e566f",
+  "name": "Wired Reflexes (Level 2)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 3,
+    "rating": 1,
+    "cost": 165000,
+    "availability": "4/8 days",
+    "streetIndex": "1",
+    "legality": "4P-CB",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 4,
+      "initiativeDice": 2
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "(Cybertechnology, table p.99.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 99
+      },
+      "rule": "wired-reflexes:2"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7d1ab08bad7e566f"
+}

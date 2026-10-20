@@ -1,0 +1,69 @@
+{
+  "_id": "018e9ecef690a4f0",
+  "name": "CyberSquirt",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "",
+    "damageType": "physical",
+    "concealability": 0,
+    "reach": 0,
+    "firingModes": {
+      "ss": true,
+      "sa": false,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 10,
+      "max": 10,
+      "type": ""
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 5,
+      "medium": 10,
+      "long": 15,
+      "extreme": 20
+    },
+    "strengthMin": 0,
+    "weight": 0,
+    "cost": 0,
+    "availability": "",
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "streetIndex": 1,
+    "notes": "An Ares Squirt as a cyberweapon: chemical/biological agents in DMSO gel; 10 rounds, gel for 20 shots. Porous armor no protection; rigid armor (over 5, or plated) half (round up). DMSO: Shadowtech p.92. RANGES: the Ares Squirt's (SSC); confirm against SSC before relying on them. Implant weapon: pair with the cybersquirt cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.36.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 36
+      },
+      "pairedWare": "ct:cybersquirt"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!018e9ecef690a4f0"
+}

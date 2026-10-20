@@ -1,0 +1,60 @@
+{
+  "_id": "b7c7bb564a1c3716",
+  "name": "Built-In Device (Cyberlimb)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "Varies",
+    "streetIndex": "Varies",
+    "legality": "Varies",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Price as printed: see text (the GM sets it). (Cybertechnology, table p.98.)",
+    "limbOption": true,
+    "costMultiplierOfBase": 4
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b7c7bb564a1c3716"
+}

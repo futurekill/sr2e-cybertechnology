@@ -1,0 +1,59 @@
+{
+  "_id": "1076bdd5fa97cf90",
+  "name": "Oral Gun",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.4,
+    "rating": 1,
+    "cost": 5600,
+    "availability": "6/72 hrs",
+    "streetIndex": "3",
+    "legality": "6P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Treat as a hold-out pistol with four shots total. Reloading takes one minute per shot. Ammo costs triple. Special Skill or Quickness for the Ranged Combat Test. No aim enhancers. (Cybertechnology, table p.96, p.25.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "pairedWeapon": "ct:w-oral-gun"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!1076bdd5fa97cf90"
+}

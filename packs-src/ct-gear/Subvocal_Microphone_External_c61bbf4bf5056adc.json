@@ -1,0 +1,46 @@
+{
+  "_id": "c61bbf4bf5056adc",
+  "name": "Subvocal Microphone (External)",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "misc",
+    "rating": 1,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 500,
+    "availability": "3/48 hrs",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 0,
+    "streetIndex": 1.25,
+    "notes": "Straps to the throat. +4 TN to Perception Tests to overhear conversations using it. Connects to an external radio by fiber-optic cable. (Cybertechnology, table p.95, p.18.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 95
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!c61bbf4bf5056adc"
+}

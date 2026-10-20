@@ -1,0 +1,89 @@
+{
+  "_id": "48414ddb2d90faf5",
+  "name": "Tactical Computer",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 3.5,
+    "rating": 1,
+    "cost": 350000,
+    "availability": "12/60 days",
+    "streetIndex": "4",
+    "legality": "4-CB",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 3.5,
+        "cost": 350000,
+        "availability": "12/60 days",
+        "streetIndex": 4
+      },
+      {
+        "rating": 2,
+        "essenceCost": 4,
+        "cost": 900000,
+        "availability": "12/60 days",
+        "streetIndex": 4
+      },
+      {
+        "rating": 3,
+        "essenceCost": 4.5,
+        "cost": 0,
+        "availability": "CLASSIFIED",
+        "streetIndex": ""
+      },
+      {
+        "rating": 4,
+        "essenceCost": 5,
+        "cost": 0,
+        "availability": "CLASSIFIED",
+        "streetIndex": ""
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Cyberarm versions work like the cranial versions (Shadowtech pp.53 and 63). Ruling: Ship Levels 3 (4.5 Essence) and 4 (5 Essence) as printed (Estimated), 0¥, notes: CLASSIFIED — the GM sets price, availability and Street Index. (Cybertechnology, table p.94, p.34.)",
+    "isTacticalComputer": true
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 94
+      },
+      "rule": "tactical-computer"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!48414ddb2d90faf5"
+}

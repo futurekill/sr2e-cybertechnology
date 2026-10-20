@@ -1,0 +1,64 @@
+{
+  "_id": "868de7ca2496e7d8",
+  "name": "Foot Anchor",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0.4,
+    "rating": 1,
+    "cost": 14000,
+    "availability": "6/7 days",
+    "streetIndex": "2",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Foot spur through the heel. As a weapon: (STR−1)M. As an anchor: can't penetrate Barrier Rating above 8 (most pavement). Each foot anchored adds up to 50 kg to what the character can hold or hang on to; each Barrier point below 8 reduces that by 5 kg (Dangling and Holding, Cyberware Rules p.51). A natural foot can take one with extra ankle/shin work. (Cybertechnology, table p.98, p.34.)",
+    "isWeapon": true,
+    "weaponType": "melee",
+    "skill": "unarmed_combat",
+    "damageCode": "(Str-1)M",
+    "damageType": "physical",
+    "reach": 0
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!868de7ca2496e7d8"
+}

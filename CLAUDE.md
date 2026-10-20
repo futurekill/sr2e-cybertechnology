@@ -11,8 +11,12 @@ The approved plans live in the system repo: `sr2e-foundryvtt/docs/PLAN-cybertech
   The PDF page is the book page + 1. Read renders only; never OCR, never memory.
 - `data/inventory.tsv`: every source entry (independent pass, never generated from
   values).
-- `data/ct-items.tsv`: the ONE place values are typed. Master table (p.93–99) values
-  win; description-page disagreements go to `docs/COVERAGE.md` for the user.
+- `data/master-table.tsv`: the verified master-table values (two independent reads).
+  `data/descriptions.tsv`: description-page notes/extras/discrepancies.
+  `data/rulings.tsv`: the user's rulings on printed conflicts.
+  `data/items.mjs`: what ships and its mechanics (values come from the TSVs by capture
+  key, never retyped). `npm run generate` writes packs-src; `npm run validate` checks
+  coverage and writes `docs/COVERAGE.md`.
 - `data/ids.json`: capture key → document id. Never change an existing id.
 
 ## User rules

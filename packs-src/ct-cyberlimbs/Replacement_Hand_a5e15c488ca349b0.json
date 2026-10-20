@@ -1,0 +1,59 @@
+{
+  "_id": "a5e15c488ca349b0",
+  "name": "Replacement Hand",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 28000,
+    "availability": "12/14 days",
+    "streetIndex": "2",
+    "legality": "6I-CA",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Attaching/removing takes a free hand and a Complex Action. Tool and gear/weapon hands at +30% of the item's cost; a weapon built into a replacement hand takes +1 TN on Combat Tests. (Cybertechnology, table p.98, p.34.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      },
+      "rule": "limb:hand"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a5e15c488ca349b0"
+}

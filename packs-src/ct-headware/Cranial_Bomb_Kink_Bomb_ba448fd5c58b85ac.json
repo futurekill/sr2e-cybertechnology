@@ -1,0 +1,59 @@
+{
+  "_id": "ba448fd5c58b85ac",
+  "name": "Cranial Bomb: Kink Bomb",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 28000,
+    "availability": "12/14 days",
+    "streetIndex": "1.5",
+    "legality": "2-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Placed near the cortex it kills instantly; near headware memory it destroys that memory. If built to, kills the bearer. At the GM's discretion a permanent physiological effect (blindness, stuttering…). Remote, timed or voice-triggered detonation. Can be implanted near any expensive cyberware, often in cyberlimbs. (Cybertechnology, table p.94, p.27, p.47.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 94
+      },
+      "rule": "cranial-bomb"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ba448fd5c58b85ac"
+}

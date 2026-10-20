@@ -1,0 +1,67 @@
+{
+  "_id": "09f502715bf8112c",
+  "name": "Move-by-Wire System (Level 1)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 2.5,
+    "rating": 1,
+    "cost": 250000,
+    "availability": "8/10 days",
+    "streetIndex": "2.5",
+    "legality": "3P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 1,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 2,
+      "initiativeDice": 1
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "+1 Quickness, +2 Reaction, +1D6 Initiative, +1 die for Athletics and Stealth tests. Not compatible with any other Reaction/Initiative-enhancing cyber- or bioware. Complications: Cyberware Rules pp.54–55. (Cybertechnology, table p.98, p.39.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      },
+      "rule": "move-by-wire:1",
+      "provisional": {
+        "rule": "move-by-wire",
+        "fields": {
+          "attributeMods.quickness": 1,
+          "attributeMods.reaction": 2,
+          "attributeMods.initiativeDice": 1
+        }
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!09f502715bf8112c"
+}

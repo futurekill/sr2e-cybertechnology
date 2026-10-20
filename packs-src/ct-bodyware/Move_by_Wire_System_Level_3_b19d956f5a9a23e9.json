@@ -1,0 +1,67 @@
+{
+  "_id": "b19d956f5a9a23e9",
+  "name": "Move-by-Wire System (Level 3)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 5.2,
+    "rating": 1,
+    "cost": 1250000,
+    "availability": "18/30 days",
+    "streetIndex": "3",
+    "legality": "3P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 3,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 6,
+      "initiativeDice": 3
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "+3 Quickness, +6 Reaction, +3D6 Initiative, +3 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      },
+      "rule": "move-by-wire:3",
+      "provisional": {
+        "rule": "move-by-wire",
+        "fields": {
+          "attributeMods.quickness": 3,
+          "attributeMods.reaction": 6,
+          "attributeMods.initiativeDice": 3
+        }
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b19d956f5a9a23e9"
+}

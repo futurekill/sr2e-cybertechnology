@@ -1,0 +1,129 @@
+{
+  "_id": "740245b6f7ad6716",
+  "name": "Headware Memory (FIFF)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.1,
+    "rating": 30,
+    "cost": 4500,
+    "availability": "3/24 hrs",
+    "streetIndex": "0.8",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 30,
+        "essenceCost": 0.1,
+        "cost": 4500,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 60,
+        "essenceCost": 0.2,
+        "cost": 9000,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 90,
+        "essenceCost": 0.3,
+        "cost": 13500,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 120,
+        "essenceCost": 0.4,
+        "cost": 18000,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 150,
+        "essenceCost": 0.5,
+        "cost": 22500,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 180,
+        "essenceCost": 0.6,
+        "cost": 27000,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 210,
+        "essenceCost": 0.7,
+        "cost": 31500,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 240,
+        "essenceCost": 0.8,
+        "cost": 36000,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 270,
+        "essenceCost": 0.9,
+        "cost": 40500,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      },
+      {
+        "rating": 300,
+        "essenceCost": 1,
+        "cost": 45000,
+        "availability": "3/24 hrs",
+        "streetIndex": 0.8
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Rating = memory in Mp. (Cybertechnology, table p.94.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 94
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!740245b6f7ad6716"
+}

@@ -1,0 +1,59 @@
+{
+  "_id": "a3c6d19af545c440",
+  "name": "Eye Tool Laser",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.25,
+    "rating": 1,
+    "cost": 5200,
+    "availability": "8/1 week",
+    "streetIndex": "2",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Damage 4L. As a weapon: Combat Test with Quickness or a Special Skill, base TN 4, +1 per meter (or part) beyond 1; Power −1 to 2 m, −2 to 4 m. Won't penetrate reflective metals or silvered glass; cuts mirrored plastics. Eye lasers and light systems run on batteries carried on the person (GM adjudicates recharging). (Cybertechnology, table p.96, p.23, p.46.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "pairedWeapon": "ct:w-tool-laser"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a3c6d19af545c440"
+}

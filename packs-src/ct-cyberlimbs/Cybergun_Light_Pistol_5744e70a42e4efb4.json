@@ -1,0 +1,60 @@
+{
+  "_id": "5744e70a42e4efb4",
+  "name": "Cybergun (Light Pistol)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 650,
+    "availability": "8/7 days",
+    "streetIndex": "2",
+    "legality": "6P-CB + E",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Cyberguns in a cyberlimb cost no Essence; in a natural limb or other body part, 0.35 Essence (Cybergun Essence Costs, p.52). Further rules: Street Samurai Catalog 2nd ed. p.86. Fichetti cybergun: fires through a port at the base of the palm; internal ammo, reloadable. *Concealability is the chance of noticing the firing port after a shot; observed firing is obvious; heavy or full-auto cyberguns are always obvious. (Cybertechnology, table p.98, p.52, SSC p.86.)",
+    "limbOption": true
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      },
+      "pairedWeapon": "ct:w-cybergun-light-pistol"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5744e70a42e4efb4"
+}

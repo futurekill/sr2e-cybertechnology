@@ -1,0 +1,59 @@
+{
+  "_id": "0c136ee98018d026",
+  "name": "External Mount",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 3200,
+    "availability": "6/4 days",
+    "streetIndex": "2",
+    "legality": "3P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Cyberarm hardpoint with a cybernetic connection to a mounted weapon (cybergun equivalents, smartgun-capable). Attaching/detaching: Complex Action. Light, heavy or machine pistols and SMGs; double the weapon's cost. External 50-round pods, one at a time. At 4x price it retracts into a cyberarm with a Body enhancement of at least +1. (Cybertechnology, table p.99, p.40.)",
+    "limbOption": true
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 99
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0c136ee98018d026"
+}

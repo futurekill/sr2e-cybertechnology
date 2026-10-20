@@ -1,0 +1,59 @@
+{
+  "_id": "85c9a547aa6fe5bc",
+  "name": "Automatic-Medication System",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 0,
+    "availability": "NA",
+    "streetIndex": "NA",
+    "legality": "3P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Implanted in every cybermancy operation; installation costs nothing. Medicine refills 15,000¥ each, every 10 days; if it runs out, the character dies immediately. A sponsoring corp may discount refills 1D6 × 5%, or pay for them. (Phase 6 automates the schedule as GM prompts.) Price as printed: see text (the GM sets it). (Cybertechnology, table p.96, p.80.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "rule": "auto-medication"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!85c9a547aa6fe5bc"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "b6d740d5f7e54bcc",
+  "name": "BrightLight One-Shot Flash-pak",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "misc",
+    "rating": 1,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 500,
+    "availability": "8/2 weeks",
+    "legality": "7I-CB",
+    "equipped": false,
+    "concealability": 0,
+    "streetIndex": 3,
+    "notes": "One-shot overload flash; replace after use. High-powered one-shot: battery and bulb replaced after every use (10¥ each, or six for 50¥). Affects targets directly in front; no Combat Test: each target resists Serious Stun against TN 12 − meters away; + visual-test TN equal to boxes taken, fading 1 per minute; GM-optional opposed Reaction test if facing is disputed. Visible 3 km; seeps through a building floor (Blast in a Confined Space, SRII p.97, Power 12 −1/m). Each use: 2D6, on 2–3 the user is blinded and must replace the cybereyes. Priced as an addition to the BrightLight system. (Cybertechnology, table p.96, p.21, p.46.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b6d740d5f7e54bcc"
+}

@@ -1,0 +1,46 @@
+{
+  "_id": "6b124dbb15b3b5ed",
+  "name": "BrightLight Flash-pak",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "misc",
+    "rating": 1,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 1000,
+    "availability": "8/2 weeks",
+    "legality": "7I-CB",
+    "equipped": false,
+    "concealability": 0,
+    "streetIndex": 3,
+    "notes": "Reusable flash, works like a flash-pak. Reusable flash: as a flash-pak (SSC p.45): +4 TN to opponents' ranged attacks (+2 with flare compensation), −1 per 5 m of distance; negates poor/absent lighting; the strobe gives the user +2 to all TNs. Three flashes per battery; a replacement battery is 150¥ and takes 10 minutes. Priced as an addition to the BrightLight system. (Cybertechnology, table p.96, p.21, p.46.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!6b124dbb15b3b5ed"
+}

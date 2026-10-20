@@ -1,0 +1,69 @@
+{
+  "_id": "a1c01d4fcdc6953a",
+  "name": "Eye Tool Laser",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "4L",
+    "damageType": "physical",
+    "concealability": 0,
+    "reach": 0,
+    "firingModes": {
+      "ss": true,
+      "sa": false,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 0,
+      "max": 0,
+      "type": ""
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 1,
+      "medium": 2,
+      "long": 3,
+      "extreme": 4
+    },
+    "strengthMin": 0,
+    "weight": 0,
+    "cost": 0,
+    "availability": "",
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "streetIndex": 1,
+    "notes": "Damage 4L. Quickness or a Special Skill; base TN 4, +1 per meter (or part) beyond 1; Power −1 to 2 m, −2 to 4 m (applied by hand). Won't penetrate reflective metals or silvered glass. Implant weapon: pair with the tool-laser cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.23.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 23
+      },
+      "pairedWare": "ct:tool-laser"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a1c01d4fcdc6953a"
+}

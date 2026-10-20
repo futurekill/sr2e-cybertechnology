@@ -1,0 +1,59 @@
+{
+  "_id": "db4b34d56b5fe4ff",
+  "name": "Eye Dart",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.25,
+    "rating": 1,
+    "cost": 4200,
+    "availability": "8/2 weeks",
+    "streetIndex": "2",
+    "legality": "7P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Fires half-strength (round up) Narcoject/toxin rounds as a hold-out pistol with one-half range (round down). One shot per reload; reloading takes 10 Combat Turns. Rounds cost 4x normal. Firing requires a Special Skill or Quickness Test. Can't use aim enhancers. Narcoject SSC p.62; toxins SRII p.186; compounds Shadowtech p.90, 92, 97. After firing: +2 to all visual tests for (4 − unaugmented Body) Combat Turns, min 1. Orbital capacity: Cyberware Rules p.45. (Cybertechnology, table p.96, p.22.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "pairedWeapon": "ct:w-eye-dart"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!db4b34d56b5fe4ff"
+}

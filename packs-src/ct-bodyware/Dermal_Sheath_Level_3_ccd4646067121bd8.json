@@ -1,0 +1,60 @@
+{
+  "_id": "ccd4646067121bd8",
+  "name": "Dermal Sheath (Level 3)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 2.1,
+    "rating": 1,
+    "cost": 120000,
+    "availability": "8/14 days",
+    "streetIndex": "1.5",
+    "legality": "5P-CA",
+    "installed": true,
+    "attributeMods": {
+      "body": 4,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Body +(level+1); Impact Armor ½ level rounded up. (Cybertechnology, table p.99, p.28.)",
+    "armorImpact": 2
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 99
+      },
+      "rule": "dermal-sheath"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ccd4646067121bd8"
+}

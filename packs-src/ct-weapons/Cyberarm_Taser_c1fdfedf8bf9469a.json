@@ -1,0 +1,69 @@
+{
+  "_id": "c1fdfedf8bf9469a",
+  "name": "Cyberarm Taser",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "10S",
+    "damageType": "stun",
+    "concealability": 0,
+    "reach": 0,
+    "firingModes": {
+      "ss": false,
+      "sa": true,
+      "bf": false,
+      "fa": false
+    },
+    "ammo": {
+      "current": 2,
+      "max": 2,
+      "type": "taser"
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 5,
+      "medium": 10,
+      "long": 12,
+      "extreme": 15
+    },
+    "strengthMin": 0,
+    "weight": 0,
+    "cost": 0,
+    "availability": "",
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "streetIndex": 1,
+    "notes": "Works like a taser pistol: 10S Stun, the standard taser's ranges (SRII p.103; the system's Defiance Super Shock), two shots before recharging. Implant weapon: pair with the cyberarm-taser cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.36.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 36
+      },
+      "pairedWare": "ct:cyberarm-taser"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!c1fdfedf8bf9469a"
+}

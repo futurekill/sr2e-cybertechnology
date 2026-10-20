@@ -1,0 +1,115 @@
+{
+  "_id": "ba35beabd41162b8",
+  "name": "Scramble Breaker HD",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.2,
+    "rating": 1,
+    "cost": 20000,
+    "availability": "6/48 hrs",
+    "streetIndex": "1.5",
+    "legality": "3-CB",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.2,
+        "cost": 20000,
+        "availability": "6/48 hrs",
+        "streetIndex": 1.5
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.2,
+        "cost": 40000,
+        "availability": "6/48 hrs",
+        "streetIndex": 1.5
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.2,
+        "cost": 60000,
+        "availability": "6/48 hrs",
+        "streetIndex": 1.5
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.2,
+        "cost": 80000,
+        "availability": "6/48 hrs",
+        "streetIndex": 1.5
+      },
+      {
+        "rating": 5,
+        "essenceCost": 0.2,
+        "cost": 200000,
+        "availability": "8/48 hrs",
+        "streetIndex": 1.75
+      },
+      {
+        "rating": 6,
+        "essenceCost": 0.2,
+        "cost": 240000,
+        "availability": "8/48 hrs",
+        "streetIndex": 1.75
+      },
+      {
+        "rating": 7,
+        "essenceCost": 0.2,
+        "cost": 280000,
+        "availability": "8/48 hrs",
+        "streetIndex": 1.75
+      },
+      {
+        "rating": 8,
+        "essenceCost": 0.2,
+        "cost": 600000,
+        "availability": "10/48 hrs",
+        "streetIndex": 1.75
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "(Cybertechnology, table p.95.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 95
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ba35beabd41162b8"
+}

@@ -1,0 +1,87 @@
+{
+  "_id": "0c0fd5e9cc592ce3",
+  "name": "SPU: Data Management",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.1,
+    "rating": 1,
+    "cost": 9500,
+    "availability": "6/60 hrs",
+    "streetIndex": "1",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.1,
+        "cost": 9500,
+        "availability": "6/60 hrs",
+        "streetIndex": 1
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.15,
+        "cost": 19000,
+        "availability": "6/60 hrs",
+        "streetIndex": 1
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.2,
+        "cost": 28500,
+        "availability": "6/60 hrs",
+        "streetIndex": 1
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.25,
+        "cost": 38000,
+        "availability": "6/60 hrs",
+        "streetIndex": 1
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "(Cybertechnology, table p.94.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 94
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0c0fd5e9cc592ce3"
+}

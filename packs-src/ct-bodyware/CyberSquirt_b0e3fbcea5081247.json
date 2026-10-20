@@ -1,0 +1,59 @@
+{
+  "_id": "b0e3fbcea5081247",
+  "name": "CyberSquirt",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 1400,
+    "availability": "8/6 days",
+    "streetIndex": "2",
+    "legality": "4P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "An Ares Squirt as a cyberweapon: up to 10 shots of chemical/biological agents in DMSO gel; 10 rounds, gel for 20 shots (reload the gel once per 2 cartridge reloads). Porous armor gives no protection; rigid armor (over 5, or plated) applies half its rating (round up). DMSO: Shadowtech p.92. (Cybertechnology, table p.96, p.36.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "pairedWeapon": "ct:w-cybersquirt"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!b0e3fbcea5081247"
+}

@@ -1,0 +1,48 @@
+{
+  "_id": "7519592797ad9e85",
+  "name": "ActiveSoft",
+  "type": "gear",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "category": "skillsoft",
+    "rating": 1,
+    "quantity": 1,
+    "weight": 0,
+    "cost": 0,
+    "availability": "6/4 days",
+    "legality": "Legal",
+    "equipped": false,
+    "concealability": 24,
+    "streetIndex": 1.25,
+    "notes": "(Cybertechnology, table p.99.) Cost Mp x 100¥ (by the chip's Memory, Mp); Concealability 24.",
+    "grantedSkillCategory": "active",
+    "slotted": false
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 99
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!7519592797ad9e85"
+}

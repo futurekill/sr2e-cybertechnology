@@ -1,0 +1,69 @@
+{
+  "_id": "420864ed6871996c",
+  "name": "Cybergun (Submachine Gun)",
+  "type": "weapon",
+  "img": "icons/svg/sword.svg",
+  "system": {
+    "weaponType": "firearm",
+    "skill": "firearms",
+    "damageCode": "6M",
+    "damageType": "physical",
+    "concealability": 0,
+    "reach": 0,
+    "firingModes": {
+      "ss": false,
+      "sa": false,
+      "bf": false,
+      "fa": true
+    },
+    "ammo": {
+      "current": 8,
+      "max": 8,
+      "type": "pistol"
+    },
+    "recoilComp": 0,
+    "ranges": {
+      "short": 10,
+      "medium": 40,
+      "long": 80,
+      "extreme": 150
+    },
+    "strengthMin": 0,
+    "weight": 1.25,
+    "cost": 0,
+    "availability": "",
+    "legality": "",
+    "equipped": false,
+    "accessories": [],
+    "streetIndex": 1,
+    "notes": "Fichetti cybergun (SSC p.86): 6M(FA), 8 internal rounds, reloadable; ranges by class (core p.88; machine pistols as light pistols, as SSC's are). Concealability NA = noticing the firing port after a shot; observed firing, heavy or full-auto fire is obvious. Implant weapon: pair with the cybergun-smg cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.86.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 86
+      },
+      "pairedWare": "ct:cybergun-smg"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!420864ed6871996c"
+}

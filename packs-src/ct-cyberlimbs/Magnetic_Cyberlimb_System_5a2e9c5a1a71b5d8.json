@@ -1,0 +1,59 @@
+{
+  "_id": "5a2e9c5a1a71b5d8",
+  "name": "Magnetic Cyberlimb System",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 2800,
+    "availability": "6/7 days",
+    "streetIndex": "2",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Electro-magnets in hands, knees and feet; ferrous metal only. Each limb system holds about 25 kg; multiple systems are cumulative; subtracted from the weight being held (Dangling and Holding, Cyberware Rules p.51). Doesn't affect modern electronics or erase optical chips. (Cybertechnology, table p.98, p.32.)",
+    "limbOption": true
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!5a2e9c5a1a71b5d8"
+}

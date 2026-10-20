@@ -1,0 +1,58 @@
+{
+  "_id": "85fa90aefc53814a",
+  "name": "Fingertip ExpertPicks",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 18000,
+    "availability": "8/2 weeks",
+    "streetIndex": "3",
+    "legality": "6P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Requires a fingertip compartment. Lock picks, Skill Rating 3; using them is a Complex Action. Opposed Test between the lock's rating (key-and-tumbler usually 2 or 3) and the ExpertPicks. (Cybertechnology, table p.96, p.29.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!85fa90aefc53814a"
+}

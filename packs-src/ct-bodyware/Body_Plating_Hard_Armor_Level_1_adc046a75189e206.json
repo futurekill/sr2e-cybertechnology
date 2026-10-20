@@ -1,0 +1,61 @@
+{
+  "_id": "adc046a75189e206",
+  "name": "Body Plating (Hard Armor, Level 1)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 25000,
+    "availability": "14/3 weeks",
+    "streetIndex": "2",
+    "legality": "5P-CA",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "+1 Ballistic and +1 Impact per level, as hardened armor per the critter power Hardened Armor (SRII p.218). Also on cyberlimbs (Cyberware Rules p.49). (Cybertechnology, table p.96, p.37.)",
+    "armorBallistic": 1,
+    "armorImpact": 1
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "rule": "body-plating-hardened"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!adc046a75189e206"
+}

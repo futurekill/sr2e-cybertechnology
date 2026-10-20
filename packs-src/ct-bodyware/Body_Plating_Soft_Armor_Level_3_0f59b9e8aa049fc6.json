@@ -1,0 +1,61 @@
+{
+  "_id": "0f59b9e8aa049fc6",
+  "name": "Body Plating (Soft Armor, Level 3)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 30000,
+    "availability": "12/2 weeks",
+    "streetIndex": "2",
+    "legality": "6P-CA",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "+1 Ballistic and +1 Impact per level, cumulative with worn armor. Also on cyberlimbs (Armor, Cyberware Rules p.49). (Cybertechnology, table p.96, p.37.)",
+    "armorBallistic": 3,
+    "armorImpact": 3
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "rule": "body-plating"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!0f59b9e8aa049fc6"
+}

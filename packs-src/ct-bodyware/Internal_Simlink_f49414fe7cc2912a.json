@@ -1,0 +1,129 @@
+{
+  "_id": "f49414fe7cc2912a",
+  "name": "Internal Simlink",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.65,
+    "rating": 1,
+    "cost": 80000,
+    "availability": "8/7 days",
+    "streetIndex": "3",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.65,
+        "cost": 80000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.7,
+        "cost": 90000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.75,
+        "cost": 100000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.8,
+        "cost": 110000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 5,
+        "essenceCost": 0.85,
+        "cost": 120000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 6,
+        "essenceCost": 0.9,
+        "cost": 130000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 7,
+        "essenceCost": 0.95,
+        "cost": 140000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 8,
+        "essenceCost": 1,
+        "cost": 150000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 9,
+        "essenceCost": 1.05,
+        "cost": 160000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      },
+      {
+        "rating": 10,
+        "essenceCost": 1.1,
+        "cost": 170000,
+        "availability": "8/7 days",
+        "streetIndex": 3
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "(Cybertechnology, table p.98.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 98
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!f49414fe7cc2912a"
+}

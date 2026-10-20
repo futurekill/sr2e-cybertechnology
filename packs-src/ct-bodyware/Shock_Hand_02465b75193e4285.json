@@ -1,0 +1,64 @@
+{
+  "_id": "02465b75193e4285",
+  "name": "Shock Hand",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0,
+    "rating": 1,
+    "cost": 1300,
+    "availability": "6/4 days",
+    "streetIndex": "2",
+    "legality": "4P-CC",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Shock pads in the knuckles or palm. Damage 8S Stun; 12 charges, recharge after 12 uses. (Cybertechnology, table p.97, p.36.)",
+    "isWeapon": true,
+    "weaponType": "melee",
+    "skill": "unarmed_combat",
+    "damageCode": "8S",
+    "damageType": "stun",
+    "reach": 0
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 97
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!02465b75193e4285"
+}

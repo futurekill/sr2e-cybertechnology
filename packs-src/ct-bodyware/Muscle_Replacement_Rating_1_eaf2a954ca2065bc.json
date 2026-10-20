@@ -1,0 +1,59 @@
+{
+  "_id": "eaf2a954ca2065bc",
+  "name": "Muscle Replacement (Rating 1)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 1,
+    "rating": 1,
+    "cost": 20000,
+    "availability": "4/4 days",
+    "streetIndex": "1",
+    "legality": "5P-CB",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 1,
+      "strength": 1,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "(Cybertechnology, table p.97.)",
+    "noReactionBonus": true
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 97
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!eaf2a954ca2065bc"
+}

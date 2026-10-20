@@ -1,0 +1,59 @@
+{
+  "_id": "ba5528e8d8b2e619",
+  "name": "Cybertorso",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "cyberlimb",
+    "grade": "standard",
+    "essenceCost": 1.5,
+    "rating": 1,
+    "cost": 120000,
+    "availability": "6/4 days",
+    "streetIndex": "1",
+    "legality": "Legal",
+    "installed": true,
+    "attributeMods": {
+      "body": 1,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "+1 Body. Also halves (round up) the extra Essence of Strength or Quickness enhancements beyond 3 points (Limb Enhancements p.31; Cyberware Rules p.49). Framework and protection for other cybersystems. (Cybertechnology, table p.96, p.37.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      },
+      "rule": "limb:torso"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!ba5528e8d8b2e619"
+}

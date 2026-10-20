@@ -1,0 +1,87 @@
+{
+  "_id": "c30d6b980aa74fde",
+  "name": "Optical Scanning Datajack",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.3,
+    "rating": 1,
+    "cost": 5500,
+    "availability": "8/72 hrs",
+    "streetIndex": "3",
+    "legality": "3U-CD",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.3,
+        "cost": 5500,
+        "availability": "8/72 hrs",
+        "streetIndex": 3
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.35,
+        "cost": 11000,
+        "availability": "8/72 hrs",
+        "streetIndex": 3
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.4,
+        "cost": 22000,
+        "availability": "8/72 hrs",
+        "streetIndex": 3
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.45,
+        "cost": 44000,
+        "availability": "8/72 hrs",
+        "streetIndex": 3
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Receptor in the eye reads a laser from the emitter stuck to a data-out port. Standard DFR 20. Higher DFRs as for eye dataports (the cost increase applies to the emitter too). Mounted in a secondary iris-like structure or uses a mirror, so it doesn't blind the eye. (Cybertechnology, table p.96, p.20, p.46.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!c30d6b980aa74fde"
+}

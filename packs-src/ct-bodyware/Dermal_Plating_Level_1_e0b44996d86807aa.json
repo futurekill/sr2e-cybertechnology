@@ -1,0 +1,59 @@
+{
+  "_id": "e0b44996d86807aa",
+  "name": "Dermal Plating (Level 1)",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "bodyware",
+    "grade": "standard",
+    "essenceCost": 0.5,
+    "rating": 1,
+    "cost": 6000,
+    "availability": "4/12 days",
+    "streetIndex": "1",
+    "legality": "6P-CA",
+    "installed": true,
+    "attributeMods": {
+      "body": 1,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [],
+    "capacity": 0,
+    "modules": [],
+    "notes": "Serious/Deadly damage to plating needs spray bonder within 24 hours, or each later Serious/Deadly wound (non-explosive, non-magical) rolls 2D6: under the count of failures → plating −1 (cumulative). Street-doc repair 2,000¥ × points lost (per point), Negotiation −5%/net success, Biotech (5), 4 hours/point; DIY raw materials 400¥ × twice the points. Skin near plating scars: healing lotion (Scarring p.56). Not combinable with dermal sheathing. (Cybertechnology, table p.99, p.47.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 99
+      },
+      "rule": "dermal-plating"
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!e0b44996d86807aa"
+}

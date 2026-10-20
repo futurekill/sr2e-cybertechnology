@@ -1,0 +1,87 @@
+{
+  "_id": "a583bd72ec878380",
+  "name": "Eye Dataport",
+  "type": "cyberware",
+  "img": "icons/svg/upgrade.svg",
+  "system": {
+    "location": "headware",
+    "grade": "standard",
+    "essenceCost": 0.25,
+    "rating": 1,
+    "cost": 2200,
+    "availability": "6/48 hrs",
+    "streetIndex": "2",
+    "legality": "4U-CD",
+    "installed": true,
+    "attributeMods": {
+      "body": 0,
+      "quickness": 0,
+      "strength": 0,
+      "charisma": 0,
+      "intelligence": 0,
+      "willpower": 0,
+      "reaction": 0,
+      "initiativeDice": 0
+    },
+    "ratingStats": [
+      {
+        "rating": 1,
+        "essenceCost": 0.25,
+        "cost": 2200,
+        "availability": "6/48 hrs",
+        "streetIndex": 2
+      },
+      {
+        "rating": 2,
+        "essenceCost": 0.3,
+        "cost": 4400,
+        "availability": "6/48 hrs",
+        "streetIndex": 2
+      },
+      {
+        "rating": 3,
+        "essenceCost": 0.35,
+        "cost": 8800,
+        "availability": "6/48 hrs",
+        "streetIndex": 2
+      },
+      {
+        "rating": 4,
+        "essenceCost": 0.4,
+        "cost": 17600,
+        "availability": "6/48 hrs",
+        "streetIndex": 2
+      }
+    ],
+    "capacity": 0,
+    "modules": [],
+    "notes": "A standard dataport behind the cybereye's iris. Standard DFR 25 (as the SRII datajack). Per +25 DFR (max 100): +.05 Essence and double the price. Behind the cybereye's iris. Ruling: Levels from the eye dataport: L1 .25/2,200¥ (DFR 25), then +.05 Essence and ×2 price per level: L2 .30/4,400¥ (DFR 50), L3 .35/8,800¥ (DFR 75), L4 .40/17,600¥ (DFR 100). Ruling: Levels from the eye dataport: L1 .25/2,200¥ (DFR 25), then +.05 Essence and ×2 price per level: L2 .30/4,400¥ (DFR 50), L3 .35/8,800¥ (DFR 75), L4 .40/17,600¥ (DFR 100). (Cybertechnology, table p.96, p.20, p.46.)"
+  },
+  "effects": [],
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 96
+      }
+    }
+  },
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "_key": "!items!a583bd72ec878380"
+}
