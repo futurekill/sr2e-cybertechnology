@@ -1,0 +1,6 @@
+key	ruling	decided
+ct:optical-scanning-emitter	Ship the description-page values: Cost 2,500¥, Availability 8/2 weeks, Street Index 2 (the master table's swapped columns are a misprint).	user 2026-10-20
+ct:laser-designator	Range 4,000 m, as both tables print; the text's "maximum range 1,000 meters" is treated as the misprint.	user 2026-10-20
+ct:eye-dataport	Levels from the eye dataport: L1 .25/2,200¥ (DFR 25), then +.05 Essence and ×2 price per level: L2 .30/4,400¥ (DFR 50), L3 .35/8,800¥ (DFR 75), L4 .40/17,600¥ (DFR 100).	user 2026-10-20
+ct:tactical-computer-3-4	Ship Levels 3 (4.5 Essence) and 4 (5 Essence) as printed (Estimated), 0¥, notes: CLASSIFIED — the GM sets price, availability and Street Index.	user 2026-10-20
+ct:automatic-medication	The row's stray "3P-CC" (an extra column) is its legality; cost 15,000¥/refill, availability/Street Index NA as printed.	pending (proposed; low-impact)
