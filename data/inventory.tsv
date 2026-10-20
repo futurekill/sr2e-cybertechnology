@@ -223,3 +223,14 @@ ct:activesoft	99	Skillsofts	Activesoft (Concealability 24)		p100_2
 ct:datasoft	99	Skillsofts	Datasoft (Concealability 24)		p100_2
 ct:knowsoft	99	Skillsofts	Knowsoft (Concealability 24)		p100_2
 ct:linguasoft	99	Skillsofts	Linguasoft (Concealability 24)		p100_2
+ct:induction-datajack-st-1	41	Bodyware (derived)	Induction Datajack (Shadowtech-equivalent)	1	desc-p41
+ct:induction-datajack-st-2	41	Bodyware (derived)	Induction Datajack (Shadowtech-equivalent)	2	desc-p41
+ct:induction-datajack-st-3	41	Bodyware (derived)	Induction Datajack (Shadowtech-equivalent)	3	desc-p41
+ct:induction-datajack-st-4	41	Bodyware (derived)	Induction Datajack (Shadowtech-equivalent)	4	desc-p41
+ct:brightlight-battery	46	Consumables	BrightLight flash-pak replacement battery (150¥)		desc
+ct:brightlight-bulb-battery	46	Consumables	BrightLight one-shot battery/bulb (10¥ each, six for 50¥)		desc
+ct:spray-bonder	47	Consumables	Dermal plating spray bonder kit (500¥/10 applications)		desc
+ct:healing-lotion	48	Consumables & services	Healing lotion (20¥/tube, 30 applications)		desc
+ct:sheath-sealer	48	Consumables & services	Dermal sheath sealer spray (1,200¥/10 applications)		desc
+ct:service-plating-repair	48	Consumables & services	Service: dermal plating repair (2,000¥ × points lost, per point)		desc
+ct:service-sheath-repair	48	Consumables & services	Service: dermal sheath repair (6,500¥/point; 1,400¥ materials)		desc
