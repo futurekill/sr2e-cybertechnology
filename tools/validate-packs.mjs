@@ -27,7 +27,26 @@ const docs = new Map();
 for (const p of manifest.packs) {
   let files = [];
   try { files = readdirSync(`packs-src/${p.name}`).filter(f => f.endsWith(".json")); } catch { fail(`pack dir missing: ${p.name}`); }
-  if (p.type === "Actor") continue;
+  if (p.type === "Actor") {
+    const kings = JSON.parse(readFileSync("data/chrome-kings.json", "utf8")).npcs;
+    for (const f of files) {
+      const d = JSON.parse(readFileSync(`packs-src/${p.name}/${f}`, "utf8"));
+      if (d._key !== `!actors!${d._id}`) fail(`${d.name}: bad _key`);
+      if (d.flags?.sr2e?.source?.book !== "Cybertechnology") fail(`${d.name}: no source flag`);
+      const k = kings.find(x => x.name === d.name);
+      if (!k) { fail(`${d.name}: not in chrome-kings.json`); continue; }
+      for (const at of ["body", "quickness", "strength", "charisma", "intelligence", "willpower"]) {
+        const want = k.boosted?.[at] ?? k.attrs[at];
+        if (d.system[at].base + d.system[at].mod !== want) fail(`${d.name}: ${at} ${d.system[at].base + d.system[at].mod} ≠ printed ${want}`);
+      }
+      if (d.flags.sr2e.printed?.essence !== k.attrs.essence) fail(`${d.name}: printed Essence not recorded`);
+      if (d.prototypeToken?.lockRotation !== true) fail(`${d.name}: token rotation not locked`);
+      const ids = new Set();
+      for (const it of d.items ?? []) { if (ids.has(it._id)) fail(`${d.name}: duplicate embedded id`); ids.add(it._id); }
+    }
+    if (files.length !== kings.length) fail(`Chrome Kings: ${files.length} actors for ${kings.length} printed`);
+    continue;
+  }
   for (const f of files) {
     const d = JSON.parse(readFileSync(`packs-src/${p.name}/${f}`, "utf8"));
     if (docs.has(d._id)) fail(`duplicate id ${d._id}`);
@@ -61,4 +80,4 @@ source entry and the item that ships it. Rulings on printed conflicts: data/ruli
 ${rows.join("\n")}
 `);
 if (errors.length) { console.error(errors.join("\n")); console.error(`${errors.length} error(s)`); process.exit(1); }
-console.log(`OK: ${inventory.length} inventory lines covered, ${docs.size} item documents.`);
+console.log(`OK: ${inventory.length} inventory lines covered, ${docs.size} item documents, the Chrome Kings as printed.`);

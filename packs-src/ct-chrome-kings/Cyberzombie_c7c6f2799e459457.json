@@ -1,0 +1,1326 @@
+{
+  "_id": "c7c6f2799e459457",
+  "name": "Cyberzombie",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>A delta-grade cybersoldier: an unlimited budget, the latest cyberware and the finest design teams. Not the most friendly or coherent guy in the world. The big question remains: is he still human?</p>\n<p><strong>Augmented (applied):</strong> body 4 (11), quickness 4 (7), strength 6 (9), reaction 6 (13).</p>\n<p><strong>Initiative (printed):</strong> 4 (10) + 1D6 (4D6)</p>\n<p><strong>Essence -2.25 (printed).</strong> Cybermantic: the sheet can't hold negative Essence yet and shows 0 (Cybermancy rules, p.78–84).</p>\n<p><strong>Cyberware:</strong> all delta grade.</p>\n<p><strong>Cyberware:</strong> Articulate Arm; Body Plating (Hardened; 8/8); Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount); Cyberears (Balance Augmentor, Damper, Hearing Amplification, Spatial Recognizer); Cybereyes (Electronic Vision Magnification 3, Eye Light, Flare Compensation, Laser Tracker, Low-Light, Thermographic, Protective Covers, Rangefinder); Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor); Cyberskull; Cybertorso; Internal Air Tank; Move-By-Wire System (2); Oral Spur; Smartlink II; Invoked Memory Stimulator</p>\n<p><strong>Gear:</strong> Ares Alpha Combat Guns (2, each w/300 rounds APDS ammo, Level II Smartlink, Improved Gas Vent III, 8 IPE offensive and 8 IPE defensive grenades); Ares MP-LMG (300 rounds APDS ammo, Laser Tracker, Improved Gas Vent III); Additional gear as appropriate</p>\n<p><strong>Armor:</strong> Body Plating (Hardened; 8/8): intrinsic, hardened (SRII p.218).</p>\n<p><strong>Note:</strong> The book prints Reaction 6 (13) but Initiative 4 (10) + 1D6 (4D6); both are kept as printed (the sheet shows Reaction 13).</p>\n<p><strong>Not in any compendium</strong> (listed here only): Body Plating (Hardened; 8/8).</p>\n<p><strong>Threat/Professional Rating:</strong> 9/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.91.</em></p>",
+    "race": "human",
+    "professionalRating": 4,
+    "body": {
+      "base": 4,
+      "mod": 7,
+      "value": 11,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 3,
+      "value": 7,
+      "racial": 0
+    },
+    "strength": {
+      "base": 6,
+      "mod": 3,
+      "value": 9,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 0,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 7
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 4,
+      "mod": 0
+    },
+    "bodyIndex": {
+      "value": 0
+    },
+    "armor": {
+      "ballistic": 8,
+      "impact": 8
+    }
+  },
+  "items": [
+    {
+      "_id": "e6fb9d996415fa6d",
+      "name": "Armed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 7,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "60691e814d03c955",
+      "name": "Athletics",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b8fed98cde3e0804",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 8,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e1f299ed4abf4b2d",
+      "name": "Gunnery",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b671c32800701a23",
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b960621ccf88fcf3",
+      "name": "Tactics (Small Unit)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1d8ba59edec760c4",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 8,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "156d0e386c982e94",
+      "name": "Articulate Arm",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 110000,
+        "availability": "12/24 days",
+        "streetIndex": "2",
+        "legality": "2P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Like a tracking mount with full 360° coverage, usually anchored to a cybertorso. All light weapons up to a light machine gun. 3 points of Recoil Reduction plus laser-sight modifiers. (Cybertechnology, table p.99, p.40.) As printed: Articulate Arm."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.5838446f6a392dd8",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e402f7c6be5ba1cf",
+      "name": "Cyberarm Gyromount",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 1.5,
+        "rating": 1,
+        "cost": 260000,
+        "availability": "10/21 days",
+        "streetIndex": "2",
+        "legality": "4P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.) As printed: Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "limb:arm"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.5015b203dab57ea1",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "22d4a5c58e2d1164",
+      "name": "Cyberear Replacement",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.3,
+        "rating": 1,
+        "cost": 4000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [
+          {
+            "name": "Balance Augmentor",
+            "essenceCost": 0.4,
+            "cost": 14000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Damper",
+            "essenceCost": 0.1,
+            "cost": 3500,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Hearing Amplification",
+            "essenceCost": 0.2,
+            "cost": 3500,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Spatial Recognizer",
+            "essenceCost": 0.2,
+            "cost": 1200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (Balance Augmentor, Damper, Hearing Amplification, Spatial Recognizer)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cyberear"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c57d42ead6f96e31",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d2867a532b5a719a",
+      "name": "Cybereyes",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.2,
+        "rating": 1,
+        "cost": 5000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0.5,
+        "modules": [
+          {
+            "name": "Vision Magnification (Electronic 3)",
+            "essenceCost": 0.1,
+            "cost": 11000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Eye Light System",
+            "essenceCost": 0.2,
+            "cost": 1200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Flare Compensation",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Eye Laser Tracker",
+            "essenceCost": 0.2,
+            "cost": 3200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Low-Light Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Thermographic Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Protective Covers",
+            "essenceCost": 0,
+            "cost": 500,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Rangefinder",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Electronic Vision Magnification 3, Eye Light, Flare Compensation, Laser Tracker, Low-Light, Thermographic, Protective Covers, Rangefinder)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cybereye-pair"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c34224fc4f8bcecb",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d32bd8effe140127",
+      "name": "Cyberleg",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 1,
+        "rating": 1,
+        "cost": 100000,
+        "availability": "4/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "limb:leg"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.66dfefbc29609f2c",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "981154f2fe458583",
+      "name": "Cyberskull",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 0.75,
+        "rating": 1,
+        "cost": 75000,
+        "availability": "6/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 1,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "+1 Body. (Cybertechnology, table p.96, p.37.) As printed: Cyberskull."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 96
+          },
+          "rule": "limb:skull"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.fc46573b14543686",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d7d282747554db7f",
+      "name": "Cybertorso",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 1.5,
+        "rating": 1,
+        "cost": 120000,
+        "availability": "6/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 1,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "+1 Body. Also halves (round up) the extra Essence of Strength or Quickness enhancements beyond 3 points (Limb Enhancements p.31; Cyberware Rules p.49). Framework and protection for other cybersystems. (Cybertechnology, table p.96, p.37.) As printed: Cybertorso."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 96
+          },
+          "rule": "limb:torso"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.ba5528e8d8b2e619",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8e706ce229b906c9",
+      "name": "Internal Air Tank",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 1200,
+        "availability": "4/5 days",
+        "streetIndex": "1.5",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.) As printed: Internal Air Tank."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.2d88e694aa9cb889",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "8e0808988e7b0525",
+      "name": "Move-by-Wire System (Level 2)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 3.85,
+        "rating": 1,
+        "cost": 500000,
+        "availability": "12/20 days",
+        "streetIndex": "3",
+        "legality": "3P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 2,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 4,
+          "initiativeDice": 2
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "+2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.) As printed: Move-By-Wire System (2)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "move-by-wire:2",
+          "provisional": {
+            "rule": "move-by-wire",
+            "fields": {
+              "attributeMods.quickness": 2,
+              "attributeMods.reaction": 4,
+              "attributeMods.initiativeDice": 2
+            }
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.085b5bb2b4be360c",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0d7f751bc4f3d4b7",
+      "name": "Oral Spur",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 8200,
+        "availability": "6/72 hrs",
+        "streetIndex": "2.5",
+        "legality": "6P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Treat as a cyberspur; Special Skill or Quickness for the Melee Combat Test. Pneumatic trigger. (Cybertechnology, table p.96, p.25.) As printed: Oral Spur.",
+        "isWeapon": true,
+        "weaponType": "melee",
+        "skill": "unarmed_combat",
+        "damageCode": "(Str+2)M",
+        "damageType": "physical",
+        "reach": 0
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 96
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.cb27788db17b4e3a",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "392ea5e222f481a9",
+      "name": "Smartlink (Level II)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 0.5,
+        "rating": 1,
+        "cost": 3200,
+        "availability": "6/48 hrs",
+        "streetIndex": "2",
+        "legality": "5P-CA",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II.",
+        "combatTnMod": -2
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.7a73969b94433711",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bb57d3fb61e96435",
+      "name": "Invoked Memory Stimulator",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 137750,
+        "availability": "NA",
+        "streetIndex": "NA",
+        "legality": "3P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (Phase 6 adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          },
+          "rule": "ims"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.797911b4b3489c01",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "f99a33605ba2baf1",
+      "name": "Ares Alpha Combat Gun",
+      "type": "weapon",
+      "img": "modules/sr2e-fields-of-fire/assets/item_icons/weapon/ares-alpha-combat-gun.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "8M",
+        "damageType": "physical",
+        "concealability": 2,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": true,
+          "bf": true,
+          "fa": true
+        },
+        "ammo": {
+          "current": 42,
+          "max": 42,
+          "type": "clip"
+        },
+        "recoilComp": 2,
+        "smartgunCompatible": true,
+        "ranges": {
+          "short": 15,
+          "medium": 40,
+          "long": 100,
+          "extreme": 250
+        },
+        "strengthMin": 0,
+        "weight": 5.25,
+        "cost": 2000,
+        "availability": "8/48 hrs",
+        "legality": "Forbidden",
+        "streetIndex": "4",
+        "equipped": false,
+        "accessories": [],
+        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-fields-of-fire.ff-weapons.Item.19589db1899d9049",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9c964e5b2b86d3a2",
+      "name": "Ares MP-LMG",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/ares-mp-lmg.webp",
+      "system": {
+        "weaponType": "heavy",
+        "skill": "heavy_weapons",
+        "damageCode": "7S",
+        "damageType": "physical",
+        "concealability": 99,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": true,
+          "fa": true
+        },
+        "ammo": {
+          "current": 50,
+          "max": 50,
+          "type": "belt"
+        },
+        "recoilComp": 0,
+        "smartgunCompatible": false,
+        "ranges": {
+          "short": 20,
+          "medium": 40,
+          "long": 80,
+          "extreme": 150
+        },
+        "strengthMin": 0,
+        "weight": 7.5,
+        "cost": 2200,
+        "availability": "6/5 days",
+        "legality": "Restricted",
+        "streetIndex": 2,
+        "equipped": false,
+        "accessories": [],
+        "notes": "A belt-fed light machine gun built to lay down sustained suppressing fire from a bipod or a sling. SSC."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.ba6c120670294d28",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 91
+      },
+      "printed": {
+        "essence": -2.25,
+        "initiative": "4 (10) + 1D6 (4D6)",
+        "tpr": "9/4"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Cyberzombie",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!c7c6f2799e459457"
+}

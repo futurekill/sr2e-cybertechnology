@@ -1,0 +1,2120 @@
+{
+  "_id": "1ef37e78f87c4a2c",
+  "name": "Cyber Logician",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>A master of small-unit tactics, the ultimate tactical commander, employed by megacorporations for sensitive field work. Usually gives the orders, but perfectly capable of dealing with you personally.</p>\n<p><strong>Augmented (applied):</strong> body 4 (10), quickness 4 (8), strength 3 (7), intelligence 5 (7), reaction 3 (8).</p>\n<p><strong>Initiative (printed):</strong> 4 (Special) + 1D6 (4D6)</p>\n<p><strong>Essence -4 (printed).</strong> Cybermantic: the sheet can't hold negative Essence yet and shows 0 (Cybermancy rules, p.78–84).</p>\n<p><strong>Cyberware:</strong> all delta grade.</p>\n<p><strong>Bioware:</strong> Cerebral Booster (Level II) (cultured); Mnemonic Enhancer (Level IV) (cultured)</p>\n<p><strong>Cyberware:</strong> Commlink IV; Crypto Circuit 10; Cyberarms (left/right: Strength +4, Quickness +6, Body +2); Cyberlimb Cyberdeck (MPCP 8, Hardening +6, Persona 8, Increased Response +3, Internal Memory 1,200 Mp); Fingertip Compartment; Fingertip Datajack; Tactical Computer (Level 4, w. Orientation System); Cybercomm Link; Cyberears (High- and Low-Frequency, Recorder); Cybereyes (Camera, Eye Light System w/BrightLight, Low-Light, Rangefinder, Thermographic, Flare Compensation); Cyberskull; Datajack (Head); Invoked Memory Stimulator; Skillwire (Small-Unit Tactics, Rating 9); Smartlink II; Subdermal Speakers; Subvocal Microphones</p>\n<p><strong>Gear:</strong> Ares Alpha Combat Guns (2, w/300 rounds APDS ammo, Level II Smartlink, Improved Gas Vent III, 8 IPE offensive and 8 IPE defensive grenades); Ares MP-LMG (w/300 rounds APDS ammo, Laser Tracker, Improved Gas Vent III); Wallacher Combat Axes (2); Additional gear as appropriate</p>\n<p><strong>Note:</strong> Initiative prints \"4 (Special)\": the tactical computer's Initiative rules apply (Shadowtech p.53). The book spells \"Orientaion\".</p>\n<p><strong>Threat/Professional Rating:</strong> 9/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.92.</em></p>",
+    "race": "human",
+    "professionalRating": 4,
+    "body": {
+      "base": 4,
+      "mod": 6,
+      "value": 10,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 4,
+      "value": 8,
+      "racial": 0
+    },
+    "strength": {
+      "base": 3,
+      "mod": 4,
+      "value": 7,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 2,
+      "value": 7,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "essence": {
+      "value": 0,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 1
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 4,
+      "mod": 0
+    },
+    "bodyIndex": {
+      "value": 1.2
+    },
+    "armor": {
+      "ballistic": 0,
+      "impact": 0
+    }
+  },
+  "items": [
+    {
+      "_id": "d4ff7a498144d717",
+      "name": "Armed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "55353548187e5387",
+      "name": "Computer",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 8,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d59952b43ead59fd",
+      "name": "Computer Theory",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 7,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d4f18d14a55832b2",
+      "name": "Electronics",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "523ee927f41e463c",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "204dd0bcb9f8eedb",
+      "name": "Interrogation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 7,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "80d6675a457c7b60",
+      "name": "Military Theory",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "35b3969025cae68f",
+      "name": "Leadership",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 8,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9fa86e8ab62a5e2e",
+      "name": "Psychology (Deviant Behavior)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "94163514afd25a5d",
+      "name": "Psychology (Group Behavior)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 7,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c3205cad29300f2c",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 6,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "557009b268a2e935",
+      "name": "Commlink IV",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.3,
+        "rating": 1,
+        "cost": 18000,
+        "availability": "3/48 hrs",
+        "streetIndex": "1.25",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.95.) As printed: Commlink IV."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.0e2a4d29461c41a8",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4dffedf7206c030b",
+      "name": "Crypto Circuit HD",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.1,
+        "rating": 10,
+        "cost": 10000,
+        "availability": "6/36 hrs",
+        "streetIndex": "1",
+        "legality": "4P-CA",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [
+          {
+            "rating": 1,
+            "essenceCost": 0.1,
+            "cost": 10000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1
+          },
+          {
+            "rating": 2,
+            "essenceCost": 0.1,
+            "cost": 20000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1
+          },
+          {
+            "rating": 3,
+            "essenceCost": 0.1,
+            "cost": 30000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1
+          },
+          {
+            "rating": 4,
+            "essenceCost": 0.1,
+            "cost": 40000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1
+          },
+          {
+            "rating": 5,
+            "essenceCost": 0.1,
+            "cost": 100000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1.25
+          },
+          {
+            "rating": 6,
+            "essenceCost": 0.1,
+            "cost": 120000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1.25
+          },
+          {
+            "rating": 7,
+            "essenceCost": 0.1,
+            "cost": 140000,
+            "availability": "6/36 hrs",
+            "streetIndex": 1.25
+          },
+          {
+            "rating": 8,
+            "essenceCost": 0.1,
+            "cost": 240000,
+            "availability": "8/36 hrs",
+            "streetIndex": 1.5
+          },
+          {
+            "rating": 9,
+            "essenceCost": 0.1,
+            "cost": 270000,
+            "availability": "8/36 hrs",
+            "streetIndex": 1.5
+          },
+          {
+            "rating": 10,
+            "essenceCost": 0.1,
+            "cost": 500000,
+            "availability": "9/36 hrs",
+            "streetIndex": 2
+          }
+        ],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.95.) As printed: Crypto Circuit 10."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.1b0b6f5f2aaa4286",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a73db317e38e5b1d",
+      "name": "Cyberarm",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 1,
+        "rating": 1,
+        "cost": 100000,
+        "availability": "4/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberarms (left/right: Strength +4, Quickness +6, Body +2)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "limb:arm"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.7e6d3687835bf26c",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3d7838cfb1161e8b",
+      "name": "Cyberarm Cyberdeck",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 0,
+        "rating": 1,
+        "cost": 0,
+        "availability": "See text",
+        "streetIndex": "NA",
+        "legality": "6P-CD",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Standard decks: price x4, Availability TN +25% (round up), Base Time x2. Cranial decks in the arm: Shadowtech p.38; each component's build TN +2 and its cost and Base Time +20%. Price as printed: see text (the GM sets it). (Cybertechnology, table p.98, p.35.) As printed: Cyberlimb Cyberdeck (MPCP 8, Hardening +6, Persona 8, Increased Response +3, Internal Memory 1,200 Mp).",
+        "limbOption": true
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.670f9daa2701ae4f",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c41245397d73a418",
+      "name": "Fingertip Compartment",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 0.1,
+        "rating": 1,
+        "cost": 3000,
+        "availability": "3/24 hrs",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.96.) As printed: Fingertip Compartment."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 96
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.f58c8a5f2dacdbfe",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a5ea45073ed11f58",
+      "name": "Fingertip Datajack",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 0.2,
+        "rating": 1,
+        "cost": 1000,
+        "availability": "Always",
+        "streetIndex": "0.9",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Requires a fingertip compartment (SRII p.249). Price per standard datajack; the fingertip plugs into the jack when not in use. (Cybertechnology, table p.94, p.29.) As printed: Fingertip Datajack."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 94
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.bd21073c819ca08c",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d71a5ac65b5a998f",
+      "name": "Tactical Computer",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 3.5,
+        "rating": 4,
+        "cost": 350000,
+        "availability": "12/60 days",
+        "streetIndex": "4",
+        "legality": "4-CB",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [
+          {
+            "rating": 1,
+            "essenceCost": 3.5,
+            "cost": 350000,
+            "availability": "12/60 days",
+            "streetIndex": 4
+          },
+          {
+            "rating": 2,
+            "essenceCost": 4,
+            "cost": 900000,
+            "availability": "12/60 days",
+            "streetIndex": 4
+          },
+          {
+            "rating": 3,
+            "essenceCost": 4.5,
+            "cost": 0,
+            "availability": "CLASSIFIED",
+            "streetIndex": ""
+          },
+          {
+            "rating": 4,
+            "essenceCost": 5,
+            "cost": 0,
+            "availability": "CLASSIFIED",
+            "streetIndex": ""
+          }
+        ],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Cyberarm versions work like the cranial versions (Shadowtech pp.53 and 63). Ruling: Ship Levels 3 (4.5 Essence) and 4 (5 Essence) as printed (Estimated), 0¥, notes: CLASSIFIED — the GM sets price, availability and Street Index. (Cybertechnology, table p.94, p.34.) As printed: Tactical Computer (Level 4, w. Orientation System).",
+        "isTacticalComputer": true
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 94
+          },
+          "rule": "tactical-computer"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.48414ddb2d90faf5",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5396e89df9671305",
+      "name": "Cybercomm Link",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.4,
+        "rating": 1,
+        "cost": 62000,
+        "availability": "8/2 weeks",
+        "streetIndex": "3",
+        "legality": "5-CB",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.) As printed: Cybercomm Link."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.e3caae71f62f4900",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "1e7bec0454d49845",
+      "name": "Cyberear Replacement",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.3,
+        "rating": 1,
+        "cost": 4000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [
+          {
+            "name": "High Frequency Hearing",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Low Frequency Hearing",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Cyberear Recorder",
+            "essenceCost": 0.3,
+            "cost": 7000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (High- and Low-Frequency, Recorder)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cyberear"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c57d42ead6f96e31",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e6fe64b3df1a4d20",
+      "name": "Cybereyes",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.2,
+        "rating": 1,
+        "cost": 5000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0.5,
+        "modules": [
+          {
+            "name": "Eye Camera",
+            "essenceCost": 0.4,
+            "cost": 5000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Eye Light System",
+            "essenceCost": 0.2,
+            "cost": 1200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "BrightLight Addition",
+            "essenceCost": 0.4,
+            "cost": 1200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Low-Light Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Rangefinder",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Thermographic Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Flare Compensation",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Camera, Eye Light System w/BrightLight, Low-Light, Rangefinder, Thermographic, Flare Compensation)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cybereye-pair"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c34224fc4f8bcecb",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "de85e0efb0d16aab",
+      "name": "Cyberskull",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 0.75,
+        "rating": 1,
+        "cost": 75000,
+        "availability": "6/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 1,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "+1 Body. (Cybertechnology, table p.96, p.37.) As printed: Cyberskull."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 96
+          },
+          "rule": "limb:skull"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.fc46573b14543686",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0c5a35fc624dedbc",
+      "name": "Datajack",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.2,
+        "rating": 1,
+        "cost": 1000,
+        "availability": "Always",
+        "streetIndex": "0.9",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.94.) As printed: Datajack (Head)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 94
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-matrixware.Item.41fb1314fbfcd8c0",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0c364c60318a7f27",
+      "name": "Invoked Memory Stimulator",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 137750,
+        "availability": "NA",
+        "streetIndex": "NA",
+        "legality": "3P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (Phase 6 adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          },
+          "rule": "ims"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.797911b4b3489c01",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a5cb278637e4a096",
+      "name": "Skillwires",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.1,
+        "rating": 9,
+        "cost": 10000,
+        "availability": "4/10 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [
+          {
+            "rating": 1,
+            "essenceCost": 0.1,
+            "cost": 10000,
+            "availability": "4/10 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 2,
+            "essenceCost": 0.2,
+            "cost": 20000,
+            "availability": "4/10 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 3,
+            "essenceCost": 0.3,
+            "cost": 30000,
+            "availability": "4/10 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 4,
+            "essenceCost": 0.8,
+            "cost": 400000,
+            "availability": "5/10 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 5,
+            "essenceCost": 1,
+            "cost": 500000,
+            "availability": "5/10 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 6,
+            "essenceCost": 1.2,
+            "cost": 600000,
+            "availability": "5/10 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 7,
+            "essenceCost": 2.1,
+            "cost": 7000000,
+            "availability": "12/20 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 8,
+            "essenceCost": 2.4,
+            "cost": 8000000,
+            "availability": "12/20 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 9,
+            "essenceCost": 2.7,
+            "cost": 9000000,
+            "availability": "12/20 days",
+            "streetIndex": 1
+          }
+        ],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.99.) As printed: Skillwire (Small-Unit Tactics, Rating 9)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.92554f491ab51021",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a54fcf5191450181",
+      "name": "Smartlink (Level II)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 0.5,
+        "rating": 1,
+        "cost": 3200,
+        "availability": "6/48 hrs",
+        "streetIndex": "2",
+        "legality": "5P-CA",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II.",
+        "combatTnMod": -2
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.7a73969b94433711",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3daa48719452315f",
+      "name": "Subdermal Speakers",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.1,
+        "rating": 1,
+        "cost": 650,
+        "availability": "4/72 hrs",
+        "streetIndex": "2",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Mounted under the skin behind the ear; sound over them cannot be overheard. (Cybertechnology, table p.95, p.18.) As printed: Subdermal Speakers."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.442b3110dca81095",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b36fe9da10897237",
+      "name": "Subvocal Microphone (Internal)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.1,
+        "rating": 1,
+        "cost": 850,
+        "availability": "4/72 hrs",
+        "streetIndex": "2",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "+4 TN to Perception Tests to overhear conversations using it. Connects to an external radio through a datajack (required). (Cybertechnology, table p.95, p.18.) As printed: Subvocal Microphones."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.47cd417851a5a342",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "48b9db7e4d91f4b2",
+      "name": "Cerebral Booster",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/cerebral-booster.webp",
+      "system": {
+        "bodySystem": "neural",
+        "grade": "standard",
+        "bodyCost": 0,
+        "rating": 2,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 0.4,
+            "cost": 50000,
+            "availability": "6/14 days",
+            "streetIndex": "2",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 0.8,
+            "cost": 110000,
+            "availability": "6/14 days",
+            "streetIndex": "2",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 1,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "+1 Intelligence per Level (the Intelligence gain also raises Reaction). Level 2 additionally grants a Task Pool equal to its Level for Technical/Knowledge/B&R skills (tracked by hand) (Shadowtech p.23). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.bca4fdaee6a77912",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e964ec056daad7eb",
+      "name": "Mnemonic Enhancer",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/mnemonic-enhancer.webp",
+      "system": {
+        "bodySystem": "neural",
+        "grade": "standard",
+        "bodyCost": 0,
+        "rating": 4,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 0.2,
+            "cost": 15000,
+            "availability": "6/7 days",
+            "streetIndex": "",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 0.4,
+            "cost": 30000,
+            "availability": "6/7 days",
+            "streetIndex": "",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 3,
+            "bodyCost": 0.6,
+            "cost": 45000,
+            "availability": "6/7 days",
+            "streetIndex": "",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "+1 die per Level to Intelligence Tests to recall information, and +1 die per 2 Levels to Knowledge and Language Success Tests. Max Level = unaugmented Body (Shadowtech p.25). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.f3dc18a732f084d2",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c123f80e5a8f7f5c",
+      "name": "Ares Alpha Combat Gun",
+      "type": "weapon",
+      "img": "modules/sr2e-fields-of-fire/assets/item_icons/weapon/ares-alpha-combat-gun.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "8M",
+        "damageType": "physical",
+        "concealability": 2,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": true,
+          "bf": true,
+          "fa": true
+        },
+        "ammo": {
+          "current": 42,
+          "max": 42,
+          "type": "clip"
+        },
+        "recoilComp": 2,
+        "smartgunCompatible": true,
+        "ranges": {
+          "short": 15,
+          "medium": 40,
+          "long": 100,
+          "extreme": 250
+        },
+        "strengthMin": 0,
+        "weight": 5.25,
+        "cost": 2000,
+        "availability": "8/48 hrs",
+        "legality": "Forbidden",
+        "streetIndex": "4",
+        "equipped": false,
+        "accessories": [],
+        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-fields-of-fire.ff-weapons.Item.19589db1899d9049",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4da798936baee220",
+      "name": "Ares MP-LMG",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/ares-mp-lmg.webp",
+      "system": {
+        "weaponType": "heavy",
+        "skill": "heavy_weapons",
+        "damageCode": "7S",
+        "damageType": "physical",
+        "concealability": 99,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": true,
+          "fa": true
+        },
+        "ammo": {
+          "current": 50,
+          "max": 50,
+          "type": "belt"
+        },
+        "recoilComp": 0,
+        "smartgunCompatible": false,
+        "ranges": {
+          "short": 20,
+          "medium": 40,
+          "long": 80,
+          "extreme": 150
+        },
+        "strengthMin": 0,
+        "weight": 7.5,
+        "cost": 2200,
+        "availability": "6/5 days",
+        "legality": "Restricted",
+        "streetIndex": 2,
+        "equipped": false,
+        "accessories": [],
+        "notes": "A belt-fed light machine gun built to lay down sustained suppressing fire from a bipod or a sling. SSC."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.ba6c120670294d28",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b5ec215e35f8eb06",
+      "name": "Combat Axe",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/combat-axe.webp",
+      "system": {
+        "weaponType": "melee",
+        "skill": "armed_combat",
+        "damageCode": "(Str)S",
+        "damageType": "physical",
+        "concealability": 2,
+        "reach": 2,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 0,
+          "max": 0,
+          "type": "rifle"
+        },
+        "recoilComp": 0,
+        "smartgunCompatible": false,
+        "ranges": {
+          "short": 0,
+          "medium": 0,
+          "long": 0,
+          "extreme": 0
+        },
+        "strengthMin": 0,
+        "weight": 2,
+        "cost": 750,
+        "availability": "3/24 hrs",
+        "legality": "Restricted",
+        "streetIndex": 2,
+        "equipped": false,
+        "accessories": [],
+        "notes": "A brutal two-handed combat axe; its reverse thrusting point does (Str+2)L at Reach 0. SSC."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.1270972ae42e0ff4",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 92
+      },
+      "printed": {
+        "essence": -4,
+        "initiative": "4 (Special) + 1D6 (4D6)",
+        "tpr": "9/4"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Cyber Logician",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!1ef37e78f87c4a2c"
+}

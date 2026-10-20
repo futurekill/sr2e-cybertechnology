@@ -1,0 +1,1527 @@
+{
+  "_id": "60b09a968e1187e6",
+  "name": "Six Million Nuyen Street Samurai",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>A new class of street samurai born of cybermancy. Little regard for anyone else's wisdom; received too much too soon, thinks his cyberware and bioware make him invincible, and is eager to prove it. A lethal menace to himself and anyone around him.</p>\n<p><strong>Augmented (applied):</strong> body 6 (9), quickness 4 (7), strength 6 (9), reaction 6 (13).</p>\n<p><strong>Initiative (printed):</strong> 6 (13) + 1D6 (+ 4D6)</p>\n<p><strong>Essence -7.6 (printed).</strong> Cybermantic: the sheet can't hold negative Essence yet and shows 0 (Cybermancy rules, p.78–84).</p>\n<p><strong>Bioware:</strong> Adrenal Pump (2) (cultured); Damage Compensator 3 (cultured); Enhanced Articulation (cultured); Orthoskin 3 (cultured); Suprathyroid Gland (cultured); Synthacardium (2) (cultured)</p>\n<p><strong>Cyberware:</strong> Blood Filter (2) (beta); Cybereyes (beta) (Flare Compensation, Low-Light, Thermographic); Muscle Replacement 2 (beta); Retractable Spur (beta); Smartlink II (2) (beta); Wired Reflexes (3) (beta); Invoked Memory Stimulator (delta); Dermal Sheath 2 (delta)</p>\n<p><strong>Gear:</strong> Ares Predator II (w/45 rounds regular ammo, Level II Smartlink); Armor Jacket; DocWagon Contract (Platinum); Uzi-III (w/100 rounds regular ammo, Level II Smartlink, Gas Vent III); Additional gear as appropriate</p>\n<p><strong>Note:</strong> Initiative prints \"+ 1D6 (+ 4D6)\": 1D6 plus 4D6 from wired reflexes 3 and the pump, so 5 dice.</p>\n<p><strong>Threat/Professional Rating:</strong> 4/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.90.</em></p>",
+    "race": "human",
+    "professionalRating": 4,
+    "body": {
+      "base": 6,
+      "mod": 3,
+      "value": 9,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 4,
+      "mod": 3,
+      "value": 7,
+      "racial": 0
+    },
+    "strength": {
+      "base": 6,
+      "mod": 3,
+      "value": 9,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 2,
+      "mod": 0,
+      "value": 2,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 0,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 7
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 5,
+      "mod": 0
+    },
+    "bodyIndex": {
+      "value": 5.25
+    },
+    "armor": {
+      "ballistic": 1,
+      "impact": 3
+    }
+  },
+  "items": [
+    {
+      "_id": "e2ace3dff1fb92cc",
+      "name": "Armed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b97d2e4d62acd803",
+      "name": "Bike",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "e34cb57ee0c2aba8",
+      "name": "Etiquette (Street)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d14b00d674e82383",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ad96660ef334e49e",
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "336d70a13724edc3",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "be5d93caedf63cdf",
+      "name": "Filtration System (Blood)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "beta",
+        "essenceCost": 0.2,
+        "rating": 2,
+        "cost": 10000,
+        "availability": "6/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [
+          {
+            "rating": 1,
+            "essenceCost": 0.2,
+            "cost": 10000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 2,
+            "essenceCost": 0.4,
+            "cost": 20000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 3,
+            "essenceCost": 0.6,
+            "cost": 30000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 4,
+            "essenceCost": 0.8,
+            "cost": 40000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 5,
+            "essenceCost": 1,
+            "cost": 50000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 6,
+            "essenceCost": 1.2,
+            "cost": 60000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          }
+        ],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.99.) As printed: Blood Filter (2) (beta)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.8242921192274437",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "b27a2f88d89899de",
+      "name": "Cybereyes",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "beta",
+        "essenceCost": 0.2,
+        "rating": 1,
+        "cost": 5000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0.5,
+        "modules": [
+          {
+            "name": "Flare Compensation",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Low-Light Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Thermographic Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (beta) (Flare Compensation, Low-Light, Thermographic)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cybereye-pair"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c34224fc4f8bcecb",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "367ed406215fc479",
+      "name": "Muscle Replacement (Rating 2)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "beta",
+        "essenceCost": 2,
+        "rating": 1,
+        "cost": 40000,
+        "availability": "4/4 days",
+        "streetIndex": "1",
+        "legality": "5P-CB",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 2,
+          "strength": 2,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.97.) As printed: Muscle Replacement 2 (beta).",
+        "noReactionBonus": true
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.ea48feece9ae69f5",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0c36a3bb428ce5d9",
+      "name": "Retractable Spur",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "beta",
+        "essenceCost": 0.3,
+        "rating": 1,
+        "cost": 11500,
+        "availability": "5/72 hrs",
+        "streetIndex": "1",
+        "legality": "3-B",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.97.) As printed: Retractable Spur (beta).",
+        "isWeapon": true,
+        "weaponType": "melee",
+        "skill": "unarmed_combat",
+        "damageCode": "(Str+2)L",
+        "damageType": "physical",
+        "reach": 0
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.b5714691a31f502d",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bb9ff547ab29d43b",
+      "name": "Smartlink (Level II)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "beta",
+        "essenceCost": 0.5,
+        "rating": 1,
+        "cost": 3200,
+        "availability": "6/48 hrs",
+        "streetIndex": "2",
+        "legality": "5P-CA",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II (2) (beta).",
+        "combatTnMod": -2
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.7a73969b94433711",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "78276bea8d91ed40",
+      "name": "Wired Reflexes (Level 3)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "beta",
+        "essenceCost": 5,
+        "rating": 1,
+        "cost": 500000,
+        "availability": "8/14 days",
+        "streetIndex": "1",
+        "legality": "3-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 6,
+          "initiativeDice": 3
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (3) (beta)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          },
+          "rule": "wired-reflexes:3"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.ada913c597cb59d4",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "85be471f7be075d2",
+      "name": "Invoked Memory Stimulator",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "delta",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 137750,
+        "availability": "NA",
+        "streetIndex": "NA",
+        "legality": "3P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (Phase 6 adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator (delta)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          },
+          "rule": "ims"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.797911b4b3489c01",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "62a5dba798eb0dbe",
+      "name": "Dermal Sheath (Level 2)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "delta",
+        "essenceCost": 1.4,
+        "rating": 1,
+        "cost": 60000,
+        "availability": "6/14 days",
+        "streetIndex": "1.5",
+        "legality": "6P-CA",
+        "installed": true,
+        "attributeMods": {
+          "body": 3,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Body +(level+1) (the book's example: Level 2 adds 3); Impact Armor ½ level rounded up. (Cybertechnology, table p.99, p.28.) As printed: Dermal Sheath 2 (delta).",
+        "armorImpact": 1
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          },
+          "rule": "dermal-sheath"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.21bdc9b911969333",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4c1b2425fd01bf2c",
+      "name": "Adrenal Pump",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/adrenal-pump.webp",
+      "system": {
+        "bodySystem": "endocrine",
+        "grade": "cultured",
+        "bodyCost": 0,
+        "rating": 2,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "5P-BB",
+        "installed": true,
+        "triggered": true,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 1.25,
+            "cost": 60000,
+            "availability": "10/16 days",
+            "streetIndex": "3",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 2.5,
+            "cost": 100000,
+            "availability": "10/16 days",
+            "streetIndex": "3",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 1,
+          "strength": 1,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 1,
+          "reaction": 2,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": true,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "adrenalPump": true
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.acc48cba2abcfb40",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "319db642f81f22f0",
+      "name": "Damage Compensator",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/damage-compensator.webp",
+      "system": {
+        "bodySystem": "neural",
+        "grade": "standard",
+        "bodyCost": 0,
+        "rating": 3,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "6P-BA",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 0.2,
+            "cost": 25000,
+            "availability": "6/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 0.4,
+            "cost": 50000,
+            "availability": "6/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 3,
+            "bodyCost": 0.6,
+            "cost": 150000,
+            "availability": "10/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 4,
+            "bodyCost": 0.8,
+            "cost": 200000,
+            "availability": "10/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 5,
+            "bodyCost": 1,
+            "cost": 250000,
+            "availability": "10/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 6,
+            "bodyCost": 1.2,
+            "cost": 600000,
+            "availability": "12/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 7,
+            "bodyCost": 1.4,
+            "cost": 700000,
+            "availability": "12/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 8,
+            "bodyCost": 1.6,
+            "cost": 800000,
+            "availability": "12/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 9,
+            "bodyCost": 1.8,
+            "cost": 900000,
+            "availability": "12/6 days",
+            "streetIndex": "2.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": true,
+        "ignoresStunPenalty": false,
+        "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.10673ff02109f3b8",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "6d4b9ba1cdd7cb2f",
+      "name": "Enhanced Articulation",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/enhanced-articulation.webp",
+      "system": {
+        "bodySystem": "structural",
+        "grade": "cultured",
+        "bodyCost": 0.6,
+        "rating": 1,
+        "cost": 40000,
+        "availability": "5/6 days",
+        "streetIndex": "1.5",
+        "legality": "Legal",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 1,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 1,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34)."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.339597bae36eceb8",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "babaf3309902e3de",
+      "name": "Orthoskin",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/orthoskin.webp",
+      "system": {
+        "bodySystem": "dermal",
+        "grade": "cultured",
+        "bodyCost": 0,
+        "rating": 3,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "SP-BA",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 0.5,
+            "cost": 25000,
+            "availability": "8/8 days",
+            "streetIndex": ".8",
+            "armorBallistic": 0,
+            "armorImpact": 1
+          },
+          {
+            "rating": 2,
+            "bodyCost": 1,
+            "cost": 60000,
+            "availability": "8/8 days",
+            "streetIndex": ".8",
+            "armorBallistic": 1,
+            "armorImpact": 1
+          },
+          {
+            "rating": 3,
+            "bodyCost": 1.5,
+            "cost": 100000,
+            "availability": "8/8 days",
+            "streetIndex": ".8",
+            "armorBallistic": 1,
+            "armorImpact": 2
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "An energy-diffusing weave under the skin granting subdermal armor (adds to worn armor; not compatible with dermal plating) — Level 1 +1 Impact, Level 2 +1 Impact/+1 Ballistic, Level 3 +2 Impact/+1 Ballistic (Shadowtech p.17)."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.f59178e795823c16",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7bb9c41837784e64",
+      "name": "Suprathyroid Gland",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/suprathyroid-gland.webp",
+      "system": {
+        "bodySystem": "endocrine",
+        "grade": "cultured",
+        "bodyCost": 1.4,
+        "rating": 1,
+        "cost": 50000,
+        "availability": "8/12 days",
+        "streetIndex": "2.5",
+        "legality": "6P-BB",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 1,
+          "quickness": 1,
+          "strength": 1,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 1,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Supercharged metabolism: +1 Body, +1 Quickness, +1 Strength, +1 Reaction (the Quickness also feeds Reaction). Requires double food/drink; radiates heat (−1 TN for thermographic observers to notice). The Reaction bonus doesn't help rigging or decking (Shadowtech p.20)."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.fc58c133d4a51a68",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ac9a1760bf00dc00",
+      "name": "Synthacardium",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/synthacardium.webp",
+      "system": {
+        "bodySystem": "circulatory",
+        "grade": "cultured",
+        "bodyCost": 0,
+        "rating": 2,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 0.2,
+            "cost": 6000,
+            "availability": "4/10 days",
+            "streetIndex": "1.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 0.3,
+            "cost": 15000,
+            "availability": "4/10 days",
+            "streetIndex": "1.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16)."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.a25b546bf0e3b71d",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ad7885119d0b5496",
+      "name": "Ares Predator II",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/ares-predator-ii.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "9M",
+        "damageType": "physical",
+        "concealability": 4,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": true,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 15,
+          "max": 15,
+          "type": "pistol"
+        },
+        "recoilComp": 0,
+        "smartgunCompatible": false,
+        "ranges": {
+          "short": 5,
+          "medium": 20,
+          "long": 40,
+          "extreme": 60
+        },
+        "strengthMin": 0,
+        "weight": 2.5,
+        "cost": 550,
+        "availability": "4/24 hrs",
+        "legality": "Restricted",
+        "streetIndex": 0.5,
+        "equipped": false,
+        "accessories": [],
+        "notes": "The iconic heavy pistol of the shadows — accurate, hard-hitting, and seemingly in every other holster on the street. SSC."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.661bd7a7528654d6",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "184162a3a13cf0f8",
+      "name": "Armor Jacket",
+      "type": "armor",
+      "img": "systems/sr2e/assets/item_icons/armor/armor-jacket.webp",
+      "system": {
+        "ballistic": 5,
+        "impact": 3,
+        "concealability": 6,
+        "weight": 0,
+        "cost": 900,
+        "availability": "3/36 hrs",
+        "legality": "Legal",
+        "equipped": true,
+        "isLayered": false,
+        "notes": "SR2E p.242. Available from chic street styling to macho militarism. Substantial protection in a practical package.",
+        "streetIndex": 0.75
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e.armor.Item.207553827d18c2e9",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7d50684cbb462f62",
+      "name": "Uzi III",
+      "type": "weapon",
+      "img": "systems/sr2e/assets/item_icons/weapons/uzi-iii.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "6M",
+        "damageType": "physical",
+        "concealability": 5,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": true,
+          "fa": false
+        },
+        "ammo": {
+          "current": 24,
+          "max": 24,
+          "type": "smg"
+        },
+        "recoilComp": 1,
+        "ranges": {
+          "short": 10,
+          "medium": 40,
+          "long": 80,
+          "extreme": 150
+        },
+        "strengthMin": 0,
+        "weight": 2,
+        "cost": 600,
+        "availability": "4/24 hrs",
+        "legality": "Legal",
+        "equipped": false,
+        "accessories": [],
+        "notes": "SR2E p.232. The latest in the venerable Uzi lineage—compact, reliable, and effective in close quarters. BF capable.",
+        "streetIndex": 0.75
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e.weapons.Item.015cebdcf70442c3",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 90
+      },
+      "printed": {
+        "essence": -7.6,
+        "initiative": "6 (13) + 1D6 (+ 4D6)",
+        "tpr": "4/4"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Six Million Nuyen Street Samurai",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!60b09a968e1187e6"
+}

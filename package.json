@@ -9,7 +9,7 @@
     "validate": "node tools/validate-packs.mjs",
     "art": "node tools/set-art.mjs",
     "lint": "eslint .",
-    "generate": "node tools/gen-items.mjs"
+    "generate": "node tools/gen-items.mjs && node tools/gen-actors.mjs"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.5",

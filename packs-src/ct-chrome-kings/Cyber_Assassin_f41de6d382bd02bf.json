@@ -1,0 +1,2132 @@
+{
+  "_id": "f41de6d382bd02bf",
+  "name": "Cyber Assassin",
+  "type": "npc",
+  "img": "icons/svg/mystery-man.svg",
+  "system": {
+    "biography": "<p>&gt;&gt;&gt;&gt;CLASSIFIED&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;NO DATA AVAILABLE&lt;&lt;&lt;&lt;&lt;</p>\n<p><strong>Augmented (applied):</strong> body 4 (5), quickness 5 (7), reaction 5 (9).</p>\n<p><strong>Initiative (printed):</strong> 5 (9) + 1D6 (3D6)</p>\n<p><strong>Bioware:</strong> Adrenal Pump (2); Pain Editor; Synthacardium (2); Toxin Exhaler</p>\n<p><strong>Cyberware:</strong> Air Filter (5); Blood Filter (5) (alpha); Bone Lacing (Plastic) (alpha); Cranial Area Bomb (set to detonate upon death); Cyberears [Balance Augmentor (alpha), Hearing Amplification, Select Sound Filter (3), Sound Damper]; Cybereyes (alpha) (Datajack, Flare Compensation, Low-Light, Thermographic, Optical Scanning Retinal Clock, Rangefinder, Tool Laser) (all alpha); Internal Air Tank; Move-By-Wire System (2) (beta)</p>\n<p><strong>Gear:</strong> Barret Model 121 [w/28 rounds APDS ammo, Sound Suppressor, Bipod, Level II Smartlink, Imaging Scope (Low-Light, Mag 3), Ruthenium Polymer Case w/6 Imaging Scanners]; Ceska vz/120 (54 round APDS ammo, Silencer, Level II Smartlink); Morrissey Elan (10 rounds APDS ammo); Ruthenium Polymer Armored Suit (Armor 5/2, 6 Imaging Scanners); Shock Glove; Shuriken (6, w/Dikote edge); Survival Knife (w/Dikote edge); Additional gear as appropriate</p>\n<p><strong>Note:</strong> The book prints the eye list as \"Optical Scanning Retinal Clock\"; read here as the Optical Scanning Datajack and the Retinal Clock.</p>\n<p><strong>Threat/Professional Rating:</strong> 6/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.89.</em></p>",
+    "race": "human",
+    "professionalRating": 4,
+    "body": {
+      "base": 4,
+      "mod": 1,
+      "value": 5,
+      "racial": 0
+    },
+    "quickness": {
+      "base": 5,
+      "mod": 2,
+      "value": 7,
+      "racial": 0
+    },
+    "strength": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "charisma": {
+      "base": 3,
+      "mod": 0,
+      "value": 3,
+      "racial": 0
+    },
+    "intelligence": {
+      "base": 4,
+      "mod": 0,
+      "value": 4,
+      "racial": 0
+    },
+    "willpower": {
+      "base": 5,
+      "mod": 0,
+      "value": 5,
+      "racial": 0
+    },
+    "essence": {
+      "value": 0.16,
+      "max": 6
+    },
+    "reaction": {
+      "mod": 4
+    },
+    "initiative": {
+      "base": 0,
+      "dice": 3,
+      "mod": 0
+    },
+    "bodyIndex": {
+      "value": 4
+    },
+    "armor": {
+      "ballistic": 0,
+      "impact": 0
+    }
+  },
+  "items": [
+    {
+      "_id": "9ccbbf9a51121b23",
+      "name": "Armed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d620d84058bb02ee",
+      "name": "Athletics",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "3ccc75c213556fe6",
+      "name": "Bike",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "9f5e40d457c1dfc7",
+      "name": "Biotech",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "938ea68f1f4a6037",
+      "name": "Car",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "10bf95cb7e64ed14",
+      "name": "Computer",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7eca9fd39fc7459d",
+      "name": "Demolitions",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d8a6ecc18d17e7d6",
+      "name": "Etiquette (Corporate)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "954b524ce500f387",
+      "name": "Etiquette (Street)",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "91b561d0e1e32aec",
+      "name": "Firearms",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 8,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bece982127582236",
+      "name": "Interrogation",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 5,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "baed31aa237adbb0",
+      "name": "Physical Sciences",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5c23df01592d43e0",
+      "name": "Psychology",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "knowledge",
+        "rating": 3,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "acce9f2169a4df29",
+      "name": "Rotorcraft",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "c3981e6999aa0461",
+      "name": "Stealth",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 8,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "5d95bdbb542c7df6",
+      "name": "Throwing",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "95e41e2c87cf4f62",
+      "name": "Unarmed Combat",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 7,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7c52dfc9714efc99",
+      "name": "Winged Planes",
+      "type": "skill",
+      "img": "icons/svg/book.svg",
+      "system": {
+        "category": "active",
+        "rating": 4,
+        "linkedAttribute": "intelligence",
+        "allocated": null,
+        "ratingsFinalized": true,
+        "concentration": {
+          "name": "",
+          "rating": 0
+        },
+        "specialization": {
+          "name": "",
+          "rating": 0
+        },
+        "description": ""
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "51cbd399ca545a8e",
+      "name": "Filtration System (Air)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "standard",
+        "essenceCost": 0.1,
+        "rating": 5,
+        "cost": 15000,
+        "availability": "6/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [
+          {
+            "rating": 1,
+            "essenceCost": 0.1,
+            "cost": 15000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 2,
+            "essenceCost": 0.2,
+            "cost": 30000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 3,
+            "essenceCost": 0.3,
+            "cost": 45000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 4,
+            "essenceCost": 0.4,
+            "cost": 60000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 5,
+            "essenceCost": 0.5,
+            "cost": 75000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 6,
+            "essenceCost": 0.6,
+            "cost": 90000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          }
+        ],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.99.) As printed: Air Filter (5)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.082a330c9676b510",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "63b986cfa014af38",
+      "name": "Filtration System (Blood)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "alpha",
+        "essenceCost": 0.2,
+        "rating": 5,
+        "cost": 10000,
+        "availability": "6/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [
+          {
+            "rating": 1,
+            "essenceCost": 0.2,
+            "cost": 10000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 2,
+            "essenceCost": 0.4,
+            "cost": 20000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 3,
+            "essenceCost": 0.6,
+            "cost": 30000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 4,
+            "essenceCost": 0.8,
+            "cost": 40000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 5,
+            "essenceCost": 1,
+            "cost": 50000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          },
+          {
+            "rating": 6,
+            "essenceCost": 1.2,
+            "cost": 60000,
+            "availability": "6/4 days",
+            "streetIndex": 1
+          }
+        ],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.99.) As printed: Blood Filter (5) (alpha)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 99
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.8242921192274437",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "bdbb4c34b7a4d929",
+      "name": "Bone Lacing (Plastic)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "alpha",
+        "essenceCost": 0.5,
+        "rating": 1,
+        "cost": 7500,
+        "availability": "5/14 days",
+        "streetIndex": "1.5",
+        "legality": "6P-CA",
+        "installed": true,
+        "attributeMods": {
+          "body": 1,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "(Cybertechnology, table p.96.) As printed: Bone Lacing (Plastic) (alpha).",
+        "unarmedPowerBonus": 1
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 96
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.37c5825987f7e3be",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a7aa059c4748e157",
+      "name": "Cranial Bomb: Area Bomb",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "standard",
+        "essenceCost": 0,
+        "rating": 1,
+        "cost": 500000,
+        "availability": "20/14 days",
+        "streetIndex": "1",
+        "legality": "2-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Kills the bearer and anyone too close. Bought at Power 3–8 and Damage Level M–D; blast −1 per meter. Kills the bearer regardless of blast size. (Rules p.47: 300,000¥ minimum.) The area bomb kills no matter where it's placed. GM may adjust the price by Damage Code; consider a minimum of 300,000¥ for the weakest. (Cybertechnology, table p.94, p.27, p.47.) As printed: Cranial Area Bomb (set to detonate upon death)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 94
+          },
+          "rule": "cranial-bomb"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.593dc755d20f8214",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "4396c585e15e21f0",
+      "name": "Cyberear Replacement",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "standard",
+        "essenceCost": 0.3,
+        "rating": 1,
+        "cost": 4000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [
+          {
+            "name": "Balance Augmentor",
+            "essenceCost": 0.4,
+            "cost": 14000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Hearing Amplification",
+            "essenceCost": 0.2,
+            "cost": 3500,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Select Sound Filter",
+            "essenceCost": 0.2,
+            "cost": 10000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Damper",
+            "essenceCost": 0.1,
+            "cost": 3500,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears [Balance Augmentor (alpha), Hearing Amplification, Select Sound Filter (3), Sound Damper]."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cyberear"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c57d42ead6f96e31",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "68e25df25d117257",
+      "name": "Cybereyes",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "headware",
+        "grade": "alpha",
+        "essenceCost": 0.2,
+        "rating": 1,
+        "cost": 5000,
+        "availability": "2/24 hrs",
+        "streetIndex": "0.75",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0.5,
+        "modules": [
+          {
+            "name": "Eye Dataport",
+            "essenceCost": 0.25,
+            "cost": 2200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Flare Compensation",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Low-Light Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Thermographic Vision",
+            "essenceCost": 0.2,
+            "cost": 3000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Optical Scanning Datajack",
+            "essenceCost": 0.3,
+            "cost": 5500,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Retinal Clock",
+            "essenceCost": 0.1,
+            "cost": 450,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Rangefinder",
+            "essenceCost": 0.1,
+            "cost": 2000,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          },
+          {
+            "name": "Eye Tool Laser",
+            "essenceCost": 0.25,
+            "cost": 5200,
+            "rating": 0,
+            "combatTnMod": 0,
+            "active": true,
+            "notes": ""
+          }
+        ],
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (alpha) (Datajack, Flare Compensation, Low-Light, Thermographic, Optical Scanning Retinal Clock, Rangefinder, Tool Laser) (all alpha)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 95
+          },
+          "rule": "cybereye-pair"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-headware.Item.c34224fc4f8bcecb",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7e7e0b62d035055e",
+      "name": "Internal Air Tank",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "standard",
+        "essenceCost": 0.25,
+        "rating": 1,
+        "cost": 1200,
+        "availability": "4/5 days",
+        "streetIndex": "1.5",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.) As printed: Internal Air Tank."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 97
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.2d88e694aa9cb889",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "d7a493e2e57bfc20",
+      "name": "Move-by-Wire System (Level 2)",
+      "type": "cyberware",
+      "img": "icons/svg/upgrade.svg",
+      "system": {
+        "location": "bodyware",
+        "grade": "beta",
+        "essenceCost": 3.85,
+        "rating": 1,
+        "cost": 500000,
+        "availability": "12/20 days",
+        "streetIndex": "3",
+        "legality": "3P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 2,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 4,
+          "initiativeDice": 2
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "+2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.) As printed: Move-By-Wire System (2) (beta)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "move-by-wire:2",
+          "provisional": {
+            "rule": "move-by-wire",
+            "fields": {
+              "attributeMods.quickness": 2,
+              "attributeMods.reaction": 4,
+              "attributeMods.initiativeDice": 2
+            }
+          }
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-bodyware.Item.085b5bb2b4be360c",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7b7e67a2071d6a2b",
+      "name": "Adrenal Pump",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/adrenal-pump.webp",
+      "system": {
+        "bodySystem": "endocrine",
+        "grade": "standard",
+        "bodyCost": 0,
+        "rating": 2,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "5P-BB",
+        "installed": true,
+        "triggered": true,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 1.25,
+            "cost": 60000,
+            "availability": "10/16 days",
+            "streetIndex": "3",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 2.5,
+            "cost": 100000,
+            "availability": "10/16 days",
+            "streetIndex": "3",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 1,
+          "strength": 1,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 1,
+          "reaction": 2,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": true,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)."
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "adrenalPump": true
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.acc48cba2abcfb40",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "a1af3dfbce19e572",
+      "name": "Pain Editor",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/pain-editor.webp",
+      "system": {
+        "bodySystem": "neural",
+        "grade": "standard",
+        "bodyCost": 0.6,
+        "rating": 1,
+        "cost": 60000,
+        "availability": "6/6 days",
+        "streetIndex": "1.2",
+        "legality": "6P-BA",
+        "installed": true,
+        "triggered": true,
+        "active": false,
+        "ratingStats": [],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": -1,
+          "willpower": 1,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": true,
+        "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.14250c00e975634e",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "f11155416740d9bc",
+      "name": "Synthacardium",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/synthacardium.webp",
+      "system": {
+        "bodySystem": "circulatory",
+        "grade": "standard",
+        "bodyCost": 0,
+        "rating": 2,
+        "cost": 0,
+        "availability": "",
+        "streetIndex": "",
+        "legality": "Legal",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [
+          {
+            "rating": 1,
+            "bodyCost": 0.2,
+            "cost": 6000,
+            "availability": "4/10 days",
+            "streetIndex": "1.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          },
+          {
+            "rating": 2,
+            "bodyCost": 0.3,
+            "cost": 15000,
+            "availability": "4/10 days",
+            "streetIndex": "1.5",
+            "armorBallistic": 0,
+            "armorImpact": 0
+          }
+        ],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16)."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.a25b546bf0e3b71d",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2331abb9b55fcdd7",
+      "name": "Toxin Exhaler",
+      "type": "bioware",
+      "img": "modules/sr2e-shadowtech/assets/item_icons/bioware/toxin-exhaler.webp",
+      "system": {
+        "bodySystem": "respiratory",
+        "grade": "standard",
+        "bodyCost": 0.6,
+        "rating": 1,
+        "cost": 30000,
+        "availability": "10/4 days",
+        "streetIndex": "3",
+        "legality": "S-BB",
+        "installed": true,
+        "triggered": false,
+        "active": false,
+        "ratingStats": [],
+        "armorBallistic": 0,
+        "armorImpact": 0,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "noReactionBonus": false,
+        "activeSkillDice": 0,
+        "damageCompensator": false,
+        "ignoresStunPenalty": false,
+        "notes": "Exhales a stored toxin (chosen at implantation, bought separately, +100× a dose) as a 2m cone: Quickness (4) Test to hit, +1 TN per ½m, range = ½ unaugmented Body. The user is immunized against that toxin (double natural Body to resist) (Shadowtech p.32)."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-shadowtech.st-bioware.Item.9f7e371475559ce1",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "167ba28b2978aa90",
+      "name": "Barret Model 121 Heavy Sniper Rifle",
+      "type": "weapon",
+      "img": "modules/sr2e-fields-of-fire/assets/item_icons/weapon/barret-model-121-heavy-sniper-rifle.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "14D",
+        "damageType": "physical",
+        "concealability": 99,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": true,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 14,
+          "max": 14,
+          "type": "clip"
+        },
+        "recoilComp": 2,
+        "smartgunCompatible": true,
+        "ranges": {
+          "short": 40,
+          "medium": 80,
+          "long": 200,
+          "extreme": 400
+        },
+        "strengthMin": 0,
+        "weight": 10,
+        "cost": 4800,
+        "availability": "14/30 days",
+        "legality": "Forbidden",
+        "streetIndex": 5,
+        "equipped": false,
+        "accessories": [],
+        "notes": "Heavy anti-materiel sniper rifle with an integral silencer (+2 RR) and Smartlink I (+2). Fires custom armor-piercing rounds (treat as APDS; 200¥ per box of 10, separate acquisition test). Fields of Fire p.35."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-fields-of-fire.ff-weapons.Item.116a8d96f07341de",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "0f649e8b8f6bfa9d",
+      "name": "Ceska vz/120",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/ceska-vz-120.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "6L",
+        "damageType": "physical",
+        "concealability": 7,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": true,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 0,
+          "max": 18,
+          "type": "pistol",
+          "sourceId": "",
+          "loadedSourceId": "",
+          "loadedName": "",
+          "damageMod": 0,
+          "armorMod": 0,
+          "armorCalc": "standard",
+          "damageType": ""
+        },
+        "recoilComp": 0,
+        "ranges": {
+          "short": 5,
+          "medium": 15,
+          "long": 30,
+          "extreme": 50
+        },
+        "strengthMin": 0,
+        "weight": 1,
+        "cost": 500,
+        "availability": "3/12 hrs",
+        "legality": "Legal",
+        "streetIndex": 0.8,
+        "equipped": false,
+        "accessories": [],
+        "choke": 0,
+        "smartgunCompatible": false,
+        "weaponFocusForce": 0,
+        "focusBonded": false,
+        "blastType": "",
+        "aerodynamic": false,
+        "quantity": 1,
+        "strengthMinimum": 0,
+        "costPerStrengthMin": 0,
+        "strMinDamageBonus": 0,
+        "notes": "Light pistol. Ranges are the Light Pistol row of the Weapon Range Table (p.88). SSC, restated in the core book's Sourcebook Updates table, p.278."
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.acecbbaa2082d1c8",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2739db3ca26d02a7",
+      "name": "Morrissey Élan",
+      "type": "weapon",
+      "img": "modules/sr2e-neo-anarchists/assets/item_icons/weapon/morrissey-elan.webp",
+      "system": {
+        "weaponType": "firearm",
+        "skill": "firearms",
+        "damageCode": "5L",
+        "damageType": "physical",
+        "concealability": 5,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": true,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 5,
+          "max": 5,
+          "type": "pistol"
+        },
+        "recoilComp": 0,
+        "ranges": {
+          "short": 5,
+          "medium": 15,
+          "long": 30,
+          "extreme": 50
+        },
+        "strengthMin": 0,
+        "weight": 0.5,
+        "cost": 500,
+        "availability": "8/7 days",
+        "legality": "Restricted",
+        "equipped": false,
+        "accessories": [],
+        "notes": "The smallest Morrissey holdout — an elegant polymer pistol. Cannot fire flechette or needle ammo. Street Index 2. Neo-Anarchists' Guide p.31.",
+        "streetIndex": 2
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-neo-anarchists.na-weapons.Item.ce8283d734fd6267",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "7cff14e44045a976",
+      "name": "Shock Glove",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/shock-glove.webp",
+      "system": {
+        "weaponType": "melee",
+        "skill": "unarmed_combat",
+        "damageCode": "7S",
+        "damageType": "stun",
+        "concealability": 9,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 0,
+          "max": 0,
+          "type": "rifle"
+        },
+        "recoilComp": 0,
+        "smartgunCompatible": false,
+        "ranges": {
+          "short": 0,
+          "medium": 0,
+          "long": 0,
+          "extreme": 0
+        },
+        "strengthMin": 0,
+        "weight": 0.5,
+        "cost": 950,
+        "availability": "5/48 hrs",
+        "legality": "Restricted",
+        "streetIndex": 2,
+        "equipped": false,
+        "accessories": [],
+        "notes": "An armored glove wired to dump a stunning charge into whatever it strikes (7S Stun). SSC."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.17520d3e1a56425e",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "ab4fcd1209f425b6",
+      "name": "Shuriken",
+      "type": "weapon",
+      "img": "systems/sr2e/assets/item_icons/weapons/shuriken.webp",
+      "system": {
+        "weaponType": "throwing",
+        "skill": "throwing_weapons",
+        "damageCode": "(Str)L",
+        "damageType": "physical",
+        "concealability": 8,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 0,
+          "max": 0,
+          "type": ""
+        },
+        "recoilComp": 0,
+        "ranges": {
+          "short": 5,
+          "medium": 10,
+          "long": 15,
+          "extreme": 20
+        },
+        "strengthMin": 0,
+        "weight": 0.25,
+        "cost": 30,
+        "availability": "2/24 hrs",
+        "legality": "Legal",
+        "equipped": false,
+        "accessories": [],
+        "notes": "SR2E p.228. Multi-edged or spiked airfoil throwing blade. Easy to conceal, fast to deploy.",
+        "quantity": 1,
+        "streetIndex": 2,
+        "aerodynamic": true
+      },
+      "effects": [],
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e.weapons.Item.380c6fa6544c78ec",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "folder": null,
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "66f127e4266be64c",
+      "name": "Survival Knife",
+      "type": "weapon",
+      "img": "modules/sr2e-street-samurai-catalog/assets/item_icons/weapon/survival-knife.webp",
+      "system": {
+        "weaponType": "melee",
+        "skill": "armed_combat",
+        "damageCode": "(Str+2)L",
+        "damageType": "physical",
+        "concealability": 6,
+        "reach": 0,
+        "firingModes": {
+          "ss": false,
+          "sa": false,
+          "bf": false,
+          "fa": false
+        },
+        "ammo": {
+          "current": 0,
+          "max": 0,
+          "type": "rifle"
+        },
+        "recoilComp": 0,
+        "smartgunCompatible": false,
+        "ranges": {
+          "short": 0,
+          "medium": 0,
+          "long": 0,
+          "extreme": 0
+        },
+        "strengthMin": 0,
+        "weight": 0.75,
+        "cost": 450,
+        "availability": "3/6 hrs",
+        "legality": "Legal",
+        "streetIndex": 1,
+        "equipped": false,
+        "accessories": [],
+        "notes": "A heavy, multipurpose fighting knife — equally at home dressing game or settling an argument in an alley. SSC."
+      },
+      "effects": [],
+      "flags": {},
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-street-samurai-catalog.ssc-weapons.Item.119f0df98534468e",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "_stats": {
+    "coreVersion": "13.351",
+    "systemId": "sr2e",
+    "systemVersion": "0.109.0",
+    "createdTime": 1792500000000,
+    "modifiedTime": 1792500000000,
+    "lastModifiedBy": null,
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0
+  },
+  "flags": {
+    "sr2e": {
+      "source": {
+        "book": "Cybertechnology",
+        "code": "FASA7119",
+        "page": 89
+      },
+      "printed": {
+        "essence": 0.16,
+        "initiative": "5 (9) + 1D6 (3D6)",
+        "tpr": "6/4"
+      }
+    }
+  },
+  "prototypeToken": {
+    "name": "Cyber Assassin",
+    "actorLink": false,
+    "disposition": -1,
+    "texture": {
+      "src": "icons/svg/mystery-man.svg"
+    },
+    "lockRotation": true
+  },
+  "_key": "!actors!f41de6d382bd02bf"
+}
