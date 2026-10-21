@@ -2,7 +2,7 @@
   "_id": "670f9daa2701ae4f",
   "name": "Cyberarm Cyberdeck",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberarm-cyberdeck.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

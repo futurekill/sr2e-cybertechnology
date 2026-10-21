@@ -308,7 +308,7 @@
       "_id": "be5d93caedf63cdf",
       "name": "Filtration System (Blood)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/filtration-system-blood.webp",
       "system": {
         "location": "bodyware",
         "grade": "beta",
@@ -494,7 +494,7 @@
       "_id": "367ed406215fc479",
       "name": "Muscle Replacement (Rating 2)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/muscle-replacement-rating-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "beta",
@@ -552,7 +552,7 @@
       "_id": "0c36a3bb428ce5d9",
       "name": "Retractable Spur",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/retractable-spur.webp",
       "system": {
         "location": "bodyware",
         "grade": "beta",
@@ -615,7 +615,7 @@
       "_id": "bb9ff547ab29d43b",
       "name": "Smartlink (Level II)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/smartlink-level-ii.webp",
       "system": {
         "location": "bodyware",
         "grade": "beta",
@@ -673,7 +673,7 @@
       "_id": "78276bea8d91ed40",
       "name": "Wired Reflexes (Level 3)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/wired-reflexes-level-3.webp",
       "system": {
         "location": "bodyware",
         "grade": "beta",
@@ -731,7 +731,7 @@
       "_id": "85be471f7be075d2",
       "name": "Invoked Memory Stimulator",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/invoked-memory-stimulator.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -789,7 +789,7 @@
       "_id": "62a5dba798eb0dbe",
       "name": "Dermal Sheath (Level 2)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/dermal-sheath-level-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",

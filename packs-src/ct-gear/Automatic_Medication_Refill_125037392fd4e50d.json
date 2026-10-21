@@ -2,7 +2,7 @@
   "_id": "125037392fd4e50d",
   "name": "Automatic-Medication Refill",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/gear/automatic-medication-refill.webp",
   "system": {
     "category": "misc",
     "rating": 1,

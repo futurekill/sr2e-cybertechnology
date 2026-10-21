@@ -2,7 +2,7 @@
   "_id": "09afb3d3d7d8e2ad",
   "name": "Optical Scanning Datajack Emitter",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/gear/optical-scanning-datajack-emitter.webp",
   "system": {
     "category": "misc",
     "rating": 1,

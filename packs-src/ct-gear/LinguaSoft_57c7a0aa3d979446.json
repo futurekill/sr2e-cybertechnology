@@ -2,7 +2,7 @@
   "_id": "57c7a0aa3d979446",
   "name": "LinguaSoft",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/gear/linguasoft.webp",
   "system": {
     "category": "skillsoft",
     "rating": 1,

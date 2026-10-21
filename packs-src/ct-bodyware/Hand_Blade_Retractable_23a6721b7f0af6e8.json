@@ -2,7 +2,7 @@
   "_id": "23a6721b7f0af6e8",
   "name": "Hand Blade (Retractable)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/hand-blade-retractable.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

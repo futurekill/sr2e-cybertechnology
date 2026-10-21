@@ -348,7 +348,7 @@
       "_id": "156d0e386c982e94",
       "name": "Articulate Arm",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/articulate-arm.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",
@@ -405,7 +405,7 @@
       "_id": "e402f7c6be5ba1cf",
       "name": "Cyberarm Gyromount",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberarm-gyromount.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -463,7 +463,7 @@
       "_id": "22d4a5c58e2d1164",
       "name": "Cyberear Replacement",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberear-replacement.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -689,7 +689,7 @@
       "_id": "d32bd8effe140127",
       "name": "Cyberleg",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberleg.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -747,7 +747,7 @@
       "_id": "981154f2fe458583",
       "name": "Cyberskull",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberskull.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -805,7 +805,7 @@
       "_id": "d7d282747554db7f",
       "name": "Cybertorso",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybertorso.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -863,7 +863,7 @@
       "_id": "8e706ce229b906c9",
       "name": "Internal Air Tank",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/internal-air-tank.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",
@@ -920,7 +920,7 @@
       "_id": "8e0808988e7b0525",
       "name": "Move-by-Wire System (Level 2)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/move-by-wire-system-level-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",
@@ -1049,7 +1049,7 @@
       "_id": "392ea5e222f481a9",
       "name": "Smartlink (Level II)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/smartlink-level-ii.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",
@@ -1107,7 +1107,7 @@
       "_id": "bb57d3fb61e96435",
       "name": "Invoked Memory Stimulator",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/invoked-memory-stimulator.webp",
       "system": {
         "location": "headware",
         "grade": "delta",

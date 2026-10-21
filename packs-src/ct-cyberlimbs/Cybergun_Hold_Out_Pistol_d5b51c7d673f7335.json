@@ -2,7 +2,7 @@
   "_id": "d5b51c7d673f7335",
   "name": "Cybergun (Hold-Out Pistol)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybergun-hold-out-pistol.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "17ef8d13c0726980",
   "name": "Cyberear Cosmetic Modification",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberear-cosmetic-modification.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

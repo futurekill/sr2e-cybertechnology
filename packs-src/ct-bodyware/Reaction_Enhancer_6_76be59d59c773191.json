@@ -2,7 +2,7 @@
   "_id": "76be59d59c773191",
   "name": "Reaction Enhancer +6",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/reaction-enhancer-6.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

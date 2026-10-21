@@ -2,7 +2,7 @@
   "_id": "868de7ca2496e7d8",
   "name": "Foot Anchor",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/foot-anchor.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

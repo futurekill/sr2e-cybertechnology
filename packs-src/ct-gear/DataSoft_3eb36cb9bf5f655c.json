@@ -2,7 +2,7 @@
   "_id": "3eb36cb9bf5f655c",
   "name": "DataSoft",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/gear/datasoft.webp",
   "system": {
     "category": "skillsoft",
     "rating": 1,

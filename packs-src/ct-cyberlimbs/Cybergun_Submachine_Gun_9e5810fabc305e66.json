@@ -2,7 +2,7 @@
   "_id": "9e5810fabc305e66",
   "name": "Cybergun (Submachine Gun)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybergun-submachine-gun.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

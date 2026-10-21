@@ -2,7 +2,7 @@
   "_id": "b0e3fbcea5081247",
   "name": "CyberSquirt",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybersquirt.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

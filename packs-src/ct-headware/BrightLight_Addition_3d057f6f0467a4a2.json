@@ -2,7 +2,7 @@
   "_id": "3d057f6f0467a4a2",
   "name": "BrightLight Addition",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/brightlight-addition.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

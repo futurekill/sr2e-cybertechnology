@@ -2,7 +2,7 @@
   "_id": "b0f1fc3dc9ec9c8a",
   "name": "Voice Modulator: Increased Volume",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/voice-modulator-increased-volume.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

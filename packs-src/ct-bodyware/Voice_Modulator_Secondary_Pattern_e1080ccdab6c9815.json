@@ -2,7 +2,7 @@
   "_id": "e1080ccdab6c9815",
   "name": "Voice Modulator: Secondary Pattern",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/voice-modulator-secondary-pattern.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

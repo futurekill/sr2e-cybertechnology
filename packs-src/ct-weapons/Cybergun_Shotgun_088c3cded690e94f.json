@@ -2,7 +2,7 @@
   "_id": "088c3cded690e94f",
   "name": "Cybergun (Shotgun)",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/cybergun-shotgun.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

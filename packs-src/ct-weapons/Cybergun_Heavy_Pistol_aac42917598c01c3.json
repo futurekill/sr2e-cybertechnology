@@ -2,7 +2,7 @@
   "_id": "aac42917598c01c3",
   "name": "Cybergun (Heavy Pistol)",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/cybergun-heavy-pistol.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

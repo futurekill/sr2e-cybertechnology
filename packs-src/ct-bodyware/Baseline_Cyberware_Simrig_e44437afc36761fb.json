@@ -2,7 +2,7 @@
   "_id": "e44437afc36761fb",
   "name": "Baseline Cyberware Simrig",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/baseline-cyberware-simrig.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

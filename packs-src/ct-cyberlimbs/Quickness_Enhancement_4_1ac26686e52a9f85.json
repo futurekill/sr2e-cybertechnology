@@ -2,7 +2,7 @@
   "_id": "1ac26686e52a9f85",
   "name": "Quickness Enhancement +4",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/quickness-enhancement-4.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

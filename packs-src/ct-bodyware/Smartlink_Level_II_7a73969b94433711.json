@@ -2,7 +2,7 @@
   "_id": "7a73969b94433711",
   "name": "Smartlink (Level II)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/smartlink-level-ii.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

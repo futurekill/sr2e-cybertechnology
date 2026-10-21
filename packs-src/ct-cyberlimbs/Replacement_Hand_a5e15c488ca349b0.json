@@ -2,7 +2,7 @@
   "_id": "a5e15c488ca349b0",
   "name": "Replacement Hand",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/replacement-hand.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

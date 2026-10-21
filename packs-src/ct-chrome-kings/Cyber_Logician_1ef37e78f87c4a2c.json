@@ -508,7 +508,7 @@
       "_id": "557009b268a2e935",
       "name": "Commlink IV",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/commlink-iv.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -565,7 +565,7 @@
       "_id": "4dffedf7206c030b",
       "name": "Crypto Circuit HD",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/crypto-circuit-hd.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -693,7 +693,7 @@
       "_id": "a73db317e38e5b1d",
       "name": "Cyberarm",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberarm.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -751,7 +751,7 @@
       "_id": "3d7838cfb1161e8b",
       "name": "Cyberarm Cyberdeck",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberarm-cyberdeck.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -809,7 +809,7 @@
       "_id": "c41245397d73a418",
       "name": "Fingertip Compartment",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/fingertip-compartment.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",
@@ -866,7 +866,7 @@
       "_id": "a5ea45073ed11f58",
       "name": "Fingertip Datajack",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/fingertip-datajack.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",
@@ -1011,7 +1011,7 @@
       "_id": "5396e89df9671305",
       "name": "Cybercomm Link",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybercomm-link.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -1068,7 +1068,7 @@
       "_id": "1e7bec0454d49845",
       "name": "Cyberear Replacement",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberear-replacement.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -1276,7 +1276,7 @@
       "_id": "de85e0efb0d16aab",
       "name": "Cyberskull",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberskull.webp",
       "system": {
         "location": "cyberlimb",
         "grade": "delta",
@@ -1391,7 +1391,7 @@
       "_id": "0c364c60318a7f27",
       "name": "Invoked Memory Stimulator",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/invoked-memory-stimulator.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -1449,7 +1449,7 @@
       "_id": "a5cb278637e4a096",
       "name": "Skillwires",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/skillwires.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -1570,7 +1570,7 @@
       "_id": "a54fcf5191450181",
       "name": "Smartlink (Level II)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/smartlink-level-ii.webp",
       "system": {
         "location": "bodyware",
         "grade": "delta",

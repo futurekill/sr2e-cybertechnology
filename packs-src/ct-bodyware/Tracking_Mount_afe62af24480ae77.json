@@ -2,7 +2,7 @@
   "_id": "afe62af24480ae77",
   "name": "Tracking Mount",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/tracking-mount.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

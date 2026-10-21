@@ -2,7 +2,7 @@
   "_id": "1105c0d122e8d5b4",
   "name": "Cybergun (Machine Pistol)",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/cybergun-machine-pistol.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

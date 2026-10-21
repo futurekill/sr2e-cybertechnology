@@ -2,7 +2,7 @@
   "_id": "c5d2004646610554",
   "name": "Body Plating (Hard Armor, Level 4)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/body-plating-hard-armor-level-4.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

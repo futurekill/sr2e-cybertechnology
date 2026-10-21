@@ -2,7 +2,7 @@
   "_id": "f58c8a5f2dacdbfe",
   "name": "Fingertip Compartment",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/fingertip-compartment.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

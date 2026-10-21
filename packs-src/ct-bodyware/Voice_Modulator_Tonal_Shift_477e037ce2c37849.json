@@ -2,7 +2,7 @@
   "_id": "477e037ce2c37849",
   "name": "Voice Modulator: Tonal Shift",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/voice-modulator-tonal-shift.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

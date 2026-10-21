@@ -2,7 +2,7 @@
   "_id": "0f451d3e23bd706a",
   "name": "Balance Augmentor",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/balance-augmentor.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

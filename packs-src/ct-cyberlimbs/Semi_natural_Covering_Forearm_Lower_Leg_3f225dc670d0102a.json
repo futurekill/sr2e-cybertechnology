@@ -2,7 +2,7 @@
   "_id": "3f225dc670d0102a",
   "name": "Semi-natural Covering (Forearm/Lower Leg)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/semi-natural-covering-forearm-lower-leg.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "8755ea2ef9366105",
   "name": "Strength Enhancement +6",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/strength-enhancement-6.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

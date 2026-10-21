@@ -2,7 +2,7 @@
   "_id": "b19d956f5a9a23e9",
   "name": "Move-by-Wire System (Level 3)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/move-by-wire-system-level-3.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

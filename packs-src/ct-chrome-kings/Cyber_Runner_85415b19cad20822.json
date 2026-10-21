@@ -428,7 +428,7 @@
       "_id": "38e888f0995f8499",
       "name": "Balance Augmentor",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/balance-augmentor.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -485,7 +485,7 @@
       "_id": "ea728b1ba09bdfe9",
       "name": "Bone Lacing (Plastic)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/bone-lacing-plastic.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -629,7 +629,7 @@
       "_id": "6a9d4507661138bc",
       "name": "Hand Blade (Retractable)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/hand-blade-retractable.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -692,7 +692,7 @@
       "_id": "d437bf68f97e2543",
       "name": "Reaction Enhancer +4",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/reaction-enhancer-4.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -750,7 +750,7 @@
       "_id": "a6297ca2c15bedff",
       "name": "Smartlink (Level II)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/smartlink-level-ii.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -808,7 +808,7 @@
       "_id": "16c3c740920605b6",
       "name": "Wired Reflexes (Level 2)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/wired-reflexes-level-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "alpha",

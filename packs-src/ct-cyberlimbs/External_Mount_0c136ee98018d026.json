@@ -2,7 +2,7 @@
   "_id": "0c136ee98018d026",
   "name": "External Mount",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/external-mount.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "c1fdfedf8bf9469a",
   "name": "Cyberarm Taser",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/cyberarm-taser.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

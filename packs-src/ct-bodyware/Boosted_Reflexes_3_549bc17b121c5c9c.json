@@ -2,7 +2,7 @@
   "_id": "549bc17b121c5c9c",
   "name": "Boosted Reflexes 3",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/boosted-reflexes-3.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "206b4be0267820e3",
   "name": "Hand Blade",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/hand-blade.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

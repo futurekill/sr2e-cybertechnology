@@ -2,7 +2,7 @@
   "_id": "0ca13d4c67f4d1a3",
   "name": "Chipjack",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/chipjack.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "3f3a5f25f8f76a06",
   "name": "Semi-natural Covering (Arm/Leg)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/semi-natural-covering-arm-leg.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

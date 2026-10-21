@@ -2,7 +2,7 @@
   "_id": "429432a6f13b23de",
   "name": "Cybergun (Shotgun)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybergun-shotgun.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

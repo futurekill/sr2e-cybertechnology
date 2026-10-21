@@ -2,7 +2,7 @@
   "_id": "b7c7bb564a1c3716",
   "name": "Built-In Device (Cyberlimb)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/built-in-device-cyberlimb.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

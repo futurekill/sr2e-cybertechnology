@@ -2,7 +2,7 @@
   "_id": "37c5825987f7e3be",
   "name": "Bone Lacing (Plastic)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/bone-lacing-plastic.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

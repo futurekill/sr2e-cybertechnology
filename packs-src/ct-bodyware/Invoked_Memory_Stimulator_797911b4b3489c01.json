@@ -2,7 +2,7 @@
   "_id": "797911b4b3489c01",
   "name": "Invoked Memory Stimulator",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/invoked-memory-stimulator.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

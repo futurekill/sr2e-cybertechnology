@@ -2,7 +2,7 @@
   "_id": "5744e70a42e4efb4",
   "name": "Cybergun (Light Pistol)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybergun-light-pistol.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

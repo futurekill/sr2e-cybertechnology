@@ -2,7 +2,7 @@
   "_id": "2d88e694aa9cb889",
   "name": "Internal Air Tank",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/internal-air-tank.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

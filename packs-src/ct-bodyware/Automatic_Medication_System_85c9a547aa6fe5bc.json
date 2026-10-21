@@ -2,7 +2,7 @@
   "_id": "85c9a547aa6fe5bc",
   "name": "Automatic-Medication System",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/automatic-medication-system.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "b42fbaed02aa0447",
   "name": "Cranial Bomb: Microbomb",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cranial-bomb-microbomb.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

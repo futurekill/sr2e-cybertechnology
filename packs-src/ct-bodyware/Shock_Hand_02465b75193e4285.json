@@ -2,7 +2,7 @@
   "_id": "02465b75193e4285",
   "name": "Shock Hand",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/shock-hand.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

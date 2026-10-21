@@ -2,7 +2,7 @@
   "_id": "c57d42ead6f96e31",
   "name": "Cyberear Replacement",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberear-replacement.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

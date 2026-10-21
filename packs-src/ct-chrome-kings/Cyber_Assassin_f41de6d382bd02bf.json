@@ -788,7 +788,7 @@
       "_id": "51cbd399ca545a8e",
       "name": "Filtration System (Air)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/filtration-system-air.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -888,7 +888,7 @@
       "_id": "63b986cfa014af38",
       "name": "Filtration System (Blood)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/filtration-system-blood.webp",
       "system": {
         "location": "bodyware",
         "grade": "alpha",
@@ -988,7 +988,7 @@
       "_id": "bdbb4c34b7a4d929",
       "name": "Bone Lacing (Plastic)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/bone-lacing-plastic.webp",
       "system": {
         "location": "bodyware",
         "grade": "alpha",
@@ -1046,7 +1046,7 @@
       "_id": "a7aa059c4748e157",
       "name": "Cranial Bomb: Area Bomb",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cranial-bomb-area-bomb.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -1104,7 +1104,7 @@
       "_id": "4396c585e15e21f0",
       "name": "Cyberear Replacement",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberear-replacement.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -1330,7 +1330,7 @@
       "_id": "7e7e0b62d035055e",
       "name": "Internal Air Tank",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/internal-air-tank.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -1387,7 +1387,7 @@
       "_id": "d7a493e2e57bfc20",
       "name": "Move-by-Wire System (Level 2)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/move-by-wire-system-level-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "beta",

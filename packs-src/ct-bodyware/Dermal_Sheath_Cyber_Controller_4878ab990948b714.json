@@ -2,7 +2,7 @@
   "_id": "4878ab990948b714",
   "name": "Dermal Sheath: Cyber Controller",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/dermal-sheath-cyber-controller.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

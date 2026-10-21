@@ -2,7 +2,7 @@
   "_id": "a4dfed81c21366ee",
   "name": "Body Plating (Soft Armor, Level 1)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/body-plating-soft-armor-level-1.webp",
   "system": {
     "location": "bodyware",
     "grade": "standard",

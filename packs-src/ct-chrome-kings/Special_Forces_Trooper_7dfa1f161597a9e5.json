@@ -348,7 +348,7 @@
       "_id": "63c422926ab81553",
       "name": "Commlink IV",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/commlink-iv.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -405,7 +405,7 @@
       "_id": "85f9196e78cb58f5",
       "name": "Crypto Circuit HD",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/crypto-circuit-hd.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -533,7 +533,7 @@
       "_id": "c962f830132943b1",
       "name": "Cybercomm Link",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybercomm-link.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -590,7 +590,7 @@
       "_id": "6abdb1c9bfa003f0",
       "name": "Cyberear Replacement",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberear-replacement.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -753,7 +753,7 @@
       "_id": "3aa7d792333de2b3",
       "name": "Dermal Sheath (Level 2)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/dermal-sheath-level-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "alpha",
@@ -812,7 +812,7 @@
       "_id": "8bfb916684c6186b",
       "name": "Reaction Enhancer +2",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/reaction-enhancer-2.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -870,7 +870,7 @@
       "_id": "512e636b755d461b",
       "name": "Smartlink (Level II)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/smartlink-level-ii.webp",
       "system": {
         "location": "bodyware",
         "grade": "standard",
@@ -928,7 +928,7 @@
       "_id": "2533441e622693ac",
       "name": "Wired Reflexes (Level 1)",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/wired-reflexes-level-1.webp",
       "system": {
         "location": "bodyware",
         "grade": "alpha",

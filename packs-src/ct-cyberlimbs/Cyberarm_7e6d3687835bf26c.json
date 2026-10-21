@@ -2,7 +2,7 @@
   "_id": "7e6d3687835bf26c",
   "name": "Cyberarm",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberarm.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

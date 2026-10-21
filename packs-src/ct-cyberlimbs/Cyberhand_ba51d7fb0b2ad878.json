@@ -2,7 +2,7 @@
   "_id": "ba51d7fb0b2ad878",
   "name": "Cyberhand",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberhand.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

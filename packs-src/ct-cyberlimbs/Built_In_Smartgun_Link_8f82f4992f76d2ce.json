@@ -2,7 +2,7 @@
   "_id": "8f82f4992f76d2ce",
   "name": "Built-In Smartgun Link",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/built-in-smartgun-link.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

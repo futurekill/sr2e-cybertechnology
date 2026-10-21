@@ -2,7 +2,7 @@
   "_id": "420864ed6871996c",
   "name": "Cybergun (Submachine Gun)",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/cybergun-submachine-gun.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

@@ -2,7 +2,7 @@
   "_id": "5a2e9c5a1a71b5d8",
   "name": "Magnetic Cyberlimb System",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/magnetic-cyberlimb-system.webp",
   "system": {
     "location": "cyberlimb",
     "grade": "standard",

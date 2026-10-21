@@ -2,7 +2,7 @@
   "_id": "c61bbf4bf5056adc",
   "name": "Subvocal Microphone (External)",
   "type": "gear",
-  "img": "icons/svg/item-bag.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/gear/subvocal-microphone-external.webp",
   "system": {
     "category": "misc",
     "rating": 1,

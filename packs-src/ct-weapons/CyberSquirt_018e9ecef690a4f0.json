@@ -2,7 +2,7 @@
   "_id": "018e9ecef690a4f0",
   "name": "CyberSquirt",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/cybersquirt.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",
