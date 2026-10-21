@@ -2,7 +2,7 @@
   "_id": "bd7387a53ffd656d",
   "name": "Data Lock",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/data-lock.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

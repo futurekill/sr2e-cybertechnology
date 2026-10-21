@@ -2,7 +2,7 @@
   "_id": "a010feec8efa49fd",
   "name": "Oral Dart",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/oral-dart.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

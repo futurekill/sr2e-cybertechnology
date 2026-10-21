@@ -2,7 +2,7 @@
   "_id": "89de0804851949d7",
   "name": "Damper",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/damper.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

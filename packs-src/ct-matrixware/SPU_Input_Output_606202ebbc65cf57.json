@@ -2,7 +2,7 @@
   "_id": "606202ebbc65cf57",
   "name": "SPU: Input/Output",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/spu-input-output.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

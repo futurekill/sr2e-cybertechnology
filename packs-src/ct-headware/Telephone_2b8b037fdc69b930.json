@@ -2,7 +2,7 @@
   "_id": "2b8b037fdc69b930",
   "name": "Telephone",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/telephone.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

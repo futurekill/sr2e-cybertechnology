@@ -2,7 +2,7 @@
   "_id": "0c0fd5e9cc592ce3",
   "name": "SPU: Data Management",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/spu-data-management.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

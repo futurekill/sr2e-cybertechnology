@@ -2,7 +2,7 @@
   "_id": "69ea82f262152213",
   "name": "Vision Magnification (Electronic 2)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/vision-magnification-electronic-2.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

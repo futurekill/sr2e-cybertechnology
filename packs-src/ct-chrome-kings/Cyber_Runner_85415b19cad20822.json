@@ -2,7 +2,7 @@
   "_id": "85415b19cad20822",
   "name": "Cyber Runner",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-cybertechnology/assets/portraits/cyber-runner.webp",
   "system": {
     "biography": "<p>A veteran of the streets. He packs serious cyberware but owes his success to his smarts, and tells anyone who asks that flexibility and intelligence beat raw firepower. Often mentors up-and-coming street sams.</p>\n<p><strong>Augmented (applied):</strong> reaction 4 (13).</p>\n<p><strong>Initiative (printed):</strong> 4 (13) + 1D6 (3D6)</p>\n<p><strong>Bioware:</strong> Damage Compensator (3); Enhanced Articulation; Synthacardium (2); Tailored Pheromones (2)</p>\n<p><strong>Cyberware:</strong> Balance Augmentor; Bone Lacing (Plastic); Cybereyes (Low-Light, Rangefinder, Thermographic); Hand Blade (Retractable); Reaction Enhancer (+4); Smartlink II; Wired Reflexes (2) (alpha)</p>\n<p><strong>Gear:</strong> Ares Crusader MP (w/200 rounds explosive ammo, Level II Smartlink, Improved Gas Vent II); Armor Jacket; Franchi SPAS-22 (w/80 rounds explosive ammo, Level II Smartlink, Improved Gas Vent III); Survival Knife; Walther Palm Pistol (w/6 rounds APDS ammo); Additional gear as appropriate</p>\n<p><strong>Threat/Professional Rating:</strong> 5/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.87.</em></p>",
     "race": "human",
@@ -543,7 +543,7 @@
       "_id": "0af283b04ed18065",
       "name": "Cybereyes",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybereyes.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -1515,7 +1515,7 @@
     "actorLink": false,
     "disposition": -1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "modules/sr2e-cybertechnology/assets/portraits/cyber-runner.webp"
     },
     "lockRotation": true
   },

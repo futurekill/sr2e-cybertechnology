@@ -2,7 +2,7 @@
   "_id": "31508076d778885e",
   "name": "Eye Camera",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/eye-camera.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

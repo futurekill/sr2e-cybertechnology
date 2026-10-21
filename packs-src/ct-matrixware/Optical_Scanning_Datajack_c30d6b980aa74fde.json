@@ -2,7 +2,7 @@
   "_id": "c30d6b980aa74fde",
   "name": "Optical Scanning Datajack",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/optical-scanning-datajack.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

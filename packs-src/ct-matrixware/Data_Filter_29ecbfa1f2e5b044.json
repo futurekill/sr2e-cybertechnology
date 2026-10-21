@@ -2,7 +2,7 @@
   "_id": "29ecbfa1f2e5b044",
   "name": "Data Filter",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/data-filter.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

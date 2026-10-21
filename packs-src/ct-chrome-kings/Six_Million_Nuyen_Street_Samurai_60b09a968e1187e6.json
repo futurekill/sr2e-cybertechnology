@@ -2,7 +2,7 @@
   "_id": "60b09a968e1187e6",
   "name": "Six Million Nuyen Street Samurai",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-cybertechnology/assets/portraits/six-million-nuyen-street-samurai.webp",
   "system": {
     "biography": "<p>A new class of street samurai born of cybermancy. Little regard for anyone else's wisdom; received too much too soon, thinks his cyberware and bioware make him invincible, and is eager to prove it. A lethal menace to himself and anyone around him.</p>\n<p><strong>Augmented (applied):</strong> body 6 (9), quickness 4 (7), strength 6 (9), reaction 6 (13).</p>\n<p><strong>Initiative (printed):</strong> 6 (13) + 1D6 (+ 4D6)</p>\n<p><strong>Essence -7.6 (printed).</strong> Cybermantic: the sheet can't hold negative Essence yet and shows 0 (Cybermancy rules, p.78–84).</p>\n<p><strong>Bioware:</strong> Adrenal Pump (2) (cultured); Damage Compensator 3 (cultured); Enhanced Articulation (cultured); Orthoskin 3 (cultured); Suprathyroid Gland (cultured); Synthacardium (2) (cultured)</p>\n<p><strong>Cyberware:</strong> Blood Filter (2) (beta); Cybereyes (beta) (Flare Compensation, Low-Light, Thermographic); Muscle Replacement 2 (beta); Retractable Spur (beta); Smartlink II (2) (beta); Wired Reflexes (3) (beta); Invoked Memory Stimulator (delta); Dermal Sheath 2 (delta)</p>\n<p><strong>Gear:</strong> Ares Predator II (w/45 rounds regular ammo, Level II Smartlink); Armor Jacket; DocWagon Contract (Platinum); Uzi-III (w/100 rounds regular ammo, Level II Smartlink, Gas Vent III); Additional gear as appropriate</p>\n<p><strong>Note:</strong> Initiative prints \"+ 1D6 (+ 4D6)\": 1D6 plus 4D6 from wired reflexes 3 and the pump, so 5 dice.</p>\n<p><strong>Threat/Professional Rating:</strong> 4/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.90.</em></p>",
     "race": "human",
@@ -408,7 +408,7 @@
       "_id": "b27a2f88d89899de",
       "name": "Cybereyes",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybereyes.webp",
       "system": {
         "location": "headware",
         "grade": "beta",
@@ -1519,7 +1519,7 @@
     "actorLink": false,
     "disposition": -1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "modules/sr2e-cybertechnology/assets/portraits/six-million-nuyen-street-samurai.webp"
     },
     "lockRotation": true
   },

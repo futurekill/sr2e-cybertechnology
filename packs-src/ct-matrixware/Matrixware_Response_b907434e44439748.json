@@ -2,7 +2,7 @@
   "_id": "b907434e44439748",
   "name": "Matrixware: Response",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/matrixware-response.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

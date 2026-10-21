@@ -2,7 +2,7 @@
   "_id": "a1c01d4fcdc6953a",
   "name": "Eye Tool Laser",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/eye-tool-laser.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

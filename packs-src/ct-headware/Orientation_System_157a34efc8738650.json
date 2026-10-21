@@ -2,7 +2,7 @@
   "_id": "157a34efc8738650",
   "name": "Orientation System",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/orientation-system.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

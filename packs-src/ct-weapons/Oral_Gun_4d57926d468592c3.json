@@ -2,7 +2,7 @@
   "_id": "4d57926d468592c3",
   "name": "Oral Gun",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/oral-gun.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

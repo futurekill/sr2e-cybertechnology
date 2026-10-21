@@ -2,7 +2,7 @@
   "_id": "8d9e49cba45c75b9",
   "name": "Tooth Compartment (Breakable)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/tooth-compartment-breakable.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "130fa1695e7db69a",
   "name": "Video Link: Internal Transmitter",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/video-link-internal-transmitter.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

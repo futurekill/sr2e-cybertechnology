@@ -2,7 +2,7 @@
   "_id": "6bbf22822c470765",
   "name": "Eye Gun",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/eye-gun.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

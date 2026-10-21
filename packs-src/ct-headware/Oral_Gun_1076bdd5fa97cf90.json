@@ -2,7 +2,7 @@
   "_id": "1076bdd5fa97cf90",
   "name": "Oral Gun",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/oral-gun.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

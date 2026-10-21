@@ -2,7 +2,7 @@
   "_id": "f41de6d382bd02bf",
   "name": "Cyber Assassin",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-cybertechnology/assets/portraits/cyber-assassin.webp",
   "system": {
     "biography": "<p>&gt;&gt;&gt;&gt;CLASSIFIED&lt;&lt;&lt;&lt;&lt; &gt;&gt;&gt;&gt;NO DATA AVAILABLE&lt;&lt;&lt;&lt;&lt;</p>\n<p><strong>Augmented (applied):</strong> body 4 (5), quickness 5 (7), reaction 5 (9).</p>\n<p><strong>Initiative (printed):</strong> 5 (9) + 1D6 (3D6)</p>\n<p><strong>Bioware:</strong> Adrenal Pump (2); Pain Editor; Synthacardium (2); Toxin Exhaler</p>\n<p><strong>Cyberware:</strong> Air Filter (5); Blood Filter (5) (alpha); Bone Lacing (Plastic) (alpha); Cranial Area Bomb (set to detonate upon death); Cyberears [Balance Augmentor (alpha), Hearing Amplification, Select Sound Filter (3), Sound Damper]; Cybereyes (alpha) (Datajack, Flare Compensation, Low-Light, Thermographic, Optical Scanning Retinal Clock, Rangefinder, Tool Laser) (all alpha); Internal Air Tank; Move-By-Wire System (2) (beta)</p>\n<p><strong>Gear:</strong> Barret Model 121 [w/28 rounds APDS ammo, Sound Suppressor, Bipod, Level II Smartlink, Imaging Scope (Low-Light, Mag 3), Ruthenium Polymer Case w/6 Imaging Scanners]; Ceska vz/120 (54 round APDS ammo, Silencer, Level II Smartlink); Morrissey Elan (10 rounds APDS ammo); Ruthenium Polymer Armored Suit (Armor 5/2, 6 Imaging Scanners); Shock Glove; Shuriken (6, w/Dikote edge); Survival Knife (w/Dikote edge); Additional gear as appropriate</p>\n<p><strong>Note:</strong> The book prints the eye list as \"Optical Scanning Retinal Clock\"; read here as the Optical Scanning Datajack and the Retinal Clock.</p>\n<p><strong>Threat/Professional Rating:</strong> 6/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.89.</em></p>",
     "race": "human",
@@ -1199,7 +1199,7 @@
       "_id": "68e25df25d117257",
       "name": "Cybereyes",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybereyes.webp",
       "system": {
         "location": "headware",
         "grade": "alpha",
@@ -2124,7 +2124,7 @@
     "actorLink": false,
     "disposition": -1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "modules/sr2e-cybertechnology/assets/portraits/cyber-assassin.webp"
     },
     "lockRotation": true
   },

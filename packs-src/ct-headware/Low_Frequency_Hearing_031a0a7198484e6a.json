@@ -2,7 +2,7 @@
   "_id": "031a0a7198484e6a",
   "name": "Low Frequency Hearing",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/low-frequency-hearing.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

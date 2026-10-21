@@ -2,7 +2,7 @@
   "_id": "db4b34d56b5fe4ff",
   "name": "Eye Dart",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/eye-dart.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

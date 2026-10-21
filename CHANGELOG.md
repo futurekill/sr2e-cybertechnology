@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 0.1.0 — 2026-10-21
+
 ### Added — the Cybertechnology book (FASA 7119)
 - **Every item in the Cybertechnology Table (book p.93–99)**, as this book's own
   versions: 243 items in six compendia (Headware, Matrix & Rigging, Bodyware,
@@ -22,6 +24,8 @@
 - **The Chrome Kings (p.86–92)**: six NPCs with their stats exactly as printed and
   their cyberware, bioware and gear embedded. Negative (cybermantic) Essence shows 0
   for now, with the printed value in the biography.
+- **Art for everything:** an icon for every item (level variants share their family's)
+  and a full-colour portrait for each Chrome King, painted from the book's illustration.
 - **Rulings on four printed conflicts** (data/rulings.tsv): the optical scanning
   emitter uses its description-page cost; the eye laser designator ranges 4,000 m; eye
   dataport levels are built from the dataport; tactical computer levels 3–4 ship with

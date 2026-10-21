@@ -2,7 +2,7 @@
   "_id": "47cd417851a5a342",
   "name": "Subvocal Microphone (Internal)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/subvocal-microphone-internal.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

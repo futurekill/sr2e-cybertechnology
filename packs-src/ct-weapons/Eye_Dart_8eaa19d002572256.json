@@ -2,7 +2,7 @@
   "_id": "8eaa19d002572256",
   "name": "Eye Dart",
   "type": "weapon",
-  "img": "icons/svg/sword.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/weapon/eye-dart.webp",
   "system": {
     "weaponType": "firearm",
     "skill": "firearms",

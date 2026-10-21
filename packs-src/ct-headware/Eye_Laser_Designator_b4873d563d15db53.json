@@ -2,7 +2,7 @@
   "_id": "b4873d563d15db53",
   "name": "Eye Laser Designator",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/eye-laser-designator.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

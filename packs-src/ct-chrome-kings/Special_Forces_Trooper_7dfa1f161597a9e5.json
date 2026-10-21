@@ -2,7 +2,7 @@
   "_id": "7dfa1f161597a9e5",
   "name": "Special Forces Trooper",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-cybertechnology/assets/portraits/special-forces-trooper.webp",
   "system": {
     "biography": "<p>May belong to the military of virtually any country. Cybered and ready for action, fiercely proud of his skills and his unit, and resentful of the megacorps' private armies; he relishes any chance to go up against them.</p>\n<p><strong>Augmented (applied):</strong> body 5 (6), reaction 5 (9).</p>\n<p><strong>Initiative (printed):</strong> 5 (9) + 1D6 (2D6)</p>\n<p><strong>Bioware:</strong> Pain Editor</p>\n<p><strong>Cyberware:</strong> Commlink IV; Crypto-Circuit HD (5); Cybercomm Link; Cyberears (Hearing Amplification, Spatial Recognizer); Cybereyes (Low-Light, Rangefinder, Laser Designator); Dermal Sheath (2) (alpha) (Impact Armor +1); Reaction Enhancer (+2); Smartlink II; Wired Reflexes (1) (alpha)</p>\n<p><strong>Gear:</strong> Ares Alpha Combat Gun (w/168 rounds APDS ammo, 8 IPE offensive grenades, Level II Smartlink, Improved Gas Vent II); Colt Manhunter (w/48 rounds APDS ammo, Level II Smartlink); Fineblade Knife (long blade); Medium Military Armor (w/helmet); Additional gear as appropriate</p>\n<p><strong>Threat/Professional Rating:</strong> 4/3</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.88.</em></p>",
     "race": "human",
@@ -667,7 +667,7 @@
       "_id": "83c2cb06edaa4c4a",
       "name": "Cybereyes",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybereyes.webp",
       "system": {
         "location": "headware",
         "grade": "standard",
@@ -1288,7 +1288,7 @@
     "actorLink": false,
     "disposition": -1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "modules/sr2e-cybertechnology/assets/portraits/special-forces-trooper.webp"
     },
     "lockRotation": true
   },

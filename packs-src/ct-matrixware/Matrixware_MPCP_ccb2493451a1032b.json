@@ -2,7 +2,7 @@
   "_id": "ccb2493451a1032b",
   "name": "Matrixware: MPCP",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/matrixware-mpcp.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "432a1baf14142fb4",
   "name": "Dr. Spott Smartcam Implant",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/dr-spott-smartcam-implant.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

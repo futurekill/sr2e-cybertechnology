@@ -2,7 +2,7 @@
   "_id": "e73bb2a10707a33f",
   "name": "Retinal Clock",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/retinal-clock.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

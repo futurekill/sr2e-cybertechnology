@@ -2,7 +2,7 @@
   "_id": "cb27788db17b4e3a",
   "name": "Oral Spur",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/oral-spur.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

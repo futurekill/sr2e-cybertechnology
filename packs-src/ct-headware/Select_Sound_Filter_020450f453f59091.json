@@ -2,7 +2,7 @@
   "_id": "020450f453f59091",
   "name": "Select Sound Filter",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/select-sound-filter.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

@@ -2,7 +2,7 @@
   "_id": "b5b1d0a8d7361dd2",
   "name": "Spatial Recognizer",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/spatial-recognizer.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

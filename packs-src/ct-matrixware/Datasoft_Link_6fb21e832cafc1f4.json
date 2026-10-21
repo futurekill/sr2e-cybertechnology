@@ -2,7 +2,7 @@
   "_id": "6fb21e832cafc1f4",
   "name": "Datasoft Link",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/datasoft-link.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

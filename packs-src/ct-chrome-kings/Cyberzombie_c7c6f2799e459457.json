@@ -2,7 +2,7 @@
   "_id": "c7c6f2799e459457",
   "name": "Cyberzombie",
   "type": "npc",
-  "img": "icons/svg/mystery-man.svg",
+  "img": "modules/sr2e-cybertechnology/assets/portraits/cyberzombie.webp",
   "system": {
     "biography": "<p>A delta-grade cybersoldier: an unlimited budget, the latest cyberware and the finest design teams. Not the most friendly or coherent guy in the world. The big question remains: is he still human?</p>\n<p><strong>Augmented (applied):</strong> body 4 (11), quickness 4 (7), strength 6 (9), reaction 6 (13).</p>\n<p><strong>Initiative (printed):</strong> 4 (10) + 1D6 (4D6)</p>\n<p><strong>Essence -2.25 (printed).</strong> Cybermantic: the sheet can't hold negative Essence yet and shows 0 (Cybermancy rules, p.78–84).</p>\n<p><strong>Cyberware:</strong> all delta grade.</p>\n<p><strong>Cyberware:</strong> Articulate Arm; Body Plating (Hardened; 8/8); Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount); Cyberears (Balance Augmentor, Damper, Hearing Amplification, Spatial Recognizer); Cybereyes (Electronic Vision Magnification 3, Eye Light, Flare Compensation, Laser Tracker, Low-Light, Thermographic, Protective Covers, Rangefinder); Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor); Cyberskull; Cybertorso; Internal Air Tank; Move-By-Wire System (2); Oral Spur; Smartlink II; Invoked Memory Stimulator</p>\n<p><strong>Gear:</strong> Ares Alpha Combat Guns (2, each w/300 rounds APDS ammo, Level II Smartlink, Improved Gas Vent III, 8 IPE offensive and 8 IPE defensive grenades); Ares MP-LMG (300 rounds APDS ammo, Laser Tracker, Improved Gas Vent III); Additional gear as appropriate</p>\n<p><strong>Armor:</strong> Body Plating (Hardened; 8/8): intrinsic, hardened (SRII p.218).</p>\n<p><strong>Note:</strong> The book prints Reaction 6 (13) but Initiative 4 (10) + 1D6 (4D6); both are kept as printed (the sheet shows Reaction 13).</p>\n<p><strong>Not in any compendium</strong> (listed here only): Body Plating (Hardened; 8/8).</p>\n<p><strong>Threat/Professional Rating:</strong> 9/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.91.</em></p>",
     "race": "human",
@@ -558,7 +558,7 @@
       "_id": "d2867a532b5a719a",
       "name": "Cybereyes",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cybereyes.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -986,7 +986,7 @@
       "_id": "0d7f751bc4f3d4b7",
       "name": "Oral Spur",
       "type": "cyberware",
-      "img": "icons/svg/upgrade.svg",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/oral-spur.webp",
       "system": {
         "location": "headware",
         "grade": "delta",
@@ -1318,7 +1318,7 @@
     "actorLink": false,
     "disposition": -1,
     "texture": {
-      "src": "icons/svg/mystery-man.svg"
+      "src": "modules/sr2e-cybertechnology/assets/portraits/cyberzombie.webp"
     },
     "lockRotation": true
   },

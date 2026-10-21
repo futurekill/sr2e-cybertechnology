@@ -2,7 +2,7 @@
   "_id": "740245b6f7ad6716",
   "name": "Headware Memory (FIFF)",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/headware-memory-fiff.webp",
   "system": {
     "location": "headware",
     "grade": "standard",

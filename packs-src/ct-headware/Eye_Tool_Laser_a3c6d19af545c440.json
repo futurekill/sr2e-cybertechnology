@@ -2,7 +2,7 @@
   "_id": "a3c6d19af545c440",
   "name": "Eye Tool Laser",
   "type": "cyberware",
-  "img": "icons/svg/upgrade.svg",
+  "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/eye-tool-laser.webp",
   "system": {
     "location": "headware",
     "grade": "standard",
