@@ -14,7 +14,7 @@
     "equipped": false,
     "concealability": 0,
     "streetIndex": 1,
-    "notes": "Implanted in every cybermancy operation; installation costs nothing. Medicine refills 15,000¥ each, every 10 days; if it runs out, the character dies immediately. A sponsoring corp may discount refills 1D6 × 5%, or pay for them. (Phase 6 automates the schedule as GM prompts.) (Cybertechnology, table p.96, p.80.)"
+    "notes": "Implanted in every cybermancy operation; installation costs nothing. Medicine refills 15,000¥ each, every 10 days; if it runs out, the character dies immediately. A sponsoring corp may discount refills 1D6 × 5%, or pay for them. (Phase 6 automates the schedule as GM prompts.) Ruling: The row's stray \"3P-CC\" (an extra column) is its legality; cost 15,000¥/refill, availability/Street Index NA as printed. (Cybertechnology, table p.96, p.80.)"
   },
   "effects": [],
   "flags": {

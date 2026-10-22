@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Changed
+- **Automatic-Medication System and its refill:** the ruling that the table row's
+  stray "3P-CC" is the item's legality is now confirmed, and both items' notes say so.
+  The values don't change.
+
 ## 0.1.0 — 2026-10-21
 
 ### Added — the Cybertechnology book (FASA 7119)
