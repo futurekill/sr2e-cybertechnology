@@ -2,7 +2,7 @@
   "id": "sr2e-cybertechnology",
   "title": "Shadowrun 2E: Cybertechnology",
   "description": "Cyberware, cyberlimbs, implant weapons, consumables and the Chrome Kings from Cybertechnology (FASA 7119) as compendia for the Shadowrun 2nd Edition system. Requires sr2e 0.109.0 or later.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -13,7 +13,7 @@
         "id": "sr2e",
         "type": "system",
         "compatibility": {
-          "minimum": "0.109.0"
+          "minimum": "0.111.0"
         }
       }
     ]

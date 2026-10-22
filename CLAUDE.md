@@ -1,7 +1,7 @@
 # sr2e-cybertechnology — Dev Notes
 
 Content module for **Cybertechnology** (FASA 7119), riding the sr2e system. Compendium
-content only, **no esmodules**. Requires sr2e ≥ 0.109.0.
+content only, **no esmodules**. Requires sr2e ≥ 0.111.0.
 
 The approved plans live in the system repo: `sr2e-foundryvtt/docs/PLAN-cybertechnology.md`
 (roadmap) and `docs/PLAN-cybertechnology-phase1.md` (this module). Follow them.

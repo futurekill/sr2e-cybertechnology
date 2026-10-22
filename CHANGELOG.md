@@ -2,7 +2,11 @@
 
 ## Unreleased
 
+## 0.1.1 — 2026-10-22
+
 ### Changed
+- **Requires sr2e 0.111.0**, which applies Cybertechnology's cyberlimb rules (pairs,
+  averages, limb Essence and pricing) to this module's items.
 - **The Chrome Kings' printed pairs are two limbs, one per side.** "Cyberarms
   (left/right …)" and "Cyberlegs (right/left …)" were one item each with no side; each is
   now a left and a right limb, so the system's pair and mismatch rules see them. Their
