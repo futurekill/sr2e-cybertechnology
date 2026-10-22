@@ -2,6 +2,20 @@
 
 ## Unreleased
 
+## 0.1.2 — 2026-10-22
+
+### Changed
+- **Requires sr2e 0.115.0**, which adds cybermancy (optional) and signed Essence.
+- **The cybermantic Chrome Kings show their printed negative Essence** (Cyber Logician −4,
+  Cyberzombie −2.25, Six Million Nuyen Street Samurai −7.6) instead of 0. Their
+  biographies now say how the rest of cybermancy applies to them. Re-import them to update.
+- The Invoked Memory Stimulator and Automatic-Medication notes point at the system's
+  Cybermancy setting.
+
+### Fixed
+- Four items repeated their ruling in their notes (the Automatic-Medication System, Eye
+  Dataport, Optical Scanning Datajack Emitter and Eye Laser Designator).
+
 ## 0.1.1 — 2026-10-22
 
 ### Changed

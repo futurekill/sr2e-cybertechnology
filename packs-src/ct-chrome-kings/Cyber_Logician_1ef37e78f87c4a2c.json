@@ -4,7 +4,7 @@
   "type": "npc",
   "img": "modules/sr2e-cybertechnology/assets/portraits/cyber-logician.webp",
   "system": {
-    "biography": "<p>A master of small-unit tactics, the ultimate tactical commander, employed by megacorporations for sensitive field work. Usually gives the orders, but perfectly capable of dealing with you personally.</p>\n<p><strong>Augmented (applied):</strong> body 4 (10), quickness 4 (8), strength 3 (7), intelligence 5 (7), reaction 3 (8).</p>\n<p><strong>Initiative (printed):</strong> 4 (Special) + 1D6 (4D6)</p>\n<p><strong>Essence -4 (printed).</strong> Cybermantic: the sheet can't hold negative Essence yet and shows 0 (Cybermancy rules, p.78–84).</p>\n<p><strong>Cyberware:</strong> all delta grade.</p>\n<p><strong>Bioware:</strong> Cerebral Booster (Level II) (cultured); Mnemonic Enhancer (Level IV) (cultured)</p>\n<p><strong>Cyberware:</strong> Commlink IV; Crypto Circuit 10; Cyberarms (left/right: Strength +4, Quickness +6, Body +2); Cyberlimb Cyberdeck (MPCP 8, Hardening +6, Persona 8, Increased Response +3, Internal Memory 1,200 Mp); Fingertip Compartment; Fingertip Datajack; Tactical Computer (Level 4, w. Orientation System); Cybercomm Link; Cyberears (High- and Low-Frequency, Recorder); Cybereyes (Camera, Eye Light System w/BrightLight, Low-Light, Rangefinder, Thermographic, Flare Compensation); Cyberskull; Datajack (Head); Invoked Memory Stimulator; Skillwire (Small-Unit Tactics, Rating 9); Smartlink II; Subdermal Speakers; Subvocal Microphones</p>\n<p><strong>Gear:</strong> Ares Alpha Combat Guns (2, w/300 rounds APDS ammo, Level II Smartlink, Improved Gas Vent III, 8 IPE offensive and 8 IPE defensive grenades); Ares MP-LMG (w/300 rounds APDS ammo, Laser Tracker, Improved Gas Vent III); Wallacher Combat Axes (2); Additional gear as appropriate</p>\n<p><strong>Note:</strong> Initiative prints \"4 (Special)\": the tactical computer's Initiative rules apply (Shadowtech p.53). The book spells \"Orientaion\".</p>\n<p><strong>Threat/Professional Rating:</strong> 9/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.92.</em></p>",
+    "biography": "<p>A master of small-unit tactics, the ultimate tactical commander, employed by megacorporations for sensitive field work. Usually gives the orders, but perfectly capable of dealing with you personally.</p>\n<p><strong>Augmented (applied):</strong> body 4 (10), quickness 4 (8), strength 3 (7), intelligence 5 (7), reaction 3 (8).</p>\n<p><strong>Initiative (printed):</strong> 4 (Special) + 1D6 (4D6)</p>\n<p><strong>Essence -4 (printed).</strong> Cybermantic (Cybermancy rules, p.78–84): the sheet shows the printed Essence; the stats are as printed, so apply cybermancy's other effects (+2 × |Essence| to magic against it, CDS) by hand.</p>\n<p><strong>Cyberware:</strong> all delta grade.</p>\n<p><strong>Bioware:</strong> Cerebral Booster (Level II) (cultured); Mnemonic Enhancer (Level IV) (cultured)</p>\n<p><strong>Cyberware:</strong> Commlink IV; Crypto Circuit 10; Cyberarms (left/right: Strength +4, Quickness +6, Body +2); Cyberlimb Cyberdeck (MPCP 8, Hardening +6, Persona 8, Increased Response +3, Internal Memory 1,200 Mp); Fingertip Compartment; Fingertip Datajack; Tactical Computer (Level 4, w. Orientation System); Cybercomm Link; Cyberears (High- and Low-Frequency, Recorder); Cybereyes (Camera, Eye Light System w/BrightLight, Low-Light, Rangefinder, Thermographic, Flare Compensation); Cyberskull; Datajack (Head); Invoked Memory Stimulator; Skillwire (Small-Unit Tactics, Rating 9); Smartlink II; Subdermal Speakers; Subvocal Microphones</p>\n<p><strong>Gear:</strong> Ares Alpha Combat Guns (2, w/300 rounds APDS ammo, Level II Smartlink, Improved Gas Vent III, 8 IPE offensive and 8 IPE defensive grenades); Ares MP-LMG (w/300 rounds APDS ammo, Laser Tracker, Improved Gas Vent III); Wallacher Combat Axes (2); Additional gear as appropriate</p>\n<p><strong>Note:</strong> Initiative prints \"4 (Special)\": the tactical computer's Initiative rules apply (Shadowtech p.53). The book spells \"Orientaion\".</p>\n<p><strong>Threat/Professional Rating:</strong> 9/4</p>\n<p><em>Cybertechnology (FASA 7119), Chrome Kings p.92.</em></p>",
     "race": "human",
     "professionalRating": 4,
     "body": {
@@ -45,7 +45,8 @@
     },
     "essence": {
       "value": 0,
-      "max": 6
+      "max": 6,
+      "manualSigned": -4
     },
     "reaction": {
       "mod": 1
@@ -1475,7 +1476,7 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (Phase 6 adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator."
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator."
       },
       "effects": [],
       "flags": {

@@ -79,7 +79,7 @@ function notesFor(spec) {
     d.pages.forEach(p => pages.add(p));
     for (const n of d.notes) if (n && !parts.includes(n)) parts.push(n);
   }
-  for (const k of [...sourceKeys(spec), spec.key]) {
+  for (const k of new Set([...sourceKeys(spec), spec.key])) {   // a source key can be the item's own key
     const r = RULINGS.get(k); if (r && r.decided?.startsWith("user")) parts.push(`Ruling: ${r.ruling}`);
   }
   const tablePage = INVENTORY.get(sourceKeys(spec)[0])?.page;

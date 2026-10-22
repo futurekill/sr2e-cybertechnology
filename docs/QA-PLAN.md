@@ -21,3 +21,5 @@ Run in a world with sr2e ≥ 0.109.0 and this module enabled.
 - [ ] Drop each onto a scene: attributes, Reaction, Initiative dice and Body Index as
       printed (p.87–92); the biography lists ware, gear and printed Initiative.
 - [ ] With every other content module disabled the actors still open (embedded copies).
+- [ ] Cyber Logician, Cyberzombie and the Six Million Nuyen Street Samurai show their printed
+      negative Essence (−4, −2.25, −7.6) in the NPC sheet's E box.
