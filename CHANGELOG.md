@@ -3,6 +3,10 @@
 ## Unreleased
 
 ### Changed
+- **The Chrome Kings' printed pairs are two limbs, one per side.** "Cyberarms
+  (left/right …)" and "Cyberlegs (right/left …)" were one item each with no side; each is
+  now a left and a right limb, so the system's pair and mismatch rules see them. Their
+  printed stats are unchanged (NPC stats are authored). Re-import them to update.
 - **Automatic-Medication System and its refill:** the ruling that the table row's
   stray "3P-CC" is the item's legality is now confirmed, and both items' notes say so.
   The values don't change.

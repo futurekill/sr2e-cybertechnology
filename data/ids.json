@@ -406,5 +406,8 @@
   "ct:ck/special-forces-trooper/gear/Fineblade Knife": "ddab998fc3adca7c",
   "ct:ck/cyber-assassin/gear/Barret Model 121": "167ba28b2978aa90",
   "ct:ck/cyber-logician/gear/Wallacher Combat Axe": "b5ec215e35f8eb06",
-  "ct:ck/cyber-assassin/gear/Morrissey Elan": "2739db3ca26d02a7"
+  "ct:ck/cyber-assassin/gear/Morrissey Elan": "2739db3ca26d02a7",
+  "ct:ck/cyberzombie/ware/Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount)/right": "608c49c992f4ba36",
+  "ct:ck/cyberzombie/ware/Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor)/right": "2c2d40d4b4ce645b",
+  "ct:ck/cyber-logician/ware/Cyberarms (left/right: Strength +4, Quickness +6, Body +2)/right": "93f51eb8b854fe94"
 }

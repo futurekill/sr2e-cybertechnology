@@ -93,6 +93,13 @@ function actor(c) {
     if (rating != null) over["system.rating"] = rating;
     if (key === "ct:eye-cyber-replacement") over["system.modules"] = rowsFrom(c.eyes);
     if (key === "ct:ear-cyber-replacement") over["system.modules"] = rowsFrom(c.ears);
+    // A printed pair ("Cyberarms (left/right: …)") is two limbs, one per side, so the
+    // system's side rules (pairs, mismatch) can see them. The left keeps the line's id.
+    if (/^\S+s \((left\/right|right\/left)\b/i.test(text)) {
+      items.push(copyOf(e, `${owner}/ware/${text}`, { ...over, "system.side": "left" }));
+      items.push(copyOf(e, `${owner}/ware/${text}/right`, { ...over, "system.side": "right" }));
+      continue;
+    }
     items.push(copyOf(e, `${owner}/ware/${text}`, over));
   }
   for (const b of c.bioware) {

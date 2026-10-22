@@ -429,7 +429,67 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.) As printed: Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount)."
+        "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.) As printed: Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount).",
+        "side": "left"
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "limb:arm"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.5015b203dab57ea1",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "608c49c992f4ba36",
+      "name": "Cyberarm Gyromount",
+      "type": "cyberware",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberarm-gyromount.webp",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 1.5,
+        "rating": 1,
+        "cost": 260000,
+        "availability": "10/21 days",
+        "streetIndex": "2",
+        "legality": "4P-CC",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.) As printed: Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount).",
+        "side": "right"
       },
       "effects": [],
       "flags": {
@@ -713,7 +773,67 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor)."
+        "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor).",
+        "side": "left"
+      },
+      "effects": [],
+      "flags": {
+        "sr2e": {
+          "source": {
+            "book": "Cybertechnology",
+            "code": "FASA7119",
+            "page": 98
+          },
+          "rule": "limb:leg"
+        }
+      },
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "sr2e",
+        "systemVersion": "0.109.0",
+        "createdTime": 1792500000000,
+        "modifiedTime": 1792500000000,
+        "lastModifiedBy": null,
+        "compendiumSource": "Compendium.sr2e-cybertechnology.ct-cyberlimbs.Item.66dfefbc29609f2c",
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "_id": "2c2d40d4b4ce645b",
+      "name": "Cyberleg",
+      "type": "cyberware",
+      "img": "modules/sr2e-cybertechnology/assets/item_icons/cyberware/cyberleg.webp",
+      "system": {
+        "location": "cyberlimb",
+        "grade": "delta",
+        "essenceCost": 1,
+        "rating": 1,
+        "cost": 100000,
+        "availability": "4/4 days",
+        "streetIndex": "1",
+        "legality": "Legal",
+        "installed": true,
+        "attributeMods": {
+          "body": 0,
+          "quickness": 0,
+          "strength": 0,
+          "charisma": 0,
+          "intelligence": 0,
+          "willpower": 0,
+          "reaction": 0,
+          "initiativeDice": 0
+        },
+        "ratingStats": [],
+        "capacity": 0,
+        "modules": [],
+        "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor).",
+        "side": "right"
       },
       "effects": [],
       "flags": {
