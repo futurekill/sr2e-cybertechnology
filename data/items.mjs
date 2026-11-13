@@ -3,7 +3,7 @@
 // NEVER typed here: they come from data/master-table.tsv (verified, two reads) by
 // capture key, or from a formula over those rows. Mechanic fields mirror the
 // counterpart item in the system / SSC / Shadowtech so automation applies alike
-// (docs/PLAN-cybertechnology-phase1.md, "Modelling").
+// (docs/archive/plans/PLAN-cybertechnology-phase1.md, "Modelling").
 //
 // Spec fields:
 //   key        immutable capture key → data/ids.json

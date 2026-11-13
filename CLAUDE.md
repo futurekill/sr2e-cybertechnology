@@ -4,7 +4,7 @@ Content module for **Cybertechnology** (FASA 7119), riding the sr2e system. Comp
 content only, **no esmodules**. Requires sr2e ≥ 0.115.0.
 
 The approved plans live in the system repo: `sr2e-foundryvtt/docs/PLAN-cybertechnology.md`
-(roadmap) and `docs/PLAN-cybertechnology-phase1.md` (this module). Follow them.
+(roadmap) and `docs/archive/plans/PLAN-cybertechnology-phase1.md` (this module). Follow them.
 
 ## Source and capture
 - The PDF (`../Shadowrun 2e - Cybertechnology {FASA7119}.pdf`) is a SCAN, no text layer.

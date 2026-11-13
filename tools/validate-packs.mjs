@@ -1,4 +1,4 @@
-// Validate the Cybertechnology packs against the captured data (docs/PLAN-cybertechnology-phase1.md):
+// Validate the Cybertechnology packs against the captured data (docs/archive/plans/PLAN-cybertechnology-phase1.md):
 // every inventory line covered, ids match the registry, no unresolved values, ratingStats
 // sorted/unique, implant-weapon pairs resolve, source flags on every document.
 import { readFileSync, readdirSync, writeFileSync } from "node:fs";
