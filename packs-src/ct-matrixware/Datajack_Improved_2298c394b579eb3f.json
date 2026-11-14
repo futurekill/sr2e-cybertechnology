@@ -64,7 +64,8 @@
         "book": "Cybertechnology",
         "code": "FASA7119",
         "page": 94
-      }
+      },
+      "rule": "improved-datajack"
     }
   },
   "folder": null,
