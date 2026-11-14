@@ -35,7 +35,8 @@
         "book": "Cybertechnology",
         "code": "FASA7119",
         "page": 96
-      }
+      },
+      "rule": "designator-laser"
     }
   },
   "folder": null,
