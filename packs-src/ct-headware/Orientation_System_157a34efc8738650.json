@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Cyberarm version works like the cranial version (Shadowtech p.63). (Cybertechnology, table p.94, p.34.)"
+    "notes": "Cyberarm version works like the cranial version (Shadowtech p.63). (Cybertechnology, table p.94, p.34.)",
+    "citation": {
+      "book": "ct",
+      "page": "34"
+    }
   },
   "effects": [],
   "flags": {

@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "A hold-out pistol with four shots (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0). Reload 1 minute per shot. Ammo ×3. Special Skill or Quickness; no aim enhancers. Implant weapon: pair with the oral-gun cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.25.)"
+    "notes": "A hold-out pistol with four shots (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0). Reload 1 minute per shot. Ammo ×3. Special Skill or Quickness; no aim enhancers. Implant weapon: pair with the oral-gun cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.25.)",
+    "citation": {
+      "book": "ct",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {

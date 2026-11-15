@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Treat as a hold-out pistol with four shots total. Reloading takes one minute per shot. Ammo costs triple. Special Skill or Quickness for the Ranged Combat Test. No aim enhancers. (Cybertechnology, table p.96, p.25.)"
+    "notes": "Treat as a hold-out pistol with four shots total. Reloading takes one minute per shot. Ammo costs triple. Special Skill or Quickness for the Ranged Combat Test. No aim enhancers. (Cybertechnology, table p.96, p.25.)",
+    "citation": {
+      "book": "ct",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {

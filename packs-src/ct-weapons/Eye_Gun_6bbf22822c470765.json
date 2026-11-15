@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "A hold-out pistol at one-half range (round down), −1 Damage (4L → 3L) and +1 recoil (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0). The +1 recoil is MANUAL (the system has no positive recoil field). One shot; reload 10 Combat Turns (a Biotech Test cuts it by half the character's Quickness). Rounds cost ×5. Special Skill or Quickness Test; no aim enhancers. Firing damages the cybereye (Cyberware Rules p.46). After firing: +2 to visual tests for (6 − unaugmented Body) Combat Turns, min 2. Implant weapon: pair with the eye-gun cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.22.)"
+    "notes": "A hold-out pistol at one-half range (round down), −1 Damage (4L → 3L) and +1 recoil (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0). The +1 recoil is MANUAL (the system has no positive recoil field). One shot; reload 10 Combat Turns (a Biotech Test cuts it by half the character's Quickness). Rounds cost ×5. Special Skill or Quickness Test; no aim enhancers. Firing damages the cybereye (Cyberware Rules p.46). After firing: +2 to visual tests for (6 − unaugmented Body) Combat Turns, min 2. Implant weapon: pair with the eye-gun cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.22.)",
+    "citation": {
+      "book": "ct",
+      "page": "22"
+    }
   },
   "effects": [],
   "flags": {

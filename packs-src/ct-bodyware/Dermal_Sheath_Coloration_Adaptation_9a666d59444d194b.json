@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Camouflage pattern (urban, desert, winter, wilderness) or a solid color (red, green, blue, black); intensity in 10% steps with a hand-control or the cyber-controller; works as camouflage clothing (Fields of Fire p.77). Also for cyberlimbs, at a higher price. Price as printed: see text (the GM sets it). (Cybertechnology, table p.99, p.28.)"
+    "notes": "Camouflage pattern (urban, desert, winter, wilderness) or a solid color (red, green, blue, black); intensity in 10% steps with a hand-control or the cyber-controller; works as camouflage clothing (Fields of Fire p.77). Also for cyberlimbs, at a higher price. Price as printed: see text (the GM sets it). (Cybertechnology, table p.99, p.28.)",
+    "citation": {
+      "book": "ct",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {

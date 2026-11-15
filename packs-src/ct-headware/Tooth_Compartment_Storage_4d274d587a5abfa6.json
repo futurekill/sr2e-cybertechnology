@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Storage only. Removing it takes 2 Complex Actions and a Quickness (4) Test. Contents removed or replaced in three minutes. (Cybertechnology, table p.96, p.26.)"
+    "notes": "Storage only. Removing it takes 2 Complex Actions and a Quickness (4) Test. Contents removed or replaced in three minutes. (Cybertechnology, table p.96, p.26.)",
+    "citation": {
+      "book": "ct",
+      "page": "26"
+    }
   },
   "effects": [],
   "flags": {

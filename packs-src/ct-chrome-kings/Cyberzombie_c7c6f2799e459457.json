@@ -373,7 +373,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Like a tracking mount with full 360° coverage, usually anchored to a cybertorso. All light weapons up to a light machine gun. 3 points of Recoil Reduction plus laser-sight modifiers. (Cybertechnology, table p.99, p.40.) As printed: Articulate Arm."
+        "notes": "Like a tracking mount with full 360° coverage, usually anchored to a cybertorso. All light weapons up to a light machine gun. 3 points of Recoil Reduction plus laser-sight modifiers. (Cybertechnology, table p.99, p.40.) As printed: Articulate Arm.",
+        "citation": {
+          "book": "ct",
+          "page": "40"
+        }
       },
       "effects": [],
       "flags": {
@@ -431,7 +435,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.) As printed: Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount).",
-        "side": "left"
+        "side": "left",
+        "citation": {
+          "book": "ct",
+          "page": "33"
+        }
       },
       "effects": [],
       "flags": {
@@ -490,7 +498,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.) As printed: Cyberarms (left/right: Strength +3, Quickness +3, Body +2, Cyberlimb Magnetic System, Gyromount).",
-        "side": "right"
+        "side": "right",
+        "citation": {
+          "book": "ct",
+          "page": "33"
+        }
       },
       "effects": [],
       "flags": {
@@ -585,7 +597,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (Balance Augmentor, Damper, Hearing Amplification, Spatial Recognizer)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (Balance Augmentor, Damper, Hearing Amplification, Spatial Recognizer).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -716,7 +732,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Electronic Vision Magnification 3, Eye Light, Flare Compensation, Laser Tracker, Low-Light, Thermographic, Protective Covers, Rangefinder)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Electronic Vision Magnification 3, Eye Light, Flare Compensation, Laser Tracker, Low-Light, Thermographic, Protective Covers, Rangefinder).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -775,7 +795,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor).",
-        "side": "left"
+        "side": "left",
+        "citation": {
+          "book": "ct",
+          "page": "30"
+        }
       },
       "effects": [],
       "flags": {
@@ -834,7 +858,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberlegs (right/left; Strength +4, Quickness +3, Body +2, Cyberlimb Magnetic System, Foot Anchor).",
-        "side": "right"
+        "side": "right",
+        "citation": {
+          "book": "ct",
+          "page": "30"
+        }
       },
       "effects": [],
       "flags": {
@@ -892,7 +920,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "+1 Body. (Cybertechnology, table p.96, p.37.) As printed: Cyberskull."
+        "notes": "+1 Body. (Cybertechnology, table p.96, p.37.) As printed: Cyberskull.",
+        "citation": {
+          "book": "ct",
+          "page": "37"
+        }
       },
       "effects": [],
       "flags": {
@@ -950,7 +982,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "+1 Body. Also halves (round up) the extra Essence of Strength or Quickness enhancements beyond 3 points (Limb Enhancements p.31; Cyberware Rules p.49). Framework and protection for other cybersystems. (Cybertechnology, table p.96, p.37.) As printed: Cybertorso."
+        "notes": "+1 Body. Also halves (round up) the extra Essence of Strength or Quickness enhancements beyond 3 points (Limb Enhancements p.31; Cyberware Rules p.49). Framework and protection for other cybersystems. (Cybertechnology, table p.96, p.37.) As printed: Cybertorso.",
+        "citation": {
+          "book": "ct",
+          "page": "37"
+        }
       },
       "effects": [],
       "flags": {
@@ -1008,7 +1044,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.) As printed: Internal Air Tank."
+        "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.) As printed: Internal Air Tank.",
+        "citation": {
+          "book": "ct",
+          "page": "41"
+        }
       },
       "effects": [],
       "flags": {
@@ -1065,7 +1105,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "+2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.) As printed: Move-By-Wire System (2)."
+        "notes": "+2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.) As printed: Move-By-Wire System (2).",
+        "citation": {
+          "book": "ct",
+          "page": "39"
+        }
       },
       "effects": [],
       "flags": {
@@ -1137,7 +1181,11 @@
         "skill": "unarmed_combat",
         "damageCode": "(Str+2)M",
         "damageType": "physical",
-        "reach": 0
+        "reach": 0,
+        "citation": {
+          "book": "ct",
+          "page": "25"
+        }
       },
       "effects": [],
       "flags": {
@@ -1195,7 +1243,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II.",
-        "combatTnMod": -2
+        "combatTnMod": -2,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -1252,7 +1304,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator."
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator.",
+        "citation": {
+          "book": "ct",
+          "page": "80"
+        }
       },
       "effects": [],
       "flags": {
@@ -1321,7 +1377,11 @@
         "streetIndex": "4",
         "equipped": false,
         "accessories": [],
-        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33."
+        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33.",
+        "citation": {
+          "book": "ff",
+          "page": "33"
+        }
       },
       "effects": [],
       "flags": {},

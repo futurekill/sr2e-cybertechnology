@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "−2 TN to Skill Tests involving balance (climbing, narrow platforms, landing a jump); −2 in the character's favor to avoid Knockdown (SRII pp.91–92, 103). (Cybertechnology, table p.95, p.24.)"
+    "notes": "−2 TN to Skill Tests involving balance (climbing, narrow platforms, landing a jump); −2 in the character's favor to avoid Knockdown (SRII pp.91–92, 103). (Cybertechnology, table p.95, p.24.)",
+    "citation": {
+      "book": "ct",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {

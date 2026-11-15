@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "+3 Quickness, +6 Reaction, +3D6 Initiative, +3 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.)"
+    "notes": "+3 Quickness, +6 Reaction, +3D6 Initiative, +3 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.)",
+    "citation": {
+      "book": "ct",
+      "page": "39"
+    }
   },
   "effects": [],
   "flags": {

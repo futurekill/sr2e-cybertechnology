@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "Fichetti cybergun (SSC p.86): 6M(FA), 8 internal rounds, reloadable; ranges by class (core p.88; machine pistols as light pistols, as SSC's are). Concealability NA = noticing the firing port after a shot; observed firing, heavy or full-auto fire is obvious. Implant weapon: pair with the cybergun-smg cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.86.)"
+    "notes": "Fichetti cybergun (SSC p.86): 6M(FA), 8 internal rounds, reloadable; ranges by class (core p.88; machine pistols as light pistols, as SSC's are). Concealability NA = noticing the firing port after a shot; observed firing, heavy or full-auto fire is obvious. Implant weapon: pair with the cybergun-smg cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.86.)",
+    "citation": {
+      "book": "ct",
+      "page": "86"
+    }
   },
   "effects": [],
   "flags": {

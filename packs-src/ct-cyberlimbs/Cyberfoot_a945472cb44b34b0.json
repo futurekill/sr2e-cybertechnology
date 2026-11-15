@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "As cyberarm/leg (Cyberware Rules p.49). (Cybertechnology, table p.98, p.30.)"
+    "notes": "As cyberarm/leg (Cyberware Rules p.49). (Cybertechnology, table p.98, p.30.)",
+    "citation": {
+      "book": "ct",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {

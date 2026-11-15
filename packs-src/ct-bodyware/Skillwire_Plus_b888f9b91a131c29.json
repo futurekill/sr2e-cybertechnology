@@ -90,7 +90,11 @@
     ],
     "capacity": 0,
     "modules": [],
-    "notes": "(Cybertechnology, table p.99.)"
+    "notes": "(Cybertechnology, table p.99.)",
+    "citation": {
+      "book": "ct",
+      "page": "99"
+    }
   },
   "effects": [],
   "flags": {

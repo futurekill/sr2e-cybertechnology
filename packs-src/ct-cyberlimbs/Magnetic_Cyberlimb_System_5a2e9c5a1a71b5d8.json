@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Electro-magnets in hands, knees and feet; ferrous metal only. Each limb system holds about 25 kg; multiple systems are cumulative; subtracted from the weight being held (Dangling and Holding, Cyberware Rules p.51). Doesn't affect modern electronics or erase optical chips. (Cybertechnology, table p.98, p.32.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "32"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Damage 4L. As a weapon: Combat Test with Quickness or a Special Skill, base TN 4, +1 per meter (or part) beyond 1; Power −1 to 2 m, −2 to 4 m. Won't penetrate reflective metals or silvered glass; cuts mirrored plastics. Eye lasers and light systems run on batteries carried on the person (GM adjudicates recharging). (Cybertechnology, table p.96, p.23, p.46.)"
+    "notes": "Damage 4L. As a weapon: Combat Test with Quickness or a Special Skill, base TN 4, +1 per meter (or part) beyond 1; Power −1 to 2 m, −2 to 4 m. Won't penetrate reflective metals or silvered glass; cuts mirrored plastics. Eye lasers and light systems run on batteries carried on the person (GM adjudicates recharging). (Cybertechnology, table p.96, p.23, p.46.)",
+    "citation": {
+      "book": "ct",
+      "page": "23"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Requires a fingertip compartment (SRII p.249). Price per standard datajack; the fingertip plugs into the jack when not in use. (Cybertechnology, table p.94, p.29.)"
+    "notes": "Requires a fingertip compartment (SRII p.249). Price per standard datajack; the fingertip plugs into the jack when not in use. (Cybertechnology, table p.94, p.29.)",
+    "citation": {
+      "book": "ct",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {

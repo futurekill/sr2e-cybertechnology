@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "Damage 4L. Quickness or a Special Skill; base TN 4, +1 per meter (or part) beyond 1; Power −1 to 2 m, −2 to 4 m (applied by hand). Won't penetrate reflective metals or silvered glass. Implant weapon: pair with the tool-laser cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.23.)"
+    "notes": "Damage 4L. Quickness or a Special Skill; base TN 4, +1 per meter (or part) beyond 1; Power −1 to 2 m, −2 to 4 m (applied by hand). Won't penetrate reflective metals or silvered glass. Implant weapon: pair with the tool-laser cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.23.)",
+    "citation": {
+      "book": "ct",
+      "page": "23"
+    }
   },
   "effects": [],
   "flags": {

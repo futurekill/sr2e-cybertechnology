@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "Half-strength (round up) Narcoject/toxin rounds; damage from the dose. Ranges: the hold-out pistol's, halved (round down) (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0). One shot; reload 10 Combat Turns. Special Skill or Quickness Test; no aim enhancers. After firing: +2 to visual tests for (4 − unaugmented Body) Combat Turns, min 1. Implant weapon: pair with the eye-dart cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.22.)"
+    "notes": "Half-strength (round up) Narcoject/toxin rounds; damage from the dose. Ranges: the hold-out pistol's, halved (round down) (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0). One shot; reload 10 Combat Turns. Special Skill or Quickness Test; no aim enhancers. After firing: +2 to visual tests for (4 − unaugmented Body) Combat Turns, min 1. Implant weapon: pair with the eye-dart cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.22.)",
+    "citation": {
+      "book": "ct",
+      "page": "22"
+    }
   },
   "effects": [],
   "flags": {

@@ -55,7 +55,11 @@
     ],
     "capacity": 0,
     "modules": [],
-    "notes": "A subdermal induction pad: with a cable and induction connector to a standard data-out port it works like a standard datajack (SRII p.246) or improved datajack (Shadowtech p.45). Can't be seen. Does NOT let you read data by touch. (Cybertechnology, table p.97, p.41.)"
+    "notes": "A subdermal induction pad: with a cable and induction connector to a standard data-out port it works like a standard datajack (SRII p.246) or improved datajack (Shadowtech p.45). Can't be seen. Does NOT let you read data by touch. (Cybertechnology, table p.97, p.41.)",
+    "citation": {
+      "book": "ct",
+      "page": "41"
+    }
   },
   "effects": [],
   "flags": {

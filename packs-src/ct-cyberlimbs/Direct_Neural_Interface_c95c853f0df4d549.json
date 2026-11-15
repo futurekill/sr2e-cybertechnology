@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Cybernetic control of any device placed in a cyberlimb that wasn't designed for it, at +50% of the device's cost. (Cybertechnology, table p.98, p.33.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {

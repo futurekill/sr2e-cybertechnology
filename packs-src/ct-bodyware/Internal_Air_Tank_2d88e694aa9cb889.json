@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.)"
+    "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.)",
+    "citation": {
+      "book": "ct",
+      "page": "41"
+    }
   },
   "effects": [],
   "flags": {

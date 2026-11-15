@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Shows a vidphone image in the field of vision; functions as a Display Link (SRII p.247). (Cybertechnology, table p.95, p.19.)"
+    "notes": "Shows a vidphone image in the field of vision; functions as a Display Link (SRII p.247). (Cybertechnology, table p.95, p.19.)",
+    "citation": {
+      "book": "ct",
+      "page": "19"
+    }
   },
   "effects": [],
   "flags": {

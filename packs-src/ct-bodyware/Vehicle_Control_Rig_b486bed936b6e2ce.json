@@ -49,7 +49,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "(Cybertechnology, table p.99.)",
-    "isVcr": true
+    "isVcr": true,
+    "citation": {
+      "book": "ct",
+      "page": "99"
+    }
   },
   "effects": [],
   "flags": {

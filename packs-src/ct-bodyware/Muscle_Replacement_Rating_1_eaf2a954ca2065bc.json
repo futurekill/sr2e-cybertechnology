@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "(Cybertechnology, table p.97.)",
-    "noReactionBonus": true
+    "noReactionBonus": true,
+    "citation": {
+      "book": "ct",
+      "page": "97"
+    }
   },
   "effects": [],
   "flags": {

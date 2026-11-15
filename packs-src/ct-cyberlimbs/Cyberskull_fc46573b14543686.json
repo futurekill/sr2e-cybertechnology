@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "+1 Body. (Cybertechnology, table p.96, p.37.)"
+    "notes": "+1 Body. (Cybertechnology, table p.96, p.37.)",
+    "citation": {
+      "book": "ct",
+      "page": "37"
+    }
   },
   "effects": [],
   "flags": {

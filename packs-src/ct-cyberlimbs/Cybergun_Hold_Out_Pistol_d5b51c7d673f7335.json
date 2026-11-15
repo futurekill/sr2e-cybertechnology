@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Cyberguns in a cyberlimb cost no Essence; in a natural limb or other body part, 0.15 Essence (Cybergun Essence Costs, p.52). Further rules: Street Samurai Catalog 2nd ed. p.86. Fichetti cybergun: fires through a port at the base of the palm; internal ammo, reloadable. *Concealability is the chance of noticing the firing port after a shot; observed firing is obvious; heavy or full-auto cyberguns are always obvious. (Cybertechnology, table p.98, p.52, SSC p.86.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "52"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Hold-out pistol with one-half range (round down), −1 Damage, +1 recoil. One shot per reload; reloading takes 10 Combat Turns (a successful Biotech Test cuts it by half the character's Quickness). Rounds cost 5x normal. Firing requires a Special Skill or Quickness Test. Can't use aim enhancers. After firing: +2 to all visual tests for (6 − unaugmented Body) Combat Turns, min 2. (Cybertechnology, table p.96, p.22.)"
+    "notes": "Hold-out pistol with one-half range (round down), −1 Damage, +1 recoil. One shot per reload; reloading takes 10 Combat Turns (a successful Biotech Test cuts it by half the character's Quickness). Rounds cost 5x normal. Firing requires a Special Skill or Quickness Test. Can't use aim enhancers. After firing: +2 to all visual tests for (6 − unaugmented Body) Combat Turns, min 2. (Cybertechnology, table p.96, p.22.)",
+    "citation": {
+      "book": "ct",
+      "page": "22"
+    }
   },
   "effects": [],
   "flags": {

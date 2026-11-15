@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Standard decks: price x4, Availability TN +25% (round up), Base Time x2. Cranial decks in the arm: Shadowtech p.38; each component's build TN +2 and its cost and Base Time +20%. Price as printed: see text (the GM sets it). (Cybertechnology, table p.98, p.35.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "35"
+    }
   },
   "effects": [],
   "flags": {

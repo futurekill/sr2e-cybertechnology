@@ -14,7 +14,11 @@
     "equipped": false,
     "concealability": 0,
     "streetIndex": 1,
-    "notes": "(Cybertechnology, FASA 7119.)"
+    "notes": "(Cybertechnology, FASA 7119.)",
+    "citation": {
+      "book": "ct",
+      "page": "47"
+    }
   },
   "effects": [],
   "flags": {

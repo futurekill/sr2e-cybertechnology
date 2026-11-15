@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "Works like a taser pistol: 10S Stun, the standard taser's ranges (SRII p.103; the system's Defiance Super Shock), two shots before recharging. Implant weapon: pair with the cyberarm-taser cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.36.)"
+    "notes": "Works like a taser pistol: 10S Stun, the standard taser's ranges (SRII p.103; the system's Defiance Super Shock), two shots before recharging. Implant weapon: pair with the cyberarm-taser cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.36.)",
+    "citation": {
+      "book": "ct",
+      "page": "36"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "+4 TN to Perception Tests to overhear conversations using it. Connects to an external radio through a datajack (required). (Cybertechnology, table p.95, p.18.)"
+    "notes": "+4 TN to Perception Tests to overhear conversations using it. Connects to an external radio through a datajack (required). (Cybertechnology, table p.95, p.18.)",
+    "citation": {
+      "book": "ct",
+      "page": "18"
+    }
   },
   "effects": [],
   "flags": {

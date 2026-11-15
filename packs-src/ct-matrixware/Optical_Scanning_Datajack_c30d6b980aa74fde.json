@@ -55,7 +55,11 @@
     ],
     "capacity": 0,
     "modules": [],
-    "notes": "Receptor in the eye reads a laser from the emitter stuck to a data-out port. Standard DFR 20. Higher DFRs as for eye dataports (the cost increase applies to the emitter too). Mounted in a secondary iris-like structure or uses a mirror, so it doesn't blind the eye. (Cybertechnology, table p.96, p.20, p.46.)"
+    "notes": "Receptor in the eye reads a laser from the emitter stuck to a data-out port. Standard DFR 20. Higher DFRs as for eye dataports (the cost increase applies to the emitter too). Mounted in a secondary iris-like structure or uses a mirror, so it doesn't blind the eye. (Cybertechnology, table p.96, p.20, p.46.)",
+    "citation": {
+      "book": "ct",
+      "page": "20"
+    }
   },
   "effects": [],
   "flags": {

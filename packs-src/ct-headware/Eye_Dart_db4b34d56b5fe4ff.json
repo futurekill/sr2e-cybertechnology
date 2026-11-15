@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Fires half-strength (round up) Narcoject/toxin rounds as a hold-out pistol with one-half range (round down). One shot per reload; reloading takes 10 Combat Turns. Rounds cost 4x normal. Firing requires a Special Skill or Quickness Test. Can't use aim enhancers. Narcoject SSC p.62; toxins SRII p.186; compounds Shadowtech p.90, 92, 97. After firing: +2 to all visual tests for (4 − unaugmented Body) Combat Turns, min 1. Orbital capacity: Cyberware Rules p.45. (Cybertechnology, table p.96, p.22.)"
+    "notes": "Fires half-strength (round up) Narcoject/toxin rounds as a hold-out pistol with one-half range (round down). One shot per reload; reloading takes 10 Combat Turns. Rounds cost 4x normal. Firing requires a Special Skill or Quickness Test. Can't use aim enhancers. Narcoject SSC p.62; toxins SRII p.186; compounds Shadowtech p.90, 92, 97. After firing: +2 to all visual tests for (4 − unaugmented Body) Combat Turns, min 1. Orbital capacity: Cyberware Rules p.45. (Cybertechnology, table p.96, p.22.)",
+    "citation": {
+      "book": "ct",
+      "page": "22"
+    }
   },
   "effects": [],
   "flags": {

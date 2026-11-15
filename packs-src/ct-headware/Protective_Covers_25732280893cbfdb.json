@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Protects cyber and natural eyes against impact and particles. One-way reflective: +20% price. At the GM's discretion, 1 point of Impact Armor to the eye area. (Cybertechnology, table p.95, p.19.)"
+    "notes": "Protects cyber and natural eyes against impact and particles. One-way reflective: +20% price. At the GM's discretion, 1 point of Impact Armor to the eye area. (Cybertechnology, table p.95, p.19.)",
+    "citation": {
+      "book": "ct",
+      "page": "19"
+    }
   },
   "effects": [],
   "flags": {

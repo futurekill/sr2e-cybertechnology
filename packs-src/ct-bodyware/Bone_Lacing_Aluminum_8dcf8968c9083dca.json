@@ -28,7 +28,11 @@
     "modules": [],
     "notes": "(Cybertechnology, table p.96.)",
     "unarmedPowerBonus": 2,
-    "armorImpact": 1
+    "armorImpact": 1,
+    "citation": {
+      "book": "ct",
+      "page": "96"
+    }
   },
   "effects": [],
   "flags": {

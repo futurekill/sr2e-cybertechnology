@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Body +(level+1); Impact Armor ½ level rounded up. (Cybertechnology, table p.99, p.28.)",
-    "armorImpact": 2
+    "armorImpact": 2,
+    "citation": {
+      "book": "ct",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {

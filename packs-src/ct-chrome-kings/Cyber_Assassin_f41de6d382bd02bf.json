@@ -855,7 +855,11 @@
         ],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Air Filter (5)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Air Filter (5).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -955,7 +959,11 @@
         ],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Blood Filter (5) (alpha)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Blood Filter (5) (alpha).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -1013,7 +1021,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.96.) As printed: Bone Lacing (Plastic) (alpha).",
-        "unarmedPowerBonus": 1
+        "unarmedPowerBonus": 1,
+        "citation": {
+          "book": "ct",
+          "page": "96"
+        }
       },
       "effects": [],
       "flags": {
@@ -1070,7 +1082,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Kills the bearer and anyone too close. Bought at Power 3–8 and Damage Level M–D; blast −1 per meter. Kills the bearer regardless of blast size. (Rules p.47: 300,000¥ minimum.) The area bomb kills no matter where it's placed. GM may adjust the price by Damage Code; consider a minimum of 300,000¥ for the weakest. (Cybertechnology, table p.94, p.27, p.47.) As printed: Cranial Area Bomb (set to detonate upon death)."
+        "notes": "Kills the bearer and anyone too close. Bought at Power 3–8 and Damage Level M–D; blast −1 per meter. Kills the bearer regardless of blast size. (Rules p.47: 300,000¥ minimum.) The area bomb kills no matter where it's placed. GM may adjust the price by Damage Code; consider a minimum of 300,000¥ for the weakest. (Cybertechnology, table p.94, p.27, p.47.) As printed: Cranial Area Bomb (set to detonate upon death).",
+        "citation": {
+          "book": "ct",
+          "page": "27"
+        }
       },
       "effects": [],
       "flags": {
@@ -1165,7 +1181,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears [Balance Augmentor (alpha), Hearing Amplification, Select Sound Filter (3), Sound Damper]."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears [Balance Augmentor (alpha), Hearing Amplification, Select Sound Filter (3), Sound Damper].",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -1296,7 +1316,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (alpha) (Datajack, Flare Compensation, Low-Light, Thermographic, Optical Scanning Retinal Clock, Rangefinder, Tool Laser) (all alpha)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (alpha) (Datajack, Flare Compensation, Low-Light, Thermographic, Optical Scanning Retinal Clock, Rangefinder, Tool Laser) (all alpha).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -1354,7 +1378,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.) As printed: Internal Air Tank."
+        "notes": "Independent air source: while breathing from it, immune to inhalable toxins, sleep gas and other compounds. About 20 minutes of air; refilling takes five minutes. Can be vented. (Cybertechnology, table p.97, p.41.) As printed: Internal Air Tank.",
+        "citation": {
+          "book": "ct",
+          "page": "41"
+        }
       },
       "effects": [],
       "flags": {
@@ -1411,7 +1439,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "+2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.) As printed: Move-By-Wire System (2) (beta)."
+        "notes": "+2 Quickness, +4 Reaction, +2D6 Initiative, +2 dice for Athletics and Stealth tests. Not compatible with other Reaction/Initiative enhancers. (Cybertechnology, table p.98, p.39.) As printed: Move-By-Wire System (2) (beta).",
+        "citation": {
+          "book": "ct",
+          "page": "39"
+        }
       },
       "effects": [],
       "flags": {
@@ -1502,7 +1534,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)."
+        "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19).",
+        "citation": {
+          "book": "st",
+          "page": "19"
+        }
       },
       "effects": [],
       "flags": {
@@ -1561,7 +1597,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": true,
-        "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+        "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+        "citation": {
+          "book": "st",
+          "page": "26"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1635,7 +1675,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16)."
+        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16).",
+        "citation": {
+          "book": "st",
+          "page": "16"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1690,7 +1734,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Exhales a stored toxin (chosen at implantation, bought separately, +100× a dose) as a 2m cone: Quickness (4) Test to hit, +1 TN per ½m, range = ½ unaugmented Body. The user is immunized against that toxin (double natural Body to resist) (Shadowtech p.32)."
+        "notes": "Exhales a stored toxin (chosen at implantation, bought separately, +100× a dose) as a 2m cone: Quickness (4) Test to hit, +1 TN per ½m, range = ½ unaugmented Body. The user is immunized against that toxin (double natural Body to resist) (Shadowtech p.32).",
+        "citation": {
+          "book": "st",
+          "page": "32"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1750,7 +1798,11 @@
         "streetIndex": 5,
         "equipped": false,
         "accessories": [],
-        "notes": "Heavy anti-materiel sniper rifle with an integral silencer (+2 RR) and Smartlink I (+2). Fires custom armor-piercing rounds (treat as APDS; 200¥ per box of 10, separate acquisition test). Fields of Fire p.35."
+        "notes": "Heavy anti-materiel sniper rifle with an integral silencer (+2 RR) and Smartlink I (+2). Fires custom armor-piercing rounds (treat as APDS; 200¥ per box of 10, separate acquisition test). Fields of Fire p.35.",
+        "citation": {
+          "book": "ff",
+          "page": "35"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1826,7 +1878,11 @@
         "strengthMinimum": 0,
         "costPerStrengthMin": 0,
         "strMinDamageBonus": 0,
-        "notes": "Light pistol. Ranges are the Light Pistol row of the Weapon Range Table (p.88). SSC, restated in the core book's Sourcebook Updates table, p.278."
+        "notes": "Light pistol. Ranges are the Light Pistol row of the Weapon Range Table (p.88). SSC, restated in the core book's Sourcebook Updates table, p.278.",
+        "citation": {
+          "book": "ct",
+          "page": "88"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1885,7 +1941,11 @@
         "equipped": false,
         "accessories": [],
         "notes": "The smallest Morrissey holdout — an elegant polymer pistol. Cannot fire flechette or needle ammo. Street Index 2. Neo-Anarchists' Guide p.31.",
-        "streetIndex": 2
+        "streetIndex": 2,
+        "citation": {
+          "book": "naw",
+          "page": "31"
+        }
       },
       "effects": [],
       "flags": {},
@@ -2006,7 +2066,11 @@
         "notes": "SR2E p.228. Multi-edged or spiked airfoil throwing blade. Easy to conceal, fast to deploy.",
         "quantity": 1,
         "streetIndex": 2,
-        "aerodynamic": true
+        "aerodynamic": true,
+        "citation": {
+          "book": "sr2",
+          "page": "228"
+        }
       },
       "effects": [],
       "flags": {},

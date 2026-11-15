@@ -372,7 +372,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.95.) As printed: Commlink IV."
+        "notes": "(Cybertechnology, table p.95.) As printed: Commlink IV.",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -500,7 +504,11 @@
         ],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.95.) As printed: Crypto-Circuit HD (5)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Crypto-Circuit HD (5).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -557,7 +565,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.) As printed: Cybercomm Link."
+        "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.) As printed: Cybercomm Link.",
+        "citation": {
+          "book": "ct",
+          "page": "18"
+        }
       },
       "effects": [],
       "flags": {
@@ -633,7 +645,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (Hearing Amplification, Spatial Recognizer)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (Hearing Amplification, Spatial Recognizer).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -719,7 +735,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Low-Light, Rangefinder, Laser Designator)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Low-Light, Rangefinder, Laser Designator).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -778,7 +798,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Body +(level+1) (the book's example: Level 2 adds 3); Impact Armor ½ level rounded up. (Cybertechnology, table p.99, p.28.) As printed: Dermal Sheath (2) (alpha) (Impact Armor +1).",
-        "armorImpact": 1
+        "armorImpact": 1,
+        "citation": {
+          "book": "ct",
+          "page": "28"
+        }
       },
       "effects": [],
       "flags": {
@@ -836,7 +860,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Reaction +1 per point, up to +6 for player characters. Compatible with all other Reaction/Initiative boosters except move-by-wire (p.39) and the adrenal pump (Shadowtech p.19). (Cybertechnology, table p.99, p.38.) As printed: Reaction Enhancer (+2)."
+        "notes": "Reaction +1 per point, up to +6 for player characters. Compatible with all other Reaction/Initiative boosters except move-by-wire (p.39) and the adrenal pump (Shadowtech p.19). (Cybertechnology, table p.99, p.38.) As printed: Reaction Enhancer (+2).",
+        "citation": {
+          "book": "ct",
+          "page": "38"
+        }
       },
       "effects": [],
       "flags": {
@@ -895,7 +923,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II.",
-        "combatTnMod": -2
+        "combatTnMod": -2,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -952,7 +984,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (1) (alpha)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (1) (alpha).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -1016,7 +1052,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": true,
-        "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+        "notes": "Triggered. While active the user feels no pain: mental-damage Initiative/TN penalties are ignored and mental damage/fatigue can't knock them out, and they gain +1 Willpower but −1 Intelligence and +4 TN to tactile Perception Tests. Physical-damage penalties still apply but are hidden from the player until the editor is switched off (Shadowtech p.26). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+        "citation": {
+          "book": "st",
+          "page": "26"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1076,7 +1116,11 @@
         "streetIndex": "4",
         "equipped": false,
         "accessories": [],
-        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33."
+        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33.",
+        "citation": {
+          "book": "ff",
+          "page": "33"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1134,7 +1178,11 @@
         "legality": "Legal",
         "equipped": false,
         "accessories": [],
-        "notes": "SR2E p.231. A rugged, large-frame heavy pistol favored by bounty hunters and independents. Reliable under field conditions."
+        "notes": "SR2E p.231. A rugged, large-frame heavy pistol favored by bounty hunters and independents. Reliable under field conditions.",
+        "citation": {
+          "book": "sr2",
+          "page": "231"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1194,7 +1242,11 @@
         "streetIndex": "3",
         "equipped": false,
         "accessories": [],
-        "notes": "Long-blade version of the Cougar Fineblade combat knife: double-edged, molecular-bonded edge, wire-cutting notch, hardened grip and pommel. No special properties. Fields of Fire p.55."
+        "notes": "Long-blade version of the Cougar Fineblade combat knife: double-edged, molecular-bonded edge, wire-cutting notch, hardened grip and pommel. No special properties. Fields of Fire p.55.",
+        "citation": {
+          "book": "ff",
+          "page": "55"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1230,7 +1282,11 @@
         "legality": "Forbidden",
         "equipped": true,
         "isLayered": false,
-        "notes": "Hardened military combat armor with integral combat electronics (incl. BattleTac). Weight 14 + Body. Reduces Combat Pool by 1 per 2 Ballistic points above the wearer's Quickness. Street Index 3. Forbidden. Fields of Fire p.54."
+        "notes": "Hardened military combat armor with integral combat electronics (incl. BattleTac). Weight 14 + Body. Reduces Combat Pool by 1 per 2 Ballistic points above the wearer's Quickness. Street Index 3. Forbidden. Fields of Fire p.54.",
+        "citation": {
+          "book": "ff",
+          "page": "54"
+        }
       },
       "effects": [],
       "flags": {},

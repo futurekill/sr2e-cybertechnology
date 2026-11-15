@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Motorized pivot tied into an eye laser designator; requires a cybertorso. Light, heavy, machine pistols, SMGs, assault rifles; triple the weapon's cost. 50-round pods, one at a time. 3 points of Recoil Reduction plus laser-sight modifiers. Dead spot ~10° either side of the head. (Cybertechnology, table p.99, p.40.)"
+    "notes": "Motorized pivot tied into an eye laser designator; requires a cybertorso. Light, heavy, machine pistols, SMGs, assault rifles; triple the weapon's cost. 50-round pods, one at a time. 3 points of Recoil Reduction plus laser-sight modifiers. Dead spot ~10° either side of the head. (Cybertechnology, table p.99, p.40.)",
+    "citation": {
+      "book": "ct",
+      "page": "40"
+    }
   },
   "effects": [],
   "flags": {

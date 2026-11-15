@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Body +(level+1) (the book's example: Level 2 adds 3); Impact Armor ½ level rounded up. (Cybertechnology, table p.99, p.28.)",
-    "armorImpact": 1
+    "armorImpact": 1,
+    "citation": {
+      "book": "ct",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {

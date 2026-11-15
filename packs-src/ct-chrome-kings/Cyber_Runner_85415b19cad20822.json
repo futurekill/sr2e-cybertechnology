@@ -452,7 +452,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "−2 TN to Skill Tests involving balance (climbing, narrow platforms, landing a jump); −2 in the character's favor to avoid Knockdown (SRII pp.91–92, 103). (Cybertechnology, table p.95, p.24.) As printed: Balance Augmentor."
+        "notes": "−2 TN to Skill Tests involving balance (climbing, narrow platforms, landing a jump); −2 in the character's favor to avoid Knockdown (SRII pp.91–92, 103). (Cybertechnology, table p.95, p.24.) As printed: Balance Augmentor.",
+        "citation": {
+          "book": "ct",
+          "page": "24"
+        }
       },
       "effects": [],
       "flags": {
@@ -510,7 +514,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.96.) As printed: Bone Lacing (Plastic).",
-        "unarmedPowerBonus": 1
+        "unarmedPowerBonus": 1,
+        "citation": {
+          "book": "ct",
+          "page": "96"
+        }
       },
       "effects": [],
       "flags": {
@@ -595,7 +603,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Low-Light, Rangefinder, Thermographic)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Low-Light, Rangefinder, Thermographic).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -659,7 +671,11 @@
         "skill": "unarmed_combat",
         "damageCode": "(Str+3)L",
         "damageType": "physical",
-        "reach": 0
+        "reach": 0,
+        "citation": {
+          "book": "ct",
+          "page": "36"
+        }
       },
       "effects": [],
       "flags": {
@@ -716,7 +732,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Reaction +1 per point, up to +6 for player characters. Compatible with all other Reaction/Initiative boosters except move-by-wire (p.39) and the adrenal pump (Shadowtech p.19). (Cybertechnology, table p.99, p.38.) As printed: Reaction Enhancer (+4)."
+        "notes": "Reaction +1 per point, up to +6 for player characters. Compatible with all other Reaction/Initiative boosters except move-by-wire (p.39) and the adrenal pump (Shadowtech p.19). (Cybertechnology, table p.99, p.38.) As printed: Reaction Enhancer (+4).",
+        "citation": {
+          "book": "ct",
+          "page": "38"
+        }
       },
       "effects": [],
       "flags": {
@@ -775,7 +795,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II.",
-        "combatTnMod": -2
+        "combatTnMod": -2,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -832,7 +856,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (2) (alpha)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (2) (alpha).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -978,7 +1006,11 @@
         "activeSkillDice": 0,
         "damageCompensator": true,
         "ignoresStunPenalty": false,
-        "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+        "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+        "citation": {
+          "book": "st",
+          "page": "7"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1033,7 +1065,11 @@
         "activeSkillDice": 1,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34)."
+        "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34).",
+        "citation": {
+          "book": "st",
+          "page": "34"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1107,7 +1143,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16)."
+        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16).",
+        "citation": {
+          "book": "st",
+          "page": "16"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1181,7 +1221,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Secreted pheromones add +1 Charisma per Level to Charisma and Social Skill Tests (no effect on the astrally active or non-humanoids). Cultured doubles the effect (Shadowtech p.18)."
+        "notes": "Secreted pheromones add +1 Charisma per Level to Charisma and Social Skill Tests (no effect on the astrally active or non-humanoids). Cultured doubles the effect (Shadowtech p.18).",
+        "citation": {
+          "book": "st",
+          "page": "18"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1278,7 +1322,11 @@
         "equipped": true,
         "isLayered": false,
         "notes": "SR2E p.242. Available from chic street styling to macho militarism. Substantial protection in a practical package.",
-        "streetIndex": 0.75
+        "streetIndex": 0.75,
+        "citation": {
+          "book": "sr2",
+          "page": "242"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1338,7 +1386,11 @@
         "streetIndex": "2",
         "equipped": false,
         "accessories": [],
-        "notes": "Selective-fire combat shotgun (single-action or burst); custom folding stock (+1 RR when extended; −2 recoil modifier) and Smartlink II hardware. Top accessories. Fields of Fire p.37."
+        "notes": "Selective-fire combat shotgun (single-action or burst); custom folding stock (+1 RR when extended; −2 recoil modifier) and Smartlink II hardware. Top accessories. Fields of Fire p.37.",
+        "citation": {
+          "book": "ff",
+          "page": "37"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1457,7 +1509,11 @@
         "equipped": false,
         "accessories": [],
         "notes": "SR2E p.230. A tiny hold-out pistol small enough to palm. Fires two rounds, SS mode only. Extremely concealable.",
-        "streetIndex": 0.75
+        "streetIndex": 0.75,
+        "citation": {
+          "book": "sr2",
+          "page": "230"
+        }
       },
       "effects": [],
       "flags": {},

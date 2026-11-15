@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "+1 Quickness, +2 Reaction, +1D6 Initiative, +1 die for Athletics and Stealth tests. Not compatible with any other Reaction/Initiative-enhancing cyber- or bioware. Complications: Cyberware Rules pp.54–55. (Cybertechnology, table p.98, p.39.)"
+    "notes": "+1 Quickness, +2 Reaction, +1D6 Initiative, +1 die for Athletics and Stealth tests. Not compatible with any other Reaction/Initiative-enhancing cyber- or bioware. Complications: Cyberware Rules pp.54–55. (Cybertechnology, table p.98, p.39.)",
+    "citation": {
+      "book": "ct",
+      "page": "39"
+    }
   },
   "effects": [],
   "flags": {

@@ -28,7 +28,11 @@
     "modules": [],
     "notes": "+1 Ballistic and +1 Impact per level, as hardened armor per the critter power Hardened Armor (SRII p.218). Also on cyberlimbs (Cyberware Rules p.49). (Cybertechnology, table p.96, p.37.)",
     "armorBallistic": 4,
-    "armorImpact": 4
+    "armorImpact": 4,
+    "citation": {
+      "book": "ct",
+      "page": "37"
+    }
   },
   "effects": [],
   "flags": {

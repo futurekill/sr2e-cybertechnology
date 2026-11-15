@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "(Cybertechnology, table p.96.)",
-    "unarmedPowerBonus": 1
+    "unarmedPowerBonus": 1,
+    "citation": {
+      "book": "ct",
+      "page": "96"
+    }
   },
   "effects": [],
   "flags": {

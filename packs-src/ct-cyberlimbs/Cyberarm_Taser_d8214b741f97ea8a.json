@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Works like a taser pistol: 10S, same ranges as the standard taser (SRII p.103), two shots before recharging. (Cybertechnology, table p.98, p.36.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "36"
+    }
   },
   "effects": [],
   "flags": {

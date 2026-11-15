@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Per limb, points 4+. See Cyberware Rules pp.50–51. (Cybertechnology, table p.98, p.31.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "+1 Body. Also halves (round up) the extra Essence of Strength or Quickness enhancements beyond 3 points (Limb Enhancements p.31; Cyberware Rules p.49). Framework and protection for other cybersystems. (Cybertechnology, table p.96, p.37.)"
+    "notes": "+1 Body. Also halves (round up) the extra Essence of Strength or Quickness enhancements beyond 3 points (Limb Enhancements p.31; Cyberware Rules p.49). Framework and protection for other cybersystems. (Cybertechnology, table p.96, p.37.)",
+    "citation": {
+      "book": "ct",
+      "page": "37"
+    }
   },
   "effects": [],
   "flags": {

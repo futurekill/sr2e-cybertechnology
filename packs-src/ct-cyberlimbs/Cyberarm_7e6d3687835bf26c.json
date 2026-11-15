@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.)"
+    "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.)",
+    "citation": {
+      "book": "ct",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {

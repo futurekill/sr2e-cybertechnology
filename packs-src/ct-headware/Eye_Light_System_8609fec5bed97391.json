@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Polarized beam along the line of sight; enough light to see by with low-light eyes; not visible unless someone stares straight at you. (Cybertechnology, table p.96, p.21.)"
+    "notes": "Polarized beam along the line of sight; enough light to see by with low-light eyes; not visible unless someone stares straight at you. (Cybertechnology, table p.96, p.21.)",
+    "citation": {
+      "book": "ct",
+      "page": "21"
+    }
   },
   "effects": [],
   "flags": {

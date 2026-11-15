@@ -16,7 +16,11 @@
     "streetIndex": 1.25,
     "notes": "(Cybertechnology, table p.99.) Cost Mp x 50¥ (by the chip's Memory, Mp); Concealability 24.",
     "grantedSkillCategory": "language",
-    "slotted": false
+    "slotted": false,
+    "citation": {
+      "book": "ct",
+      "page": "99"
+    }
   },
   "effects": [],
   "flags": {

@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Body +(level+1); Impact Armor ½ level rounded up. Variable coloration: Coloration Adaptation. Only a Deadly Wound permanently reduces it. Repairs 6,500¥/point (1,400¥ materials), Biotech (4), Base Time 5 hours. Spray sealer within 12 hours prevents scarring (1,200¥/10); unsprayed: Minor scarring (p.56). Can't combine with dermal plating (remove the plating first). Orthoskin (Shadowtech p.17) is incompatible. (Cybertechnology, table p.99, p.28, p.48.)",
-    "armorImpact": 1
+    "armorImpact": 1,
+    "citation": {
+      "book": "ct",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {

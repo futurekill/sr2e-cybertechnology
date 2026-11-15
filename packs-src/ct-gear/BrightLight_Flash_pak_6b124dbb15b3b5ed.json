@@ -14,7 +14,11 @@
     "equipped": false,
     "concealability": 0,
     "streetIndex": 3,
-    "notes": "Reusable flash, works like a flash-pak. Reusable flash: as a flash-pak (SSC p.45): +4 TN to opponents' ranged attacks (+2 with flare compensation), −1 per 5 m of distance; negates poor/absent lighting; the strobe gives the user +2 to all TNs. Three flashes per battery; a replacement battery is 150¥ and takes 10 minutes. Priced as an addition to the BrightLight system. (Cybertechnology, table p.96, p.21, p.46.)"
+    "notes": "Reusable flash, works like a flash-pak. Reusable flash: as a flash-pak (SSC p.45): +4 TN to opponents' ranged attacks (+2 with flare compensation), −1 per 5 m of distance; negates poor/absent lighting; the strobe gives the user +2 to all TNs. Three flashes per battery; a replacement battery is 150¥ and takes 10 minutes. Priced as an addition to the BrightLight system. (Cybertechnology, table p.96, p.21, p.46.)",
+    "citation": {
+      "book": "ct",
+      "page": "21"
+    }
   },
   "effects": [],
   "flags": {

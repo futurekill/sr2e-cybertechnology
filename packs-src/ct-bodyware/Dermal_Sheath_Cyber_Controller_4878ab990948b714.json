@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Varies the coloration intensity in 10% steps. (Cybertechnology, table p.99, p.28.)"
+    "notes": "Varies the coloration intensity in 10% steps. (Cybertechnology, table p.99, p.28.)",
+    "citation": {
+      "book": "ct",
+      "page": "28"
+    }
   },
   "effects": [],
   "flags": {

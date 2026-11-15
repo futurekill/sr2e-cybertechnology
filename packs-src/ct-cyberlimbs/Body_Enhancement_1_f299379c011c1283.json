@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "See Cyberware Rules p.51 (pairs only). (Cybertechnology, table p.98, p.31.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "31"
+    }
   },
   "effects": [],
   "flags": {

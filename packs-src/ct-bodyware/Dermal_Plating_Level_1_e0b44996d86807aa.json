@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Serious/Deadly damage to plating needs spray bonder within 24 hours, or each later Serious/Deadly wound (non-explosive, non-magical) rolls 2D6: under the count of failures → plating −1 (cumulative). Street-doc repair 2,000¥ × points lost (per point), Negotiation −5%/net success, Biotech (5), 4 hours/point; DIY raw materials 400¥ × twice the points. Skin near plating scars: healing lotion (Scarring p.56). Not combinable with dermal sheathing. (Cybertechnology, table p.99, p.47.)"
+    "notes": "Serious/Deadly damage to plating needs spray bonder within 24 hours, or each later Serious/Deadly wound (non-explosive, non-magical) rolls 2D6: under the count of failures → plating −1 (cumulative). Street-doc repair 2,000¥ × points lost (per point), Negotiation −5%/net success, Biotech (5), 4 hours/point; DIY raw materials 400¥ × twice the points. Skin near plating scars: healing lotion (Scarring p.56). Not combinable with dermal sheathing. (Cybertechnology, table p.99, p.47.)",
+    "citation": {
+      "book": "ct",
+      "page": "47"
+    }
   },
   "effects": [],
   "flags": {

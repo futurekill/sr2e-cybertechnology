@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Just powerful enough to kill the bearer. Remote, timed or voice-triggered detonation. Devastating if placed near any major internal organ (heart, spinal nerve group). (Cybertechnology, table p.94, p.27, p.47.)"
+    "notes": "Just powerful enough to kill the bearer. Remote, timed or voice-triggered detonation. Devastating if placed near any major internal organ (heart, spinal nerve group). (Cybertechnology, table p.94, p.27, p.47.)",
+    "citation": {
+      "book": "ct",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {

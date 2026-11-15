@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Mounted under the skin behind the ear; sound over them cannot be overheard. (Cybertechnology, table p.95, p.18.)"
+    "notes": "Mounted under the skin behind the ear; sound over them cannot be overheard. (Cybertechnology, table p.95, p.18.)",
+    "citation": {
+      "book": "ct",
+      "page": "18"
+    }
   },
   "effects": [],
   "flags": {

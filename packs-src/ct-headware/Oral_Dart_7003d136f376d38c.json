@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Fires Narcoject/toxin rounds at hold-out pistol ranges. Holds three darts; reloading takes 1 minute per dart. Ammo costs double. Special Skill or Quickness for the Ranged Combat Test. No aim enhancers. Safety: fires only with the mouth open. (Cybertechnology, table p.96, p.25.)"
+    "notes": "Fires Narcoject/toxin rounds at hold-out pistol ranges. Holds three darts; reloading takes 1 minute per dart. Ammo costs double. Special Skill or Quickness for the Ranged Combat Test. No aim enhancers. Safety: fires only with the mouth open. (Cybertechnology, table p.96, p.25.)",
+    "citation": {
+      "book": "ct",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {

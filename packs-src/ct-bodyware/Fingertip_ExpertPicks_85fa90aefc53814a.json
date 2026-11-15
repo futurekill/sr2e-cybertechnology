@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Requires a fingertip compartment. Lock picks, Skill Rating 3; using them is a Complex Action. Opposed Test between the lock's rating (key-and-tumbler usually 2 or 3) and the ExpertPicks. (Cybertechnology, table p.96, p.29.)"
+    "notes": "Requires a fingertip compartment. Lock picks, Skill Rating 3; using them is a Complex Action. Opposed Test between the lock's rating (key-and-tumbler usually 2 or 3) and the ExpertPicks. (Cybertechnology, table p.96, p.29.)",
+    "citation": {
+      "book": "ct",
+      "page": "29"
+    }
   },
   "effects": [],
   "flags": {

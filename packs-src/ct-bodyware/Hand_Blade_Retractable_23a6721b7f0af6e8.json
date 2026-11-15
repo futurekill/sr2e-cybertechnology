@@ -32,7 +32,11 @@
     "skill": "unarmed_combat",
     "damageCode": "(Str+3)L",
     "damageType": "physical",
-    "reach": 0
+    "reach": 0,
+    "citation": {
+      "book": "ct",
+      "page": "36"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "−2 TN to Perception Tests based primarily on sound location when tracking by listening for movement. Restricted vision: Cyberware Rules p.46. GM option: −1 TN to Perception Tests to locate something moving around a corner or in a maze, only in visually dull environments; useless when visual input dominates. (Cybertechnology, table p.95, p.24, p.46.)"
+    "notes": "−2 TN to Perception Tests based primarily on sound location when tracking by listening for movement. Restricted vision: Cyberware Rules p.46. GM option: −1 TN to Perception Tests to locate something moving around a corner or in a maze, only in visually dull environments; useless when visual input dominates. (Cybertechnology, table p.95, p.24, p.46.)",
+    "citation": {
+      "book": "ct",
+      "page": "24"
+    }
   },
   "effects": [],
   "flags": {

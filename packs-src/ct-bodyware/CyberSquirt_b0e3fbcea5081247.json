@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "An Ares Squirt as a cyberweapon: up to 10 shots of chemical/biological agents in DMSO gel; 10 rounds, gel for 20 shots (reload the gel once per 2 cartridge reloads). Porous armor gives no protection; rigid armor (over 5, or plated) applies half its rating (round up). DMSO: Shadowtech p.92. (Cybertechnology, table p.96, p.36.)"
+    "notes": "An Ares Squirt as a cyberweapon: up to 10 shots of chemical/biological agents in DMSO gel; 10 rounds, gel for 20 shots (reload the gel once per 2 cartridge reloads). Porous armor gives no protection; rigid armor (over 5, or plated) applies half its rating (round up). DMSO: Shadowtech p.92. (Cybertechnology, table p.96, p.36.)",
+    "citation": {
+      "book": "ct",
+      "page": "36"
+    }
   },
   "effects": [],
   "flags": {

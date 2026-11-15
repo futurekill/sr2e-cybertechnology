@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "(Cybertechnology, table p.94.)"
+    "notes": "(Cybertechnology, table p.94.)",
+    "citation": {
+      "book": "ct",
+      "page": "94"
+    }
   },
   "effects": [],
   "flags": {

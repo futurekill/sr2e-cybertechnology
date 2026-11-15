@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Kills the bearer and anyone too close. Bought at Power 3–8 and Damage Level M–D; blast −1 per meter. Kills the bearer regardless of blast size. (Rules p.47: 300,000¥ minimum.) The area bomb kills no matter where it's placed. GM may adjust the price by Damage Code; consider a minimum of 300,000¥ for the weakest. (Cybertechnology, table p.94, p.27, p.47.)"
+    "notes": "Kills the bearer and anyone too close. Bought at Power 3–8 and Damage Level M–D; blast −1 per meter. Kills the bearer regardless of blast size. (Rules p.47: 300,000¥ minimum.) The area bomb kills no matter where it's placed. GM may adjust the price by Damage Code; consider a minimum of 300,000¥ for the weakest. (Cybertechnology, table p.94, p.27, p.47.)",
+    "citation": {
+      "book": "ct",
+      "page": "27"
+    }
   },
   "effects": [],
   "flags": {

@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Time/date stamp in the field of vision; stopwatch and countdown timer. (Cybertechnology, table p.95, p.19.)"
+    "notes": "Time/date stamp in the field of vision; stopwatch and countdown timer. (Cybertechnology, table p.95, p.19.)",
+    "citation": {
+      "book": "ct",
+      "page": "19"
+    }
   },
   "effects": [],
   "flags": {

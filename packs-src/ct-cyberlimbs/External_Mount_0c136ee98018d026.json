@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Cyberarm hardpoint with a cybernetic connection to a mounted weapon (cybergun equivalents, smartgun-capable). Attaching/detaching: Complex Action. Light, heavy or machine pistols and SMGs; double the weapon's cost. External 50-round pods, one at a time. At 4x price it retracts into a cyberarm with a Body enhancement of at least +1. (Cybertechnology, table p.99, p.40.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "40"
+    }
   },
   "effects": [],
   "flags": {

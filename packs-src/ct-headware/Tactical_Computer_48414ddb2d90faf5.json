@@ -56,7 +56,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Cyberarm versions work like the cranial versions (Shadowtech pp.53 and 63). Ruling: Ship Levels 3 (4.5 Essence) and 4 (5 Essence) as printed (Estimated), 0¥, notes: CLASSIFIED — the GM sets price, availability and Street Index. (Cybertechnology, table p.94, p.34.)",
-    "isTacticalComputer": true
+    "isTacticalComputer": true,
+    "citation": {
+      "book": "ct",
+      "page": "34"
+    }
   },
   "effects": [],
   "flags": {

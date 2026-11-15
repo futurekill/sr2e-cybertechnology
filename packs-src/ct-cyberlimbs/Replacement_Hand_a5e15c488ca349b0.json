@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Attaching/removing takes a free hand and a Complex Action. Tool and gear/weapon hands at +30% of the item's cost; a weapon built into a replacement hand takes +1 TN on Combat Tests. (Cybertechnology, table p.98, p.34.)"
+    "notes": "Attaching/removing takes a free hand and a Complex Action. Tool and gear/weapon hands at +30% of the item's cost; a weapon built into a replacement hand takes +1 TN on Combat Tests. (Cybertechnology, table p.98, p.34.)",
+    "citation": {
+      "book": "ct",
+      "page": "34"
+    }
   },
   "effects": [],
   "flags": {

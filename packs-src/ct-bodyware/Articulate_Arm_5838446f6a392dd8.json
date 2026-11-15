@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Like a tracking mount with full 360° coverage, usually anchored to a cybertorso. All light weapons up to a light machine gun. 3 points of Recoil Reduction plus laser-sight modifiers. (Cybertechnology, table p.99, p.40.)"
+    "notes": "Like a tracking mount with full 360° coverage, usually anchored to a cybertorso. All light weapons up to a light machine gun. 3 points of Recoil Reduction plus laser-sight modifiers. (Cybertechnology, table p.99, p.40.)",
+    "citation": {
+      "book": "ct",
+      "page": "40"
+    }
   },
   "effects": [],
   "flags": {

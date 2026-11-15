@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Reaction +1 per point, up to +6 for player characters. Compatible with all other Reaction/Initiative boosters except move-by-wire (p.39) and the adrenal pump (Shadowtech p.19). (Cybertechnology, table p.99, p.38.)"
+    "notes": "Reaction +1 per point, up to +6 for player characters. Compatible with all other Reaction/Initiative boosters except move-by-wire (p.39) and the adrenal pump (Shadowtech p.19). (Cybertechnology, table p.99, p.38.)",
+    "citation": {
+      "book": "ct",
+      "page": "38"
+    }
   },
   "effects": [],
   "flags": {

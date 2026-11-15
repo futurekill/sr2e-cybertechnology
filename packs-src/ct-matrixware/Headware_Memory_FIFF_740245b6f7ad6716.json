@@ -97,7 +97,11 @@
     ],
     "capacity": 0,
     "modules": [],
-    "notes": "Rating = memory in Mp. (Cybertechnology, table p.94.)"
+    "notes": "Rating = memory in Mp. (Cybertechnology, table p.94.)",
+    "citation": {
+      "book": "ct",
+      "page": "94"
+    }
   },
   "effects": [],
   "flags": {

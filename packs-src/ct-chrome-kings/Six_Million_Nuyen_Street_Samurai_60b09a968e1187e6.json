@@ -376,7 +376,11 @@
         ],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Blood Filter (2) (beta)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Blood Filter (2) (beta).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -461,7 +465,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (beta) (Flare Compensation, Low-Light, Thermographic)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (beta) (Flare Compensation, Low-Light, Thermographic).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -520,7 +528,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.97.) As printed: Muscle Replacement 2 (beta).",
-        "noReactionBonus": true
+        "noReactionBonus": true,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -583,7 +595,11 @@
         "skill": "unarmed_combat",
         "damageCode": "(Str+2)L",
         "damageType": "physical",
-        "reach": 0
+        "reach": 0,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -641,7 +657,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II (2) (beta).",
-        "combatTnMod": -2
+        "combatTnMod": -2,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -698,7 +718,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (3) (beta)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Wired Reflexes (3) (beta).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -756,7 +780,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator (delta)."
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator (delta).",
+        "citation": {
+          "book": "ct",
+          "page": "80"
+        }
       },
       "effects": [],
       "flags": {
@@ -815,7 +843,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Body +(level+1) (the book's example: Level 2 adds 3); Impact Armor ½ level rounded up. (Cybertechnology, table p.99, p.28.) As printed: Dermal Sheath 2 (delta).",
-        "armorImpact": 1
+        "armorImpact": 1,
+        "citation": {
+          "book": "ct",
+          "page": "28"
+        }
       },
       "effects": [],
       "flags": {
@@ -898,7 +930,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19)."
+        "notes": "Triggered. When activated (a light wound, a Willpower (6) Test, or an ACTH inhaler), each Level adds +1 Quickness, +1 Strength, +1 Willpower, +2 Reaction for 1D6 turns per Level (this Quickness does NOT raise Reaction). When it ends the user takes Deadly Stun — Power ½ the turns active (round down), Staging 2, resisted with Body — and cannot fire again that encounter (Shadowtech p.19).",
+        "citation": {
+          "book": "st",
+          "page": "19"
+        }
       },
       "effects": [],
       "flags": {
@@ -1039,7 +1075,11 @@
         "activeSkillDice": 0,
         "damageCompensator": true,
         "ignoresStunPenalty": false,
-        "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+        "notes": "Ignores Initiative and target-number wound penalties as long as damage stays at or below the compensator's Level (physical and mental tracked separately). Once a track exceeds the Level, its penalties apply in full (0.2 Body Cost per Level; cost tiers by band, Shadowtech p.24). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+        "citation": {
+          "book": "st",
+          "page": "7"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1094,7 +1134,11 @@
         "activeSkillDice": 1,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34)."
+        "notes": "Fluid joints and tendons: +1 die to any Active Skill Success Test (automated — applies to skill rolls AND weapon attacks; RAW that includes Sorcery/Conjuring and the social skills, since SR2 counts them as Active Skills), and +1 Reaction (automatically excluded from rigging and pure cyber-decking) (Shadowtech p.34).",
+        "citation": {
+          "book": "st",
+          "page": "34"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1177,7 +1221,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "An energy-diffusing weave under the skin granting subdermal armor (adds to worn armor; not compatible with dermal plating) — Level 1 +1 Impact, Level 2 +1 Impact/+1 Ballistic, Level 3 +2 Impact/+1 Ballistic (Shadowtech p.17)."
+        "notes": "An energy-diffusing weave under the skin granting subdermal armor (adds to worn armor; not compatible with dermal plating) — Level 1 +1 Impact, Level 2 +1 Impact/+1 Ballistic, Level 3 +2 Impact/+1 Ballistic (Shadowtech p.17).",
+        "citation": {
+          "book": "st",
+          "page": "17"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1232,7 +1280,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Supercharged metabolism: +1 Body, +1 Quickness, +1 Strength, +1 Reaction (the Quickness also feeds Reaction). Requires double food/drink; radiates heat (−1 TN for thermographic observers to notice). The Reaction bonus doesn't help rigging or decking (Shadowtech p.20)."
+        "notes": "Supercharged metabolism: +1 Body, +1 Quickness, +1 Strength, +1 Reaction (the Quickness also feeds Reaction). Requires double food/drink; radiates heat (−1 TN for thermographic observers to notice). The Reaction bonus doesn't help rigging or decking (Shadowtech p.20).",
+        "citation": {
+          "book": "st",
+          "page": "20"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1306,7 +1358,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16)."
+        "notes": "Enhanced myocardium: add Rating dice to Athletics Tests and other sustained-exertion checks (Shadowtech p.16).",
+        "citation": {
+          "book": "st",
+          "page": "16"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1403,7 +1459,11 @@
         "equipped": true,
         "isLayered": false,
         "notes": "SR2E p.242. Available from chic street styling to macho militarism. Substantial protection in a practical package.",
-        "streetIndex": 0.75
+        "streetIndex": 0.75,
+        "citation": {
+          "book": "sr2",
+          "page": "242"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1462,7 +1522,11 @@
         "equipped": false,
         "accessories": [],
         "notes": "SR2E p.232. The latest in the venerable Uzi lineage—compact, reliable, and effective in close quarters. BF capable.",
-        "streetIndex": 0.75
+        "streetIndex": 0.75,
+        "citation": {
+          "book": "sr2",
+          "page": "232"
+        }
       },
       "effects": [],
       "flags": {},

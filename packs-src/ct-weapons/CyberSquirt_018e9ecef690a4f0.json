@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "An Ares Squirt as a cyberweapon: chemical/biological agents in DMSO gel; 10 rounds, gel for 20 shots. Porous armor no protection; rigid armor (over 5, or plated) half (round up). DMSO: Shadowtech p.92. RANGES: the Ares Squirt's (SSC); confirm against SSC before relying on them. Implant weapon: pair with the cybersquirt cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.36.)"
+    "notes": "An Ares Squirt as a cyberweapon: chemical/biological agents in DMSO gel; 10 rounds, gel for 20 shots. Porous armor no protection; rigid armor (over 5, or plated) half (round up). DMSO: Shadowtech p.92. RANGES: the Ares Squirt's (SSC); confirm against SSC before relying on them. Implant weapon: pair with the cybersquirt cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.36.)",
+    "citation": {
+      "book": "ct",
+      "page": "36"
+    }
   },
   "effects": [],
   "flags": {

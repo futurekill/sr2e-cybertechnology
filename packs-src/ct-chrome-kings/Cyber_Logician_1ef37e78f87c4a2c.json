@@ -533,7 +533,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.95.) As printed: Commlink IV."
+        "notes": "(Cybertechnology, table p.95.) As printed: Commlink IV.",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -661,7 +665,11 @@
         ],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.95.) As printed: Crypto Circuit 10."
+        "notes": "(Cybertechnology, table p.95.) As printed: Crypto Circuit 10.",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -719,7 +727,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberarms (left/right: Strength +4, Quickness +6, Body +2).",
-        "side": "left"
+        "side": "left",
+        "citation": {
+          "book": "ct",
+          "page": "30"
+        }
       },
       "effects": [],
       "flags": {
@@ -778,7 +790,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Adds to the Power of unarmed attacks with that limb (Cyberware Rules p.49). Reduces Essence loss for cyberware entirely within the limb with minimal neural connections. (Cybertechnology, table p.98, p.30.) As printed: Cyberarms (left/right: Strength +4, Quickness +6, Body +2).",
-        "side": "right"
+        "side": "right",
+        "citation": {
+          "book": "ct",
+          "page": "30"
+        }
       },
       "effects": [],
       "flags": {
@@ -837,7 +853,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Standard decks: price x4, Availability TN +25% (round up), Base Time x2. Cranial decks in the arm: Shadowtech p.38; each component's build TN +2 and its cost and Base Time +20%. Price as printed: see text (the GM sets it). (Cybertechnology, table p.98, p.35.) As printed: Cyberlimb Cyberdeck (MPCP 8, Hardening +6, Persona 8, Increased Response +3, Internal Memory 1,200 Mp).",
-        "limbOption": true
+        "limbOption": true,
+        "citation": {
+          "book": "ct",
+          "page": "35"
+        }
       },
       "effects": [],
       "flags": {
@@ -894,7 +914,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.96.) As printed: Fingertip Compartment."
+        "notes": "(Cybertechnology, table p.96.) As printed: Fingertip Compartment.",
+        "citation": {
+          "book": "ct",
+          "page": "96"
+        }
       },
       "effects": [],
       "flags": {
@@ -951,7 +975,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Requires a fingertip compartment (SRII p.249). Price per standard datajack; the fingertip plugs into the jack when not in use. (Cybertechnology, table p.94, p.29.) As printed: Fingertip Datajack."
+        "notes": "Requires a fingertip compartment (SRII p.249). Price per standard datajack; the fingertip plugs into the jack when not in use. (Cybertechnology, table p.94, p.29.) As printed: Fingertip Datajack.",
+        "citation": {
+          "book": "ct",
+          "page": "29"
+        }
       },
       "effects": [],
       "flags": {
@@ -1038,7 +1066,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "Cyberarm versions work like the cranial versions (Shadowtech pp.53 and 63). Ruling: Ship Levels 3 (4.5 Essence) and 4 (5 Essence) as printed (Estimated), 0¥, notes: CLASSIFIED — the GM sets price, availability and Street Index. (Cybertechnology, table p.94, p.34.) As printed: Tactical Computer (Level 4, w. Orientation System).",
-        "isTacticalComputer": true
+        "isTacticalComputer": true,
+        "citation": {
+          "book": "ct",
+          "page": "34"
+        }
       },
       "effects": [],
       "flags": {
@@ -1096,7 +1128,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.) As printed: Cybercomm Link."
+        "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.) As printed: Cybercomm Link.",
+        "citation": {
+          "book": "ct",
+          "page": "18"
+        }
       },
       "effects": [],
       "flags": {
@@ -1181,7 +1217,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (High- and Low-Frequency, Recorder)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cyberears (High- and Low-Frequency, Recorder).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -1303,7 +1343,11 @@
             "notes": ""
           }
         ],
-        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Camera, Eye Light System w/BrightLight, Low-Light, Rangefinder, Thermographic, Flare Compensation)."
+        "notes": "(Cybertechnology, table p.95.) As printed: Cybereyes (Camera, Eye Light System w/BrightLight, Low-Light, Rangefinder, Thermographic, Flare Compensation).",
+        "citation": {
+          "book": "ct",
+          "page": "95"
+        }
       },
       "effects": [],
       "flags": {
@@ -1361,7 +1405,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "+1 Body. (Cybertechnology, table p.96, p.37.) As printed: Cyberskull."
+        "notes": "+1 Body. (Cybertechnology, table p.96, p.37.) As printed: Cyberskull.",
+        "citation": {
+          "book": "ct",
+          "page": "37"
+        }
       },
       "effects": [],
       "flags": {
@@ -1419,7 +1467,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.94.) As printed: Datajack (Head)."
+        "notes": "(Cybertechnology, table p.94.) As printed: Datajack (Head).",
+        "citation": {
+          "book": "ct",
+          "page": "94"
+        }
       },
       "effects": [],
       "flags": {
@@ -1476,7 +1528,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator."
+        "notes": "Automatically received in every cybermantic operation (.25 Essence, 137,750¥), counted in the intended Essence for the survival test. Cybermancy rules p.80. (The sr2e system's optional Cybermancy operation adds it once, automatically.) (Cybertechnology, table p.97, p.80.) As printed: Invoked Memory Stimulator.",
+        "citation": {
+          "book": "ct",
+          "page": "80"
+        }
       },
       "effects": [],
       "flags": {
@@ -1598,7 +1654,11 @@
         ],
         "capacity": 0,
         "modules": [],
-        "notes": "(Cybertechnology, table p.99.) As printed: Skillwire (Small-Unit Tactics, Rating 9)."
+        "notes": "(Cybertechnology, table p.99.) As printed: Skillwire (Small-Unit Tactics, Rating 9).",
+        "citation": {
+          "book": "ct",
+          "page": "99"
+        }
       },
       "effects": [],
       "flags": {
@@ -1656,7 +1716,11 @@
         "capacity": 0,
         "modules": [],
         "notes": "(Cybertechnology, table p.97.) As printed: Smartlink II.",
-        "combatTnMod": -2
+        "combatTnMod": -2,
+        "citation": {
+          "book": "ct",
+          "page": "97"
+        }
       },
       "effects": [],
       "flags": {
@@ -1713,7 +1777,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "Mounted under the skin behind the ear; sound over them cannot be overheard. (Cybertechnology, table p.95, p.18.) As printed: Subdermal Speakers."
+        "notes": "Mounted under the skin behind the ear; sound over them cannot be overheard. (Cybertechnology, table p.95, p.18.) As printed: Subdermal Speakers.",
+        "citation": {
+          "book": "ct",
+          "page": "18"
+        }
       },
       "effects": [],
       "flags": {
@@ -1770,7 +1838,11 @@
         "ratingStats": [],
         "capacity": 0,
         "modules": [],
-        "notes": "+4 TN to Perception Tests to overhear conversations using it. Connects to an external radio through a datajack (required). (Cybertechnology, table p.95, p.18.) As printed: Subvocal Microphones."
+        "notes": "+4 TN to Perception Tests to overhear conversations using it. Connects to an external radio through a datajack (required). (Cybertechnology, table p.95, p.18.) As printed: Subvocal Microphones.",
+        "citation": {
+          "book": "ct",
+          "page": "18"
+        }
       },
       "effects": [],
       "flags": {
@@ -1852,7 +1924,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "+1 Intelligence per Level (the Intelligence gain also raises Reaction). Level 2 additionally grants a Task Pool equal to its Level for Technical/Knowledge/B&R skills (tracked by hand) (Shadowtech p.23). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+        "notes": "+1 Intelligence per Level (the Intelligence gain also raises Reaction). Level 2 additionally grants a Task Pool equal to its Level for Technical/Knowledge/B&R skills (tracked by hand) (Shadowtech p.23). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+        "citation": {
+          "book": "st",
+          "page": "23"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1935,7 +2011,11 @@
         "activeSkillDice": 0,
         "damageCompensator": false,
         "ignoresStunPenalty": false,
-        "notes": "+1 die per Level to Intelligence Tests to recall information, and +1 die per 2 Levels to Knowledge and Language Success Tests. Max Level = unaugmented Body (Shadowtech p.25). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade."
+        "notes": "+1 die per Level to Intelligence Tests to recall information, and +1 die per 2 Levels to Knowledge and Language Success Tests. Max Level = unaugmented Body (Shadowtech p.25). Neural bioware — inherently cultured; the listed Body Cost already includes the 25% reduction (Shadowtech p.7), so it is recorded at standard grade.",
+        "citation": {
+          "book": "st",
+          "page": "25"
+        }
       },
       "effects": [],
       "flags": {},
@@ -1995,7 +2075,11 @@
         "streetIndex": "4",
         "equipped": false,
         "accessories": [],
-        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33."
+        "notes": "Premium assault rifle with integral full-function Smartlink Level II, an integral mini-grenade launcher (8 mini-grenades, fired SS), and chamber-based recoil (+2 RR). Under-barrel + top accessories, no barrel-mounted. Fields of Fire p.33.",
+        "citation": {
+          "book": "ff",
+          "page": "33"
+        }
       },
       "effects": [],
       "flags": {},

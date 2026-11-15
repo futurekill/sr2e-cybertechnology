@@ -27,7 +27,11 @@
     "capacity": 0,
     "modules": [],
     "notes": "Natural-looking skin over the cyberlimb: +3 TN to visual Perception Tests to notice it; clothing +3 more at the GM's discretion. (Cybertechnology, table p.98, p.30.)",
-    "limbOption": true
+    "limbOption": true,
+    "citation": {
+      "book": "ct",
+      "page": "30"
+    }
   },
   "effects": [],
   "flags": {

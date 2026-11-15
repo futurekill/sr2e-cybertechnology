@@ -111,7 +111,11 @@
     ],
     "capacity": 0,
     "modules": [],
-    "notes": "(Cybertechnology, table p.96.)"
+    "notes": "(Cybertechnology, table p.96.)",
+    "citation": {
+      "book": "ct",
+      "page": "96"
+    }
   },
   "effects": [],
   "flags": {

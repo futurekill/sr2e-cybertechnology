@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Ties into a cyberlimb or external weapon mount and auto-tracks a designated target (no separate designator needed). (Cybertechnology, table p.96, p.23.)"
+    "notes": "Ties into a cyberlimb or external weapon mount and auto-tracks a designated target (no separate designator needed). (Cybertechnology, table p.96, p.23.)",
+    "citation": {
+      "book": "ct",
+      "page": "23"
+    }
   },
   "effects": [],
   "flags": {

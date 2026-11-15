@@ -28,7 +28,11 @@
     "modules": [],
     "notes": "Price as printed: see text (the GM sets it). (Cybertechnology, table p.98.)",
     "limbOption": true,
-    "costPerRating": 150000
+    "costPerRating": 150000,
+    "citation": {
+      "book": "ct",
+      "page": "98"
+    }
   },
   "effects": [],
   "flags": {

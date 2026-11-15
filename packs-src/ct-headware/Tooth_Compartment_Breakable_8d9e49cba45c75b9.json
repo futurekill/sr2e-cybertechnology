@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Breaking it: Willpower (2) Test if the contents are non-lethal, Willpower (4) if lethal. Contents take effect immediately. Contents removed or replaced in three minutes. (Cybertechnology, table p.96, p.26.)"
+    "notes": "Breaking it: Willpower (2) Test if the contents are non-lethal, Willpower (4) if lethal. Contents take effect immediately. Contents removed or replaced in three minutes. (Cybertechnology, table p.96, p.26.)",
+    "citation": {
+      "book": "ct",
+      "page": "26"
+    }
   },
   "effects": [],
   "flags": {

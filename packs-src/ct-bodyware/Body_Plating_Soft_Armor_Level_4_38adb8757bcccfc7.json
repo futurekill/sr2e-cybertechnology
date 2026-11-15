@@ -28,7 +28,11 @@
     "modules": [],
     "notes": "+1 Ballistic and +1 Impact per level, cumulative with worn armor. Also on cyberlimbs (Armor, Cyberware Rules p.49). (Cybertechnology, table p.96, p.37.)",
     "armorBallistic": 4,
-    "armorImpact": 4
+    "armorImpact": 4,
+    "citation": {
+      "book": "ct",
+      "page": "37"
+    }
   },
   "effects": [],
   "flags": {

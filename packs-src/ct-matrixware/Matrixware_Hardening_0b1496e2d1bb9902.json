@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Price as printed: see text (the GM sets it). (Cybertechnology, table p.96.)"
+    "notes": "Price as printed: see text (the GM sets it). (Cybertechnology, table p.96.)",
+    "citation": {
+      "book": "ct",
+      "page": "96"
+    }
   },
   "effects": [],
   "flags": {

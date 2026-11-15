@@ -14,7 +14,11 @@
     "equipped": false,
     "concealability": 0,
     "streetIndex": 1.25,
-    "notes": "Straps to the throat. +4 TN to Perception Tests to overhear conversations using it. Connects to an external radio by fiber-optic cable. (Cybertechnology, table p.95, p.18.)"
+    "notes": "Straps to the throat. +4 TN to Perception Tests to overhear conversations using it. Connects to an external radio by fiber-optic cable. (Cybertechnology, table p.95, p.18.)",
+    "citation": {
+      "book": "ct",
+      "page": "18"
+    }
   },
   "effects": [],
   "flags": {

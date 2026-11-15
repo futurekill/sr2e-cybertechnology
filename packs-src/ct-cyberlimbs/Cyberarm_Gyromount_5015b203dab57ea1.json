@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.)"
+    "notes": "Works like a standard gyromount: 3 points of recoil reduction, any weapon up to and including a light machine gun. Counterweights at the wrist give it away. Works as a regular cyberarm (can be enhanced). (Cybertechnology, table p.98, p.33.)",
+    "citation": {
+      "book": "ct",
+      "page": "33"
+    }
   },
   "effects": [],
   "flags": {

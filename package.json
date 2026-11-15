@@ -6,7 +6,7 @@
   "scripts": {
     "build-packs": "node tools/build-packs.mjs",
     "extract-packs": "node tools/extract-packs.mjs",
-    "validate": "node tools/validate-packs.mjs",
+    "validate": "node tools/validate-packs.mjs && node tools/check-citations.mjs",
     "art": "node tools/set-art.mjs",
     "lint": "eslint .",
     "generate": "node tools/gen-items.mjs && node tools/gen-actors.mjs"

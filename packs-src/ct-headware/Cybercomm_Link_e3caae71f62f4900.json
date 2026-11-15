@@ -26,7 +26,11 @@
     "ratingStats": [],
     "capacity": 0,
     "modules": [],
-    "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.)"
+    "notes": "Transducer + radio transmitter: thoughts sent as words, no visible or audible sign. Quadruples the words allowed in a Free Action (SRII p.81). (Cybertechnology, table p.95, p.18.)",
+    "citation": {
+      "book": "ct",
+      "page": "18"
+    }
   },
   "effects": [],
   "flags": {

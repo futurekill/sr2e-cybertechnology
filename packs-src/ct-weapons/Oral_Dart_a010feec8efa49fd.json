@@ -36,7 +36,11 @@
     "equipped": false,
     "accessories": [],
     "streetIndex": 1,
-    "notes": "Narcoject/toxin rounds at hold-out pistol ranges (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0); damage from the dose. Three darts; reload 1 minute per dart. Ammo ×2. Special Skill or Quickness; no aim enhancers. Fires only with the mouth open. Implant weapon: pair with the oral-dart cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.25.)"
+    "notes": "Narcoject/toxin rounds at hold-out pistol ranges (sr2e weapons: Streetline Special ca17afcb8c61ee53 (hold-out pistol), system 0.109.0); damage from the dose. Three darts; reload 1 minute per dart. Ammo ×2. Special Skill or Quickness; no aim enhancers. Fires only with the mouth open. Implant weapon: pair with the oral-dart cyberware, which carries the Essence and price; this item costs 0¥. \"Special Skill or Quickness Test\" (the book): the system rolls its skill field, so set it by hand if your character uses a Special Skill. (Cybertechnology p.25.)",
+    "citation": {
+      "book": "ct",
+      "page": "25"
+    }
   },
   "effects": [],
   "flags": {

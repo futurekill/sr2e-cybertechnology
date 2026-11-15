@@ -32,7 +32,11 @@
     "skill": "unarmed_combat",
     "damageCode": "8S",
     "damageType": "stun",
-    "reach": 0
+    "reach": 0,
+    "citation": {
+      "book": "ct",
+      "page": "36"
+    }
   },
   "effects": [],
   "flags": {

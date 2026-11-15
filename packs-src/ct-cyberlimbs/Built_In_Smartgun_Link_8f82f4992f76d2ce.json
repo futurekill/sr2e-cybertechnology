@@ -28,7 +28,11 @@
     "modules": [],
     "notes": "(Cybertechnology, table p.98.)",
     "limbOption": true,
-    "combatTnMod": -2
+    "combatTnMod": -2,
+    "citation": {
+      "book": "ct",
+      "page": "98"
+    }
   },
   "effects": [],
   "flags": {
