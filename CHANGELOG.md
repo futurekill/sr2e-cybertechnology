@@ -1,6 +1,10 @@
 # Changelog
 
-## Unreleased
+## 0.2.0 — 2026-11-15
+
+### Added
+- The improved datajack carries its identity (Rigger 2 p.17: Perception dice while rigging) and the eye laser designator
+  its identity for indirect fire (sr2e 0.154.0, Part 4b).
 
 ## 0.1.2 — 2026-10-22
 
